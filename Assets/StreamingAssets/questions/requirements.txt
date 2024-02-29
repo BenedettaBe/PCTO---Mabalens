@@ -1,7 +1,0 @@
-install openAI library from terminal
-pip install openai
-
-get an API key
-access the openAI API Keys section
-create a new API
-check their availability in the Usage section
