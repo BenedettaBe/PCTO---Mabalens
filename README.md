@@ -1,5 +1,4 @@
-# PCTO---Mabalens
-## MABAQUIZ - a game with Microsoft Hololens 2
+# MABAQUIZ - a game with Microsoft Hololens 2
 #### In this repository there are all the files for the PCTO activity of MABALENS team, visit the site https://benedettabe.github.io/home.html to learn more
 
 ## Requirements
