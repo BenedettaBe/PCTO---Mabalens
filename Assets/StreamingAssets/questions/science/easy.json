@@ -1,0 +1,902 @@
+[
+  {
+    "question": "Qual \u00e8 l'unit\u00e0 di misura della massa nel sistema metrico?",
+    "correctAnswer": "Chilogrammo",
+    "wrongAnswer": [
+      "Litro",
+      "Metro",
+      "Secondo"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 l'elemento chimico pi\u00f9 abbondante nella crosta terrestre?",
+    "correctAnswer": "Ossigeno",
+    "wrongAnswer": [
+      "Silicio",
+      "Ferro",
+      "Alluminio"
+    ]
+  },
+  {
+    "question": "In quale parte della cellula si trova il materiale genetico?",
+    "correctAnswer": "Nucleo",
+    "wrongAnswer": [
+      "Citoplasma",
+      "Membrana cellulare",
+      "Mitocondri"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 l'organo principale del sistema circolatorio?",
+    "correctAnswer": "Cuore",
+    "wrongAnswer": [
+      "Polmoni",
+      "Fegato",
+      "Rene"
+    ]
+  },
+  {
+    "question": "Cosa misura l'unit\u00e0 di misura chiamata \"secondo\"?",
+    "correctAnswer": "Tempo",
+    "wrongAnswer": [
+      "Lunghezza",
+      "Massa",
+      "Temperatura"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 l'organo principale del sistema escretore?",
+    "correctAnswer": "Rene",
+    "wrongAnswer": [
+      "Fegato",
+      "Stomaco",
+      "Cuore"
+    ]
+  },
+  {
+    "question": "Quale gas \u00e8 necessario per la respirazione degli esseri viventi?",
+    "correctAnswer": "Ossigeno",
+    "wrongAnswer": [
+      "Azoto",
+      "Anidride carbonica",
+      "Idrogeno"
+    ]
+  },
+  {
+    "question": "Quale strato dell'atmosfera terrestre \u00e8 pi\u00f9 vicino allo spazio?",
+    "correctAnswer": "Esosfera",
+    "wrongAnswer": [
+      "Stratosfera",
+      "Troposfera",
+      "Mesosfera"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'elemento chimico con simbolo C?",
+    "correctAnswer": "Carbonio",
+    "wrongAnswer": [
+      "Calcio",
+      "Cloro",
+      "Cromo"
+    ]
+  },
+  {
+    "question": "In quale parte del corpo umano si trova la maggior parte delle ossa?",
+    "correctAnswer": "Mani e piedi",
+    "wrongAnswer": [
+      "Cranio",
+      "Colonna vertebrale",
+      "Torace"
+    ]
+  },
+  {
+    "question": "Quale fenomeno naturale causa il movimento delle placche tettoniche?",
+    "correctAnswer": "Tettonica delle placche",
+    "wrongAnswer": [
+      "Terremoti",
+      "Eruzione vulcanica",
+      "Inondazioni"
+    ]
+  },
+  {
+    "question": "Quale vitamina \u00e8 spesso chiamata \"vitamina del sole\"?",
+    "correctAnswer": "Vitamina D",
+    "wrongAnswer": [
+      "Vitamina C",
+      "Vitamina A",
+      "Vitamina E"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il pi\u00f9 grande oceano sulla Terra?",
+    "correctAnswer": "Oceano Pacifico",
+    "wrongAnswer": [
+      "Oceano Atlantico",
+      "Oceano Indiano",
+      "Oceano Artico"
+    ]
+  },
+  {
+    "question": "Quale fenomeno naturale \u00e8 responsabile della formazione delle dune nel deserto?",
+    "correctAnswer": "Eolismo",
+    "wrongAnswer": [
+      "Erosione",
+      "Evaporazione",
+      "Sedimentazione"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 l'elemento chimico con simbolo Na?",
+    "correctAnswer": "Sodio",
+    "wrongAnswer": [
+      "Nichel",
+      "Neon",
+      "Niobio"
+    ]
+  },
+  {
+    "question": "Quale parte del corpo umano \u00e8 responsabile della produzione di insulina?",
+    "correctAnswer": "Pancreas",
+    "wrongAnswer": [
+      "Fegato",
+      "Stomaco",
+      "Rene"
+    ]
+  },
+  {
+    "question": "Quale strato dell'atmosfera terrestre \u00e8 coinvolto nella formazione delle nuvole e delle condizioni meteorologiche?",
+    "correctAnswer": "Troposfera",
+    "wrongAnswer": [
+      "Stratosfera",
+      "Mesosfera",
+      "Termosfera"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il processo attraverso il quale le piante assorbono acqua dalle radici?",
+    "correctAnswer": "Osmosi",
+    "wrongAnswer": [
+      "Fotosintesi",
+      "Evaporazione",
+      "Capillarit\u00e0"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 l'unit\u00e0 di misura della luminosit\u00e0?",
+    "correctAnswer": "Candela",
+    "wrongAnswer": [
+      "Lumen",
+      "Watt",
+      "Volt"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'organo principale del sistema endocrino?",
+    "correctAnswer": "Ghiandola tiroidea",
+    "wrongAnswer": [
+      "Pancreas",
+      "Surreni",
+      "Ipofisi"
+    ]
+  },
+  {
+    "question": "Quale strato dell'atmosfera terrestre contiene la maggior parte dell'ozono?",
+    "correctAnswer": "Stratosfera",
+    "wrongAnswer": [
+      "Troposfera",
+      "Mesosfera",
+      "Termosfera"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 l'elemento chimico con simbolo K?",
+    "correctAnswer": "Potassio",
+    "wrongAnswer": [
+      "Calcio",
+      "Carbonio",
+      "Cloro"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il pi\u00f9 grande pianeta del nostro sistema solare?",
+    "correctAnswer": "Giove",
+    "wrongAnswer": [
+      "Saturno",
+      "Marte",
+      "Venere"
+    ]
+  },
+  {
+    "question": "Cosa misura l'unit\u00e0 di misura chiamata \"ampere\"?",
+    "correctAnswer": "Corrente elettrica",
+    "wrongAnswer": [
+      "Tensione",
+      "Resistenza",
+      "Potenza"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'organo principale del sistema riproduttivo maschile?",
+    "correctAnswer": "Testicoli",
+    "wrongAnswer": [
+      "Pene",
+      "Vescicole seminali",
+      "Prostata"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 il pi\u00f9 grande continente sulla Terra?",
+    "correctAnswer": "Asia",
+    "wrongAnswer": [
+      "Africa",
+      "America",
+      "Europa"
+    ]
+  },
+  {
+    "question": "In quale parte del corpo umano si trova il muscolo pi\u00f9 grande?",
+    "correctAnswer": "Coscia (Quadricipite femorale)",
+    "wrongAnswer": [
+      "Braccio (Bicipite brachiale)",
+      "Schiena (Dorsali)",
+      "Addome (Retto dell'addome)"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'elemento chimico con simbolo P?",
+    "correctAnswer": "Fosforo",
+    "wrongAnswer": [
+      "Potassio",
+      "Piombo",
+      "Palladio"
+    ]
+  },
+  {
+    "question": "In quale parte della pianta si trova il gambo?",
+    "correctAnswer": "Stelo",
+    "wrongAnswer": [
+      "Foglia",
+      "Radice",
+      "Fiore"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il processo attraverso il quale l'energia solare viene convertita in energia chimica nelle piante?",
+    "correctAnswer": "Fotosintesi",
+    "wrongAnswer": [
+      "Respirazione",
+      "Fermentazione",
+      "Combustione"
+    ]
+  },
+  {
+    "question": "Quale parte del corpo umano contiene il maggior numero di ossa?",
+    "correctAnswer": "Mano",
+    "wrongAnswer": [
+      "Piede",
+      "Cranio",
+      "Colonna vertebrale"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'elemento chimico con simbolo S?",
+    "correctAnswer": "Zolfo",
+    "wrongAnswer": [
+      "Sodio",
+      "Silicio",
+      "Stagno"
+    ]
+  },
+  {
+    "question": "In quale parte del corpo umano si trova l'orecchio interno?",
+    "correctAnswer": "Cranio",
+    "wrongAnswer": [
+      "Collo",
+      "Torace",
+      "Addome"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'organo principale del sistema respiratorio umano?",
+    "correctAnswer": "Polmoni",
+    "wrongAnswer": [
+      "Cuore",
+      "Fegato",
+      "Stomaco"
+    ]
+  },
+  {
+    "question": "Cosa misura l'unit\u00e0 di misura chiamata \"litro\"?",
+    "correctAnswer": "Volume",
+    "wrongAnswer": [
+      "Lunghezza",
+      "Massa",
+      "Temperatura"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 l'elemento chimico con simbolo Ca?",
+    "correctAnswer": "Calcio",
+    "wrongAnswer": [
+      "Carbonio",
+      "Cadmio",
+      "Cerio"
+    ]
+  },
+  {
+    "question": "In quale parte del corpo umano si trova il muscolo cardiaco?",
+    "correctAnswer": "Cuore",
+    "wrongAnswer": [
+      "Braccio",
+      "Gamba",
+      "Schiena"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il pi\u00f9 piccolo osso nel corpo umano?",
+    "correctAnswer": "Staffa",
+    "wrongAnswer": [
+      "Tibia",
+      "Radio",
+      "Femore"
+    ]
+  },
+  {
+    "question": "Quale strato dell'atmosfera terrestre contiene la maggior parte dell'umidit\u00e0 atmosferica?",
+    "correctAnswer": "Troposfera",
+    "wrongAnswer": [
+      "Stratosfera",
+      "Mesosfera",
+      "Termosfera"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'elemento chimico con simbolo Mg?",
+    "correctAnswer": "Magnesio",
+    "wrongAnswer": [
+      "Manganese",
+      "Molibdeno",
+      "Mendelevio"
+    ]
+  },
+  {
+    "question": "In quale parte del corpo umano si trova il midollo osseo?",
+    "correctAnswer": "Ossa lunghe e corte",
+    "wrongAnswer": [
+      "Colonna vertebrale",
+      "Denti",
+      "Cartilagini"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 l'organo principale del sistema nervoso?",
+    "correctAnswer": "Cervello",
+    "wrongAnswer": [
+      "Midollo spinale",
+      "Cuore",
+      "Rene"
+    ]
+  },
+  {
+    "question": "Cosa misura l'unit\u00e0 di misura chiamata \"newton\"?",
+    "correctAnswer": "Forza",
+    "wrongAnswer": [
+      "Pressione",
+      "Energia",
+      "Velocit\u00e0"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'elemento chimico con simbolo Cl?",
+    "correctAnswer": "Cloro",
+    "wrongAnswer": [
+      "Cromo",
+      "Cobalto",
+      "Calcio"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 l'unit\u00e0 di misura della pressione atmosferica al livello del mare?",
+    "correctAnswer": "Atmosfera standard (atm)",
+    "wrongAnswer": [
+      "Bar",
+      "Pascal",
+      "Millimetro di mercurio"
+    ]
+  },
+  {
+    "question": "In quale parte del corpo umano si trova il pancreas?",
+    "correctAnswer": "Addome",
+    "wrongAnswer": [
+      "Cranio",
+      "Torace",
+      "Collo"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'elemento chimico con simbolo Ne?",
+    "correctAnswer": "Neon",
+    "wrongAnswer": [
+      "Nichel",
+      "Nettunio",
+      "Niobio"
+    ]
+  },
+  {
+    "question": "Quale strato dell'atmosfera terrestre contiene la maggior parte dell'ossigeno?",
+    "correctAnswer": "Troposfera",
+    "wrongAnswer": [
+      "Stratosfera",
+      "Mesosfera",
+      "Termosfera"
+    ]
+  },
+  {
+    "question": "Cosa misura l'unit\u00e0 di misura chiamata \"ohm\"?",
+    "correctAnswer": "Resistenza elettrica",
+    "wrongAnswer": [
+      "Tensione",
+      "Corrente elettrica",
+      "Potenza"
+    ]
+  },
+  {
+    "question": "Quale vitamina \u00e8 associata alla visione notturna?",
+    "correctAnswer": "Vitamina A",
+    "wrongAnswer": [
+      "Vitamina C",
+      "Vitamina D",
+      "Vitamina K"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'organo principale del sistema digerente dove avviene la digestione chimica?",
+    "correctAnswer": "Stomaco",
+    "wrongAnswer": [
+      "Esofago",
+      "Intestino tenue",
+      "Colon"
+    ]
+  },
+  {
+    "question": "Quale parte del corpo umano contiene il sistema linfatico?",
+    "correctAnswer": "Sistema linfatico",
+    "wrongAnswer": [
+      "Sistema nervoso",
+      "Sistema circolatorio",
+      "Sistema digerente"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'elemento chimico con simbolo Al?",
+    "correctAnswer": "Alluminio",
+    "wrongAnswer": [
+      "Argento",
+      "Oro",
+      "Azoto"
+    ]
+  },
+  {
+    "question": "Cosa misura l'unit\u00e0 di misura chiamata \"hertz\"?",
+    "correctAnswer": "Frequenza",
+    "wrongAnswer": [
+      "Velocit\u00e0",
+      "Lunghezza d'onda",
+      "Intensit\u00e0 luminosa"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 l'organo principale del sistema immunitario?",
+    "correctAnswer": "Timo",
+    "wrongAnswer": [
+      "Milza",
+      "Linfonodi",
+      "Midollo osseo"
+    ]
+  },
+  {
+    "question": "Quale strato dell'atmosfera terrestre \u00e8 coinvolto nei fenomeni aurorali?",
+    "correctAnswer": "Ionosfera",
+    "wrongAnswer": [
+      "Troposfera",
+      "Stratosfera",
+      "Mesosfera"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'elemento chimico con simbolo Hg?",
+    "correctAnswer": "Mercurio",
+    "wrongAnswer": [
+      "Idrogeno",
+      "Oro",
+      "Argento"
+    ]
+  },
+  {
+    "question": "In quale parte del corpo umano si trova il muscolo denominato \"cuore\"?",
+    "correctAnswer": "Torace",
+    "wrongAnswer": [
+      "Addome",
+      "Braccio",
+      "Gamba"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 l'elemento chimico con simbolo Cu?",
+    "correctAnswer": "Rame",
+    "wrongAnswer": [
+      "Cobalto",
+      "Cromo",
+      "Calcio"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'organo principale del sistema riproduttivo femminile?",
+    "correctAnswer": "Ovaie",
+    "wrongAnswer": [
+      "Utero",
+      "Vagina",
+      "Clitoride"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'unit\u00e0 di misura della temperatura nel sistema metrico?",
+    "correctAnswer": "Gradi Celsius",
+    "wrongAnswer": [
+      "Kelvin",
+      "Fahrenheit",
+      "Joule"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 l'elemento chimico con simbolo Si?",
+    "correctAnswer": "Silicio",
+    "wrongAnswer": [
+      "Sodio",
+      "Zolfo",
+      "Stagno"
+    ]
+  },
+  {
+    "question": "Cosa misura l'unit\u00e0 di misura chiamata \"joule\"?",
+    "correctAnswer": "Energia",
+    "wrongAnswer": [
+      "Temperatura",
+      "Pressione",
+      "Velocit\u00e0"
+    ]
+  },
+  {
+    "question": "Quale vitamina \u00e8 nota per il suo ruolo nel mantenimento della pelle e delle mucose?",
+    "correctAnswer": "Vitamina C",
+    "wrongAnswer": [
+      "Vitamina A",
+      "Vitamina D",
+      "Vitamina K"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'organo principale del sistema scheletrico?",
+    "correctAnswer": "Ossa",
+    "wrongAnswer": [
+      "Muscoli",
+      "Articolazioni",
+      "Cartilagini"
+    ]
+  },
+  {
+    "question": "Quale parte della pianta \u00e8 responsabile della produzione di semi?",
+    "correctAnswer": "Fiore",
+    "wrongAnswer": [
+      "Foglia",
+      "Radice",
+      "Stelo"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il pi\u00f9 grande fiume del mondo per lunghezza?",
+    "correctAnswer": "Nilo",
+    "wrongAnswer": [
+      "Amazon",
+      "Yangtze",
+      "Mississippi"
+    ]
+  },
+  {
+    "question": "In quale parte del corpo umano si trova il muscolo denominato \"bicipite brachiale\"?",
+    "correctAnswer": "Braccio",
+    "wrongAnswer": [
+      "Gamba",
+      "Schiena",
+      "Addome"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 l'elemento chimico con simbolo N?",
+    "correctAnswer": "Azoto",
+    "wrongAnswer": [
+      "Nichel",
+      "Neon",
+      "Niobio"
+    ]
+  },
+  {
+    "question": "Cosa misura l'unit\u00e0 di misura chiamata \"watt\"?",
+    "correctAnswer": "Potenza",
+    "wrongAnswer": [
+      "Energia",
+      "Tensione",
+      "Frequenza"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'organo principale del sistema urinario?",
+    "correctAnswer": "Rene",
+    "wrongAnswer": [
+      "Vescica",
+      "Uretra",
+      "Ureters"
+    ]
+  },
+  {
+    "question": "Quale parte del corpo umano contiene la ghiandola pineale?",
+    "correctAnswer": "Cervello",
+    "wrongAnswer": [
+      "Addome",
+      "Torace",
+      "Gamba"
+    ]
+  },
+  {
+    "question": "Quale fenomeno naturale \u00e8 associato alla rifrazione del suono?",
+    "correctAnswer": "Eco",
+    "wrongAnswer": [
+      "Fulmine",
+      "Arcobaleno",
+      "Nebbia"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 l'elemento chimico con simbolo Au?",
+    "correctAnswer": "Oro",
+    "wrongAnswer": [
+      "Argento",
+      "Alluminio",
+      "Azoto"
+    ]
+  },
+  {
+    "question": "In quale parte del corpo umano si trova il muscolo denominato \"tricipite brachiale\"?",
+    "correctAnswer": "Braccio",
+    "wrongAnswer": [
+      "Gamba",
+      "Schiena",
+      "Addome"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'organo principale del sistema linfatico?",
+    "correctAnswer": "Linfonodi",
+    "wrongAnswer": [
+      "Milza",
+      "Timo",
+      "Midollo osseo"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 l'elemento chimico con simbolo Fe?",
+    "correctAnswer": "Ferro",
+    "wrongAnswer": [
+      "Fluoro",
+      "Fosforo",
+      "Francio"
+    ]
+  },
+  {
+    "question": "Cosa misura l'unit\u00e0 di misura chiamata \"caloria\"?",
+    "correctAnswer": "Quantit\u00e0 di calore",
+    "wrongAnswer": [
+      "Lunghezza",
+      "Massa",
+      "Tempo"
+    ]
+  },
+  {
+    "question": "Quale fenomeno naturale \u00e8 causato dal passaggio di un corpo celeste attraverso l'atmosfera terrestre?",
+    "correctAnswer": "Meteorite",
+    "wrongAnswer": [
+      "Cometa",
+      "Pianeta",
+      "Asteroide"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'unit\u00e0 di misura della velocit\u00e0 nel sistema metrico?",
+    "correctAnswer": "Metri al secondo",
+    "wrongAnswer": [
+      "Chilogrammi",
+      "Litri",
+      "Joule"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 l'elemento chimico con simbolo H?",
+    "correctAnswer": "Idrogeno",
+    "wrongAnswer": [
+      "Elio",
+      "Ossigeno",
+      "Azoto"
+    ]
+  },
+  {
+    "question": "Cosa misura l'unit\u00e0 di misura chiamata \"metro\"?",
+    "correctAnswer": "Lunghezza",
+    "wrongAnswer": [
+      "Massa",
+      "Tempo",
+      "Temperatura"
+    ]
+  },
+  {
+    "question": "Quale vitamina \u00e8 spesso associata al latte e alla sua importanza per la salute delle ossa?",
+    "correctAnswer": "Vitamina D",
+    "wrongAnswer": [
+      "Vitamina A",
+      "Vitamina C",
+      "Vitamina B"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'organo principale del sistema digerente dove inizia il processo di digestione?",
+    "correctAnswer": "Bocca",
+    "wrongAnswer": [
+      "Stomaco",
+      "Intestino tenue",
+      "Colon"
+    ]
+  },
+  {
+    "question": "In quale parte del corpo umano si trova la milza?",
+    "correctAnswer": "Addome",
+    "wrongAnswer": [
+      "Torace",
+      "Cranio",
+      "Gamba"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 l'elemento chimico con simbolo O?",
+    "correctAnswer": "Ossigeno",
+    "wrongAnswer": [
+      "Oro",
+      "Osmio",
+      "Olmio"
+    ]
+  },
+  {
+    "question": "Cosa misura l'unit\u00e0 di misura chiamata \"grammo\"?",
+    "correctAnswer": "Massa",
+    "wrongAnswer": [
+      "Lunghezza",
+      "Volume",
+      "Temperatura"
+    ]
+  },
+  {
+    "question": "Quale fenomeno naturale \u00e8 associato all'accumulo di neve compatta su una montagna?",
+    "correctAnswer": "Ghiacciaio",
+    "wrongAnswer": [
+      "Valanga",
+      "Torrente",
+      "Deserto"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 l'unit\u00e0 di misura della lunghezza nel sistema metrico?",
+    "correctAnswer": "Metro",
+    "wrongAnswer": [
+      "Chilogrammo",
+      "Litro",
+      "Secondo"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'organo principale del sistema riproduttivo femminile dove avviene la fecondazione?",
+    "correctAnswer": "Ovaie",
+    "wrongAnswer": [
+      "Utero",
+      "Vagina",
+      "Clitoride"
+    ]
+  },
+  {
+    "question": "Quale strato dell'atmosfera terrestre contiene la maggior parte dell'ozono?",
+    "correctAnswer": "Stratosfera",
+    "wrongAnswer": [
+      "Troposfera",
+      "Mesosfera",
+      "Termosfera"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'elemento chimico con simbolo F?",
+    "correctAnswer": "Fluoro",
+    "wrongAnswer": [
+      "Ferro",
+      "Fosforo",
+      "Francio"
+    ]
+  },
+  {
+    "question": "Cosa misura l'unit\u00e0 di misura chiamata \"pascal\"?",
+    "correctAnswer": "Pressione",
+    "wrongAnswer": [
+      "Energia",
+      "Temperatura",
+      "Velocit\u00e0"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 l'organo principale del sistema digerente dove avviene l'assorbimento dei nutrienti?",
+    "correctAnswer": "Intestino tenue",
+    "wrongAnswer": [
+      "Stomaco",
+      "Esofago",
+      "Colon"
+    ]
+  },
+  {
+    "question": "In quale parte del corpo umano si trova il muscolo denominato \"addome\"?",
+    "correctAnswer": "Addome",
+    "wrongAnswer": [
+      "Braccio",
+      "Gamba",
+      "Schiena"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'elemento chimico con simbolo C?",
+    "correctAnswer": "Carbonio",
+    "wrongAnswer": [
+      "Calcio",
+      "Cromo",
+      "Cloro"
+    ]
+  },
+  {
+    "question": "Cosa misura l'unit\u00e0 di misura chiamata \"volt\"?",
+    "correctAnswer": "Tensione",
+    "wrongAnswer": [
+      "Corrente elettrica",
+      "Resistenza",
+      "Potenza"
+    ]
+  },
+  {
+    "question": "Quale fenomeno naturale \u00e8 causato dalla rotazione della Terra?",
+    "correctAnswer": "Giorno e notte",
+    "wrongAnswer": [
+      "Stagioni",
+      "Eclissi solare",
+      "Marea"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 l'elemento chimico con simbolo He?",
+    "correctAnswer": "Elio",
+    "wrongAnswer": [
+      "Idrogeno",
+      "Azoto",
+      "Erbio"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'unit\u00e0 di misura della densit\u00e0 nel sistema metrico?",
+    "correctAnswer": "Chilogrammo per metro cubo",
+    "wrongAnswer": [
+      "Metro al secondo",
+      "Pascal",
+      "Newton per metro quadrato"
+    ]
+  }
+]

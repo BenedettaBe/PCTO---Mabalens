@@ -1,0 +1,902 @@
+[
+  {
+    "question": "Quanto fa 5 + 7?",
+    "correctAnswer": "12",
+    "wrongAnswer": [
+      "8",
+      "15",
+      "20"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 il doppio di 9?",
+    "correctAnswer": "18",
+    "wrongAnswer": [
+      "12",
+      "15",
+      "20"
+    ]
+  },
+  {
+    "question": "Quanto fa 4 x 6?",
+    "correctAnswer": "24",
+    "wrongAnswer": [
+      "16",
+      "20",
+      "30"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 - 3?",
+    "correctAnswer": "6",
+    "wrongAnswer": [
+      "4",
+      "8",
+      "10"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 la met\u00e0 di 14?",
+    "correctAnswer": "7",
+    "wrongAnswer": [
+      "5",
+      "10",
+      "12"
+    ]
+  },
+  {
+    "question": "Quanto fa 3 al cubo?",
+    "correctAnswer": "27",
+    "wrongAnswer": [
+      "9",
+      "18",
+      "36"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 diviso 2?",
+    "correctAnswer": "4",
+    "wrongAnswer": [
+      "2",
+      "6",
+      "8"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 il prodotto di 5 e 4?",
+    "correctAnswer": "20",
+    "wrongAnswer": [
+      "15",
+      "25",
+      "30"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 + 9?",
+    "correctAnswer": "16",
+    "wrongAnswer": [
+      "12",
+      "18",
+      "20"
+    ]
+  },
+  {
+    "question": "Quanto fa 2 x 10?",
+    "correctAnswer": "20",
+    "wrongAnswer": [
+      "15",
+      "25",
+      "30"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 - 3?",
+    "correctAnswer": "3",
+    "wrongAnswer": [
+      "2",
+      "5",
+      "8"
+    ]
+  },
+  {
+    "question": "Quanto fa 4 al quadrato?",
+    "correctAnswer": "16",
+    "wrongAnswer": [
+      "8",
+      "12",
+      "20"
+    ]
+  },
+  {
+    "question": "Quanto fa 5 diviso 1?",
+    "correctAnswer": "5",
+    "wrongAnswer": [
+      "2",
+      "3",
+      "8"
+    ]
+  },
+  {
+    "question": "Quanto fa 11 + 13?",
+    "correctAnswer": "24",
+    "wrongAnswer": [
+      "18",
+      "20",
+      "30"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 x 3?",
+    "correctAnswer": "27",
+    "wrongAnswer": [
+      "15",
+      "18",
+      "24"
+    ]
+  },
+  {
+    "question": "Quanto fa 15 diviso 5?",
+    "correctAnswer": "3",
+    "wrongAnswer": [
+      "5",
+      "10",
+      "15"
+    ]
+  },
+  {
+    "question": "Quanto fa 2 + 4 + 6?",
+    "correctAnswer": "12",
+    "wrongAnswer": [
+      "8",
+      "10",
+      "14"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 x 8?",
+    "correctAnswer": "56",
+    "wrongAnswer": [
+      "40",
+      "50",
+      "60"
+    ]
+  },
+  {
+    "question": "Quanto fa 12 - 7?",
+    "correctAnswer": "5",
+    "wrongAnswer": [
+      "3",
+      "8",
+      "10"
+    ]
+  },
+  {
+    "question": "Quanto fa 3 al quadrato?",
+    "correctAnswer": "9",
+    "wrongAnswer": [
+      "6",
+      "12",
+      "15"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 diviso 2?",
+    "correctAnswer": "3",
+    "wrongAnswer": [
+      "2",
+      "4",
+      "6"
+    ]
+  },
+  {
+    "question": "Quanto fa 10 + 15?",
+    "correctAnswer": "25",
+    "wrongAnswer": [
+      "18",
+      "20",
+      "30"
+    ]
+  },
+  {
+    "question": "Quanto fa 5 x 5?",
+    "correctAnswer": "25",
+    "wrongAnswer": [
+      "20",
+      "30",
+      "35"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 - 4?",
+    "correctAnswer": "5",
+    "wrongAnswer": [
+      "3",
+      "6",
+      "8"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 al cubo?",
+    "correctAnswer": "343",
+    "wrongAnswer": [
+      "49",
+      "98",
+      "196"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 diviso 4?",
+    "correctAnswer": "2",
+    "wrongAnswer": [
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "question": "Quanto fa 11 x 9?",
+    "correctAnswer": "99",
+    "wrongAnswer": [
+      "88",
+      "77",
+      "66"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 + 8?",
+    "correctAnswer": "14",
+    "wrongAnswer": [
+      "10",
+      "12",
+      "16"
+    ]
+  },
+  {
+    "question": "Quanto fa 4 al cubo?",
+    "correctAnswer": "64",
+    "wrongAnswer": [
+      "16",
+      "32",
+      "48"
+    ]
+  },
+  {
+    "question": "Quanto fa 5 diviso 2?",
+    "correctAnswer": "2.5",
+    "wrongAnswer": [
+      "1",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question": "Quanto fa 3 + 7 + 2?",
+    "correctAnswer": "12",
+    "wrongAnswer": [
+      "8",
+      "10",
+      "14"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 x 6?",
+    "correctAnswer": "54",
+    "wrongAnswer": [
+      "45",
+      "60",
+      "72"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 - 2?",
+    "correctAnswer": "6",
+    "wrongAnswer": [
+      "4",
+      "8",
+      "10"
+    ]
+  },
+  {
+    "question": "Quanto fa 12 + 18?",
+    "correctAnswer": "30",
+    "wrongAnswer": [
+      "25",
+      "35",
+      "40"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 x 7?",
+    "correctAnswer": "49",
+    "wrongAnswer": [
+      "36",
+      "42",
+      "56"
+    ]
+  },
+  {
+    "question": "Quanto fa 10 - 5?",
+    "correctAnswer": "5",
+    "wrongAnswer": [
+      "3",
+      "8",
+      "10"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 al quadrato?",
+    "correctAnswer": "36",
+    "wrongAnswer": [
+      "18",
+      "24",
+      "42"
+    ]
+  },
+  {
+    "question": "Quanto fa 4 diviso 2?",
+    "correctAnswer": "2",
+    "wrongAnswer": [
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "question": "Quanto fa 11 + 5?",
+    "correctAnswer": "16",
+    "wrongAnswer": [
+      "12",
+      "18",
+      "20"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 x 2?",
+    "correctAnswer": "18",
+    "wrongAnswer": [
+      "15",
+      "20",
+      "25"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 - 1?",
+    "correctAnswer": "6",
+    "wrongAnswer": [
+      "4",
+      "8",
+      "10"
+    ]
+  },
+  {
+    "question": "Quanto fa 5 + 3 + 2?",
+    "correctAnswer": "10",
+    "wrongAnswer": [
+      "8",
+      "12",
+      "15"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 x 9?",
+    "correctAnswer": "54",
+    "wrongAnswer": [
+      "45",
+      "60",
+      "72"
+    ]
+  },
+  {
+    "question": "Quanto fa 12 - 6?",
+    "correctAnswer": "6",
+    "wrongAnswer": [
+      "4",
+      "8",
+      "10"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 diviso 2?",
+    "correctAnswer": "4",
+    "wrongAnswer": [
+      "2",
+      "6",
+      "8"
+    ]
+  },
+  {
+    "question": "Quanto fa 10 x 10?",
+    "correctAnswer": "100",
+    "wrongAnswer": [
+      "80",
+      "90",
+      "120"
+    ]
+  },
+  {
+    "question": "Quanto fa 3 al cubo?",
+    "correctAnswer": "27",
+    "wrongAnswer": [
+      "9",
+      "18",
+      "36"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 + 6?",
+    "correctAnswer": "13",
+    "wrongAnswer": [
+      "10",
+      "15",
+      "20"
+    ]
+  },
+  {
+    "question": "Quanto fa 4 x 8?",
+    "correctAnswer": "32",
+    "wrongAnswer": [
+      "24",
+      "40",
+      "48"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 diviso 3?",
+    "correctAnswer": "3",
+    "wrongAnswer": [
+      "2",
+      "4",
+      "6"
+    ]
+  },
+  {
+    "question": "Quanto fa 5 + 6 + 3?",
+    "correctAnswer": "14",
+    "wrongAnswer": [
+      "12",
+      "18",
+      "20"
+    ]
+  },
+  {
+    "question": "Quanto fa 11 x 7?",
+    "correctAnswer": "77",
+    "wrongAnswer": [
+      "66",
+      "88",
+      "99"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 - 3?",
+    "correctAnswer": "5",
+    "wrongAnswer": [
+      "3",
+      "6",
+      "8"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 + 4?",
+    "correctAnswer": "10",
+    "wrongAnswer": [
+      "8",
+      "12",
+      "15"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 x 4?",
+    "correctAnswer": "36",
+    "wrongAnswer": [
+      "27",
+      "45",
+      "54"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 diviso 7?",
+    "correctAnswer": "1",
+    "wrongAnswer": [
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question": "Quanto fa 12 + 15?",
+    "correctAnswer": "27",
+    "wrongAnswer": [
+      "20",
+      "30",
+      "35"
+    ]
+  },
+  {
+    "question": "Quanto fa 5 al quadrato?",
+    "correctAnswer": "25",
+    "wrongAnswer": [
+      "15",
+      "20",
+      "30"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 diviso 4?",
+    "correctAnswer": "2",
+    "wrongAnswer": [
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 x 7?",
+    "correctAnswer": "42",
+    "wrongAnswer": [
+      "30",
+      "50",
+      "60"
+    ]
+  },
+  {
+    "question": "Quanto fa 10 - 2?",
+    "correctAnswer": "8",
+    "wrongAnswer": [
+      "6",
+      "10",
+      "12"
+    ]
+  },
+  {
+    "question": "Quanto fa 3 + 8?",
+    "correctAnswer": "11",
+    "wrongAnswer": [
+      "10",
+      "12",
+      "15"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 x 5?",
+    "correctAnswer": "45",
+    "wrongAnswer": [
+      "36",
+      "54",
+      "63"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 - 2?",
+    "correctAnswer": "5",
+    "wrongAnswer": [
+      "3",
+      "6",
+      "8"
+    ]
+  },
+  {
+    "question": "Quanto fa 4 al cubo?",
+    "correctAnswer": "64",
+    "wrongAnswer": [
+      "16",
+      "32",
+      "48"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 diviso 3?",
+    "correctAnswer": "2",
+    "wrongAnswer": [
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "question": "Quanto fa 11 + 8?",
+    "correctAnswer": "19",
+    "wrongAnswer": [
+      "15",
+      "20",
+      "25"
+    ]
+  },
+  {
+    "question": "Quanto fa 5 x 8?",
+    "correctAnswer": "40",
+    "wrongAnswer": [
+      "30",
+      "50",
+      "60"
+    ]
+  },
+  {
+    "question": "Quanto fa 12 diviso 3?",
+    "correctAnswer": "4",
+    "wrongAnswer": [
+      "3",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 + 7?",
+    "correctAnswer": "16",
+    "wrongAnswer": [
+      "12",
+      "18",
+      "20"
+    ]
+  },
+  {
+    "question": "Quanto fa 2 al quadrato?",
+    "correctAnswer": "4",
+    "wrongAnswer": [
+      "6",
+      "8",
+      "10"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 x 6?",
+    "correctAnswer": "42",
+    "wrongAnswer": [
+      "30",
+      "50",
+      "60"
+    ]
+  },
+  {
+    "question": "Quanto fa 10 + 11?",
+    "correctAnswer": "21",
+    "wrongAnswer": [
+      "18",
+      "25",
+      "30"
+    ]
+  },
+  {
+    "question": "Quanto fa 3 x 5?",
+    "correctAnswer": "15",
+    "wrongAnswer": [
+      "10",
+      "12",
+      "18"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 - 1?",
+    "correctAnswer": "5",
+    "wrongAnswer": [
+      "3",
+      "8",
+      "10"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 diviso 1?",
+    "correctAnswer": "8",
+    "wrongAnswer": [
+      "4",
+      "6",
+      "10"
+    ]
+  },
+  {
+    "question": "Quanto fa 13 + 14?",
+    "correctAnswer": "27",
+    "wrongAnswer": [
+      "20",
+      "30",
+      "35"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 x 7?",
+    "correctAnswer": "63",
+    "wrongAnswer": [
+      "54",
+      "70",
+      "80"
+    ]
+  },
+  {
+    "question": "Quanto fa 4 al quadrato?",
+    "correctAnswer": "16",
+    "wrongAnswer": [
+      "8",
+      "12",
+      "20"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 diviso 2?",
+    "correctAnswer": "3",
+    "wrongAnswer": [
+      "2",
+      "4",
+      "6"
+    ]
+  },
+  {
+    "question": "Quanto fa 11 - 5?",
+    "correctAnswer": "6",
+    "wrongAnswer": [
+      "4",
+      "8",
+      "10"
+    ]
+  },
+  {
+    "question": "Quanto fa 5 + 9?",
+    "correctAnswer": "14",
+    "wrongAnswer": [
+      "12",
+      "18",
+      "20"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 x 5?",
+    "correctAnswer": "35",
+    "wrongAnswer": [
+      "25",
+      "40",
+      "50"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 - 4?",
+    "correctAnswer": "4",
+    "wrongAnswer": [
+      "2",
+      "6",
+      "8"
+    ]
+  },
+  {
+    "question": "Quanto fa 3 al cubo?",
+    "correctAnswer": "27",
+    "wrongAnswer": [
+      "9",
+      "18",
+      "36"
+    ]
+  },
+  {
+    "question": "Quanto fa 10 diviso 2?",
+    "correctAnswer": "5",
+    "wrongAnswer": [
+      "3",
+      "4",
+      "6"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 + 7 + 8?",
+    "correctAnswer": "21",
+    "wrongAnswer": [
+      "18",
+      "25",
+      "30"
+    ]
+  },
+  {
+    "question": "Quanto fa 4 x 7?",
+    "correctAnswer": "28",
+    "wrongAnswer": [
+      "20",
+      "35",
+      "40"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 - 1?",
+    "correctAnswer": "8",
+    "wrongAnswer": [
+      "6",
+      "10",
+      "12"
+    ]
+  },
+  {
+    "question": "Quanto fa 5 diviso 5?",
+    "correctAnswer": "1",
+    "wrongAnswer": [
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question": "Quanto fa 11 + 6?",
+    "correctAnswer": "17",
+    "wrongAnswer": [
+      "15",
+      "20",
+      "25"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 x 6?",
+    "correctAnswer": "48",
+    "wrongAnswer": [
+      "36",
+      "42",
+      "54"
+    ]
+  },
+  {
+    "question": "Quanto fa 3 - 1?",
+    "correctAnswer": "2",
+    "wrongAnswer": [
+      "4",
+      "6",
+      "8"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 + 3?",
+    "correctAnswer": "10",
+    "wrongAnswer": [
+      "8",
+      "12",
+      "15"
+    ]
+  },
+  {
+    "question": "Quanto fa 12 x 4?",
+    "correctAnswer": "48",
+    "wrongAnswer": [
+      "36",
+      "40",
+      "54"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 + 6?",
+    "correctAnswer": "15",
+    "wrongAnswer": [
+      "12",
+      "18",
+      "20"
+    ]
+  },
+  {
+    "question": "Quanto fa 2 diviso 2?",
+    "correctAnswer": "1",
+    "wrongAnswer": [
+      "0",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question": "Quanto fa 5 - 2?",
+    "correctAnswer": "3",
+    "wrongAnswer": [
+      "1",
+      "4",
+      "6"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 + 5?",
+    "correctAnswer": "13",
+    "wrongAnswer": [
+      "10",
+      "15",
+      "20"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 x 8?",
+    "correctAnswer": "48",
+    "wrongAnswer": [
+      "36",
+      "42",
+      "54"
+    ]
+  }
+]

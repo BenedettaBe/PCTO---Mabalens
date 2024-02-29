@@ -1,0 +1,902 @@
+[
+  {
+    "question": "Chi \u00e8 conosciuto come il \"Re del Rock and Roll\"?",
+    "correctAnswer": "Elvis Presley",
+    "wrongAnswer": [
+      "Michael Jackson",
+      "Bob Dylan",
+      "Madonna"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo strumento principale nella batteria?",
+    "correctAnswer": "Rullante",
+    "wrongAnswer": [
+      "Chitarra",
+      "Pianoforte",
+      "Violino"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il soprannome di Beyonc\u00e9?",
+    "correctAnswer": "Queen B",
+    "wrongAnswer": [
+      "Princess A",
+      "Diva D",
+      "Lady L"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il frontman dei Rolling Stones?",
+    "correctAnswer": "Mick Jagger",
+    "wrongAnswer": [
+      "Keith Richards",
+      "Brian Jones",
+      "Charlie Watts"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il genere musicale di Mozart?",
+    "correctAnswer": "Musica classica",
+    "wrongAnswer": [
+      "Rock",
+      "Jazz",
+      "Hip-hop"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Carlos Santana?",
+    "correctAnswer": "Chitarra",
+    "wrongAnswer": [
+      "Batteria",
+      "Violino",
+      "Tromba"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 conosciuto come \"The Boss\"?",
+    "correctAnswer": "Bruce Springsteen",
+    "wrongAnswer": [
+      "Bob Dylan",
+      "Elton John",
+      "Prince"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il genere musicale principale di Bob Marley?",
+    "correctAnswer": "Reggae",
+    "wrongAnswer": [
+      "Salsa",
+      "Country",
+      "Blues"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 l'album pi\u00f9 venduto di tutti i tempi?",
+    "correctAnswer": "Thriller (Michael Jackson)",
+    "wrongAnswer": [
+      "The Dark Side of the Moon (Pink Floyd)",
+      "Back in Black (AC/DC)",
+      "Rumours (Fleetwood Mac)"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il cantante principale dei Beatles?",
+    "correctAnswer": "Paul McCartney",
+    "wrongAnswer": [
+      "John Lennon",
+      "George Harrison",
+      "Ringo Starr"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Yo-Yo Ma?",
+    "correctAnswer": "Violoncello",
+    "wrongAnswer": [
+      "Pianoforte",
+      "Chitarra",
+      "Tromba"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 la cantante di \"Someone Like You\"?",
+    "correctAnswer": "Adele",
+    "wrongAnswer": [
+      "Taylor Swift",
+      "Katy Perry",
+      "Lady Gaga"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il genere musicale di Eminem?",
+    "correctAnswer": "Rap",
+    "wrongAnswer": [
+      "Rock",
+      "Pop",
+      "Country"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 conosciuto come il \"Re del Pop\"?",
+    "correctAnswer": "Michael Jackson",
+    "wrongAnswer": [
+      "Prince",
+      "Madonna",
+      "Justin Timberlake"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il nome completo di Freddie Mercury?",
+    "correctAnswer": "Farrokh Bulsara",
+    "wrongAnswer": [
+      "Freddie Mars",
+      "Frank Benson",
+      "Felix Montague"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il chitarrista dei Queen?",
+    "correctAnswer": "Brian May",
+    "wrongAnswer": [
+      "Slash",
+      "Jimi Hendrix",
+      "Eric Clapton"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il genere musicale di Taylor Swift?",
+    "correctAnswer": "Pop",
+    "wrongAnswer": [
+      "Country",
+      "Rock",
+      "Rap"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il compositore di \"Fur Elise\"?",
+    "correctAnswer": "Ludwig van Beethoven",
+    "wrongAnswer": [
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Kenny G?",
+    "correctAnswer": "Saxofono",
+    "wrongAnswer": [
+      "Tromba",
+      "Clarinetto",
+      "Flauto"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il cantante di \"Shape of You\"?",
+    "correctAnswer": "Ed Sheeran",
+    "wrongAnswer": [
+      "Bruno Mars",
+      "Justin Bieber",
+      "Shawn Mendes"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il genere musicale dei Nirvana?",
+    "correctAnswer": "Grunge",
+    "wrongAnswer": [
+      "Punk",
+      "Heavy Metal",
+      "Rap"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 la regina del soul?",
+    "correctAnswer": "Aretha Franklin",
+    "wrongAnswer": [
+      "Whitney Houston",
+      "Beyonc\u00e9",
+      "Adele"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il nome del primo album dei Beatles?",
+    "correctAnswer": "Please Please Me",
+    "wrongAnswer": [
+      "Abbey Road",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "The White Album"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il compositore de \"Il lago dei cigni\"?",
+    "correctAnswer": "P\u00ebtr Il'i\u010d \u010cajkovskij (Pyotr Ilyich Tchaikovsky)",
+    "wrongAnswer": [
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il genere musicale dei Red Hot Chili Peppers?",
+    "correctAnswer": "Rock alternativo",
+    "wrongAnswer": [
+      "Punk",
+      "Heavy Metal",
+      "Hip-hop"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il cantante di \"Purple Haze\"?",
+    "correctAnswer": "Jimi Hendrix",
+    "wrongAnswer": [
+      "Eric Clapton",
+      "Jimmy Page",
+      "Pete Townshend"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Sting?",
+    "correctAnswer": "Basso",
+    "wrongAnswer": [
+      "Chitarra",
+      "Batteria",
+      "Pianoforte"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il nome del frontman dei U2?",
+    "correctAnswer": "Bono (Paul Hewson)",
+    "wrongAnswer": [
+      "The Edge",
+      "Adam Clayton",
+      "Larry Mullen Jr."
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il re del pop latino?",
+    "correctAnswer": "Enrique Iglesias",
+    "wrongAnswer": [
+      "Ricky Martin",
+      "Marc Anthony",
+      "Shakira"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il genere musicale di Miles Davis?",
+    "correctAnswer": "Jazz",
+    "wrongAnswer": [
+      "Blues",
+      "Rock",
+      "Rap"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 la cantante di \"Rolling in the Deep\"?",
+    "correctAnswer": "Adele",
+    "wrongAnswer": [
+      "Taylor Swift",
+      "Beyonc\u00e9",
+      "Katy Perry"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Eric Clapton?",
+    "correctAnswer": "Chitarra",
+    "wrongAnswer": [
+      "Batteria",
+      "Pianoforte",
+      "Violino"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il re del rockabilly?",
+    "correctAnswer": "Elvis Presley",
+    "wrongAnswer": [
+      "Chuck Berry",
+      "Buddy Holly",
+      "Jerry Lee Lewis"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il nome completo di Lady Gaga?",
+    "correctAnswer": "Stefani Joanne Angelina Germanotta",
+    "wrongAnswer": [
+      "Madonna Louise Ciccone",
+      "Katy Perry",
+      "Taylor Swift"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 conosciuto come il \"Chitarrista pi\u00f9 veloce del mondo\"?",
+    "correctAnswer": "Yngwie Malmsteen",
+    "wrongAnswer": [
+      "Jimi Hendrix",
+      "Eddie Van Halen",
+      "Eric Clapton"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Alicia Keys?",
+    "correctAnswer": "Pianoforte",
+    "wrongAnswer": [
+      "Chitarra",
+      "Violino",
+      "Batteria"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il \"Pianista del secolo\"?",
+    "correctAnswer": "Vladimir Horowitz",
+    "wrongAnswer": [
+      "Franz Liszt",
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il genere musicale dei Daft Punk?",
+    "correctAnswer": "Musica elettronica",
+    "wrongAnswer": [
+      "Rock",
+      "Pop",
+      "Jazz"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il chitarrista dei Guns N' Roses?",
+    "correctAnswer": "Slash (Saul Hudson)",
+    "wrongAnswer": [
+      "Angus Young",
+      "Jimmy Page",
+      "Eddie Van Halen"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Stevie Wonder?",
+    "correctAnswer": "Armonica a bocca",
+    "wrongAnswer": [
+      "Tromba",
+      "Pianoforte",
+      "Chitarra"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il \"Re del country\"?",
+    "correctAnswer": "Hank Williams",
+    "wrongAnswer": [
+      "Johnny Cash",
+      "Willie Nelson",
+      "Dolly Parton"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il genere musicale dei Beastie Boys?",
+    "correctAnswer": "Hip-hop",
+    "wrongAnswer": [
+      "Rock",
+      "Punk",
+      "Jazz"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il cantante di \"Billie Jean\"?",
+    "correctAnswer": "Michael Jackson",
+    "wrongAnswer": [
+      "Prince",
+      "James Brown",
+      "Stevie Wonder"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Dave Grohl?",
+    "correctAnswer": "Batteria",
+    "wrongAnswer": [
+      "Chitarra",
+      "Basso",
+      "Pianoforte"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 la regina del pop?",
+    "correctAnswer": "Madonna",
+    "wrongAnswer": [
+      "Lady Gaga",
+      "Beyonc\u00e9",
+      "Britney Spears"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il genere musicale di Frank Sinatra?",
+    "correctAnswer": "Jazz",
+    "wrongAnswer": [
+      "Pop",
+      "Rock",
+      "Country"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il \"Re del blues\"?",
+    "correctAnswer": "B.B. King",
+    "wrongAnswer": [
+      "Muddy Waters",
+      "John Lee Hooker",
+      "Buddy Guy"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Angus Young?",
+    "correctAnswer": "Chitarra",
+    "wrongAnswer": [
+      "Batteria",
+      "Basso",
+      "Violino"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 la cantante di \"Wrecking Ball\"?",
+    "correctAnswer": "Miley Cyrus",
+    "wrongAnswer": [
+      "Selena Gomez",
+      "Demi Lovato",
+      "Ariana Grande"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il nome completo di Elton John?",
+    "correctAnswer": "Reginald Kenneth Dwight",
+    "wrongAnswer": [
+      "John Winston Lennon",
+      "Paul David Hewson",
+      "David Robert Jones"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il \"Re del soul\"?",
+    "correctAnswer": "Aretha Franklin",
+    "wrongAnswer": [
+      "Ray Charles",
+      "Otis Redding",
+      "James Brown"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Johnny Cash?",
+    "correctAnswer": "Chitarra",
+    "wrongAnswer": [
+      "Armonica a bocca",
+      "Pianoforte",
+      "Batteria"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il genere musicale di Shakira?",
+    "correctAnswer": "Pop latino",
+    "wrongAnswer": [
+      "Reggae",
+      "Salsa",
+      "Hip-hop"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il \"Re del reggae\"?",
+    "correctAnswer": "Bob Marley",
+    "wrongAnswer": [
+      "Jimmy Cliff",
+      "Peter Tosh",
+      "Damian Marley"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Tony Iommi?",
+    "correctAnswer": "Chitarra",
+    "wrongAnswer": [
+      "Basso",
+      "Batteria",
+      "Violino"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il cantante di \"Bohemian Rhapsody\"?",
+    "correctAnswer": "Freddie Mercury",
+    "wrongAnswer": [
+      "David Bowie",
+      "Elton John",
+      "Mick Jagger"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il genere musicale dei Arctic Monkeys?",
+    "correctAnswer": "Indie rock",
+    "wrongAnswer": [
+      "Punk",
+      "Heavy Metal",
+      "Rap"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il \"Pianista romantico\"?",
+    "correctAnswer": "Fr\u00e9d\u00e9ric Chopin",
+    "wrongAnswer": [
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Franz Liszt"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Janis Joplin?",
+    "correctAnswer": "Voce",
+    "wrongAnswer": [
+      "Chitarra",
+      "Armonica a bocca",
+      "Batteria"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il \"Re del jazz\"?",
+    "correctAnswer": "Louis Armstrong",
+    "wrongAnswer": [
+      "Miles Davis",
+      "Duke Ellington",
+      "Charlie Parker"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il genere musicale dei Ramones?",
+    "correctAnswer": "Punk",
+    "wrongAnswer": [
+      "Rock",
+      "Heavy Metal",
+      "Reggae"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il compositore di \"La Traviata\"?",
+    "correctAnswer": "Giuseppe Verdi",
+    "wrongAnswer": [
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Gioachino Rossini"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Pharrell Williams?",
+    "correctAnswer": "Voce",
+    "wrongAnswer": [
+      "Chitarra",
+      "Batteria",
+      "Pianoforte"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il cantante di \"Uptown Funk\"?",
+    "correctAnswer": "Bruno Mars",
+    "wrongAnswer": [
+      "Justin Timberlake",
+      "Ed Sheeran",
+      "Shawn Mendes"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il nome completo di Sting?",
+    "correctAnswer": "Gordon Sumner",
+    "wrongAnswer": [
+      "David Howell Evans",
+      "Paul David Hewson",
+      "Adam Clayton"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il \"Re del rock psichedelico\"?",
+    "correctAnswer": "Jim Morrison",
+    "wrongAnswer": [
+      "Jimi Hendrix",
+      "Syd Barrett",
+      "Roger Waters"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Jon Bon Jovi?",
+    "correctAnswer": "Voce",
+    "wrongAnswer": [
+      "Chitarra",
+      "Basso",
+      "Batteria"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il \"Re del pop barocco\"?",
+    "correctAnswer": "Johann Sebastian Bach",
+    "wrongAnswer": [
+      "Antonio Vivaldi",
+      "George Frideric Handel",
+      "Henry Purcell"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il genere musicale di Adele?",
+    "correctAnswer": "Pop, Soul",
+    "wrongAnswer": [
+      "Rock",
+      "Rap",
+      "Country"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il compositore di \"Rigoletto\"?",
+    "correctAnswer": "Giuseppe Verdi",
+    "wrongAnswer": [
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Gioachino Rossini"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Carlos Vives?",
+    "correctAnswer": "Voce",
+    "wrongAnswer": [
+      "Chitarra",
+      "Tromba",
+      "Basso"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 la cantante di \"Halo\"?",
+    "correctAnswer": "Beyonc\u00e9",
+    "wrongAnswer": [
+      "Rihanna",
+      "Alicia Keys",
+      "Jennifer Lopez"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il genere musicale di Bruno Mars?",
+    "correctAnswer": "Pop, R&B",
+    "wrongAnswer": [
+      "Rock",
+      "Hip-hop",
+      "Jazz"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il \"Re del boogie-woogie\"?",
+    "correctAnswer": "Albert Ammons",
+    "wrongAnswer": [
+      "Meade Lux Lewis",
+      "Pete Johnson",
+      "Pinetop Smith"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Billie Joe Armstrong?",
+    "correctAnswer": "Chitarra",
+    "wrongAnswer": [
+      "Batteria",
+      "Basso",
+      "Violino"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il cantante di \"Sorry\"?",
+    "correctAnswer": "Justin Bieber",
+    "wrongAnswer": [
+      "The Weeknd",
+      "Drake",
+      "Shawn Mendes"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il nome completo di Johnny Cash?",
+    "correctAnswer": "J.R. Cash",
+    "wrongAnswer": [
+      "Johnny Allen Hendrix",
+      "James Marshall Hendrix",
+      "Johnny B. Goode"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il \"Re del funk\"?",
+    "correctAnswer": "James Brown",
+    "wrongAnswer": [
+      "George Clinton",
+      "Prince",
+      "Rick James"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Lenny Kravitz?",
+    "correctAnswer": "Chitarra",
+    "wrongAnswer": [
+      "Batteria",
+      "Basso",
+      "Pianoforte"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il \"Padrino del soul\"?",
+    "correctAnswer": "James Brown",
+    "wrongAnswer": [
+      "Ray Charles",
+      "Otis Redding",
+      "Marvin Gaye"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il genere musicale dei Green Day?",
+    "correctAnswer": "Punk rock",
+    "wrongAnswer": [
+      "Grunge",
+      "Pop",
+      "Heavy Metal"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il \"Re del pop barocco\"?",
+    "correctAnswer": "Johann Sebastian Bach",
+    "wrongAnswer": [
+      "Antonio Vivaldi",
+      "George Frideric Handel",
+      "Henry Purcell"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Alicia Keys?",
+    "correctAnswer": "Pianoforte",
+    "wrongAnswer": [
+      "Chitarra",
+      "Batteria",
+      "Violino"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 la cantante di \"Rolling in the Deep\"?",
+    "correctAnswer": "Adele",
+    "wrongAnswer": [
+      "Taylor Swift",
+      "Beyonc\u00e9",
+      "Katy Perry"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il nome completo di Sting?",
+    "correctAnswer": "Gordon Sumner",
+    "wrongAnswer": [
+      "David Howell Evans",
+      "Paul David Hewson",
+      "Adam Clayton"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il \"Re del rock psichedelico\"?",
+    "correctAnswer": "Jim Morrison",
+    "wrongAnswer": [
+      "Jimi Hendrix",
+      "Syd Barrett",
+      "Roger Waters"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Jon Bon Jovi?",
+    "correctAnswer": "Voce",
+    "wrongAnswer": [
+      "Chitarra",
+      "Basso",
+      "Batteria"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il \"Re del pop latino\"?",
+    "correctAnswer": "Enrique Iglesias",
+    "wrongAnswer": [
+      "Ricky Martin",
+      "Marc Anthony",
+      "Shakira"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il genere musicale dei The Beatles?",
+    "correctAnswer": "Rock",
+    "wrongAnswer": [
+      "Pop",
+      "Jazz",
+      "Blues"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il chitarrista dei Led Zeppelin?",
+    "correctAnswer": "Jimmy Page",
+    "wrongAnswer": [
+      "Eric Clapton",
+      "Eddie Van Halen",
+      "Tony Iommi"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Carlos Vives?",
+    "correctAnswer": "Voce",
+    "wrongAnswer": [
+      "Chitarra",
+      "Tromba",
+      "Basso"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il cantante di \"Sorry\"?",
+    "correctAnswer": "Justin Bieber",
+    "wrongAnswer": [
+      "The Weeknd",
+      "Drake",
+      "Shawn Mendes"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il nome completo di Johnny Cash?",
+    "correctAnswer": "J.R. Cash",
+    "wrongAnswer": [
+      "Johnny Allen Hendrix",
+      "James Marshall Hendrix",
+      "Johnny B. Goode"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il \"Re del funk\"?",
+    "correctAnswer": "James Brown",
+    "wrongAnswer": [
+      "George Clinton",
+      "Prince",
+      "Rick James"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Lenny Kravitz?",
+    "correctAnswer": "Chitarra",
+    "wrongAnswer": [
+      "Batteria",
+      "Basso",
+      "Pianoforte"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il \"Padrino del soul\"?",
+    "correctAnswer": "James Brown",
+    "wrongAnswer": [
+      "Ray Charles",
+      "Otis Redding",
+      "Marvin Gaye"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il genere musicale dei Green Day?",
+    "correctAnswer": "Punk rock",
+    "wrongAnswer": [
+      "Grunge",
+      "Pop",
+      "Heavy Metal"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 il \"Re del pop barocco\"?",
+    "correctAnswer": "Johann Sebastian Bach",
+    "wrongAnswer": [
+      "Antonio Vivaldi",
+      "George Frideric Handel",
+      "Henry Purcell"
+    ]
+  },
+  {
+    "question": "Quale strumento suona Alicia Keys?",
+    "correctAnswer": "Pianoforte",
+    "wrongAnswer": [
+      "Chitarra",
+      "Batteria",
+      "Violino"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 la cantante di \"Rolling in the Deep\"?",
+    "correctAnswer": "Adele",
+    "wrongAnswer": [
+      "Taylor Swift",
+      "Beyonc\u00e9",
+      "Katy Perry"
+    ]
+  }
+]
