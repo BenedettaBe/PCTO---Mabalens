@@ -266,9 +266,8 @@ Chi è il chitarrista dei Rolling Stones?
 Keith Richards
 Mick Jagger, Brian Jones, Ronnie Wood
 Quale strumento suona Nigel Kennedy?
-Risposta corretta: Violino
-Pianoforte, Tromba, Batteria
-Chi è il cantante dei Queen?
+- Risposta corretta: Violino
+- Pianoforte, Tromba, BatteriaChi è il cantante dei Queen?
 Freddie Mercury
 Brian May, Roger Taylor, John Deacon
 Quale strumento suona Elton John?
@@ -296,5 +295,5 @@ Chi è il cantante di "Bohemian Rhapsody"?
 Freddie Mercury
 Axl Rose, David Bowie, Mick Jagger
 Quale strumento suona Antonio Vivaldi?
-Risposta corretta: Violino
-Pianoforte, Flauto, Tromba
+- Risposta corretta: Violino
+- Pianoforte, Flauto, Tromba

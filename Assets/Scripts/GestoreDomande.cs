@@ -91,11 +91,6 @@ public class GestoreDomande : MonoBehaviour
         return domandaCasuale;
     }
 
-    public void setDomanda(Domanda domanda)
-    {
-        domandaCasuale = domanda;
-    }
-
     // Metodo per mescolare una lista
     private void Shuffle<T>(List<T> list)
     {

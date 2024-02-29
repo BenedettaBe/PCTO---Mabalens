@@ -63,12 +63,12 @@
     ]
   },
   {
-    "question": "D (e)^x",
-    "correctAnswer": "(e)^x",
+    "question": "Risolvi l'equazione: x^2 9 = 0",
+    "correctAnswer": "\u00b13",
     "wrongAnswer": [
-      "12",
-      "ln in base e di x",
-      "[(e)^x]^x"
+      "\u00b12",
+      "\u00b14",
+      "\u00b16"
     ]
   },
   {
@@ -117,7 +117,7 @@
     ]
   },
   {
-    "question": "Risolvi l'equazione: 4x-7 = 5",
+    "question": "Risolvi l'equazione: 4x 7 = 5",
     "correctAnswer": "3",
     "wrongAnswer": [
       "2",
@@ -153,12 +153,12 @@
     ]
   },
   {
-    "question": "Risolvi l'equazione: 2x^2-8 = 0",
-    "correctAnswer": "2^1",
+    "question": "Risolvi l'equazione: 2x^2 8 = 0",
+    "correctAnswer": "\u00b12",
     "wrongAnswer": [
-      "2^0",
-      "3",
-      "4"
+      "\u00b11",
+      "\u00b13",
+      "\u00b14"
     ]
   },
   {
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "question": "Quanto fa 2^5/2?",
+    "question": "Quanto fa 2^5 (2 alla quinta potenza)?",
     "correctAnswer": "32",
     "wrongAnswer": [
       "16",
@@ -243,7 +243,7 @@
     ]
   },
   {
-    "question": "Risolvi l'equazione: x^2-5 = 0",
+    "question": "Risolvi l'equazione: x^2 5 = 0",
     "correctAnswer": "\u00b1\u221a5",
     "wrongAnswer": [
       "\u00b1\u221a3",
@@ -270,7 +270,7 @@
     ]
   },
   {
-    "question": "Quanto fa 25 * 4 - 3^2?",
+    "question": "Quanto fa 25 * 4 3^2?",
     "correctAnswer": "91",
     "wrongAnswer": [
       "82",
@@ -297,12 +297,12 @@
     ]
   },
   {
-    "question": "Risolvi l'equazione: (2*5-3*5)^3=",
-    "correctAnswer": "125",
+    "question": "Risolvi l'equazione: 2x 3 = 7",
+    "correctAnswer": "5",
     "wrongAnswer": [
-      "25",
-      "1,25",
-      "275"
+      "4",
+      "6",
+      "8"
     ]
   },
   {
@@ -333,7 +333,7 @@
     ]
   },
   {
-    "question": "Risolvi l'equazione: 4x^2-16 = 0",
+    "question": "Risolvi l'equazione: 4x^2 16 = 0",
     "correctAnswer": "\u00b12",
     "wrongAnswer": [
       "\u00b11",
@@ -378,16 +378,16 @@
     ]
   },
   {
-    "question": "Quanto fa (3^3)*3 (3 alla terza potenza)?",
-    "correctAnswer": "81",
+    "question": "Quanto fa 3^3 (3 alla terza potenza)?",
+    "correctAnswer": "27",
     "wrongAnswer": [
-      "27",
-      "76",
-      "52"
+      "18",
+      "24",
+      "36"
     ]
   },
   {
-    "question": "Risolvi l'equazione: 5x-10 = 15",
+    "question": "Risolvi l'equazione: 5x 10 = 15",
     "correctAnswer": "5",
     "wrongAnswer": [
       "4",
@@ -423,7 +423,7 @@
     ]
   },
   {
-    "question": "Risolvi l'equazione: 3x^2-12 = 0",
+    "question": "Risolvi l'equazione: 3x^2 12 = 0",
     "correctAnswer": "\u00b12",
     "wrongAnswer": [
       "\u00b11",
@@ -450,11 +450,11 @@
     ]
   },
   {
-    "question": "Quanto fa 9 * 6 * 9?",
-    "correctAnswer": "486",
+    "question": "Quanto fa 9 + 6?",
+    "correctAnswer": "15",
     "wrongAnswer": [
-      "600",
-      "1",
+      "12",
+      "18",
       "21"
     ]
   },
@@ -513,7 +513,7 @@
     ]
   },
   {
-    "question": "Risolvi l'equazione: 3x-7 = 8",
+    "question": "Risolvi l'equazione: 3x 7 = 8",
     "correctAnswer": "5",
     "wrongAnswer": [
       "4",
@@ -567,7 +567,7 @@
     ]
   },
   {
-    "question": "Risolvi l'equazione: 4x-6 = 10",
+    "question": "Risolvi l'equazione: 4x 6 = 10",
     "correctAnswer": "4",
     "wrongAnswer": [
       "2",
@@ -693,12 +693,12 @@
     ]
   },
   {
-    "question": "Risolvi l'equazione: 2 - derivata di 3",
-    "correctAnswer": "2",
+    "question": "Risolvi l'equazione: 2x 3 = 13",
+    "correctAnswer": "8",
     "wrongAnswer": [
       "6",
-      "3",
-      "4"
+      "10",
+      "12"
     ]
   },
   {
@@ -729,7 +729,7 @@
     ]
   },
   {
-    "question": "Risolvi l'equazione: 3y-15 = 21",
+    "question": "Risolvi l'equazione: 3y 15 = 21",
     "correctAnswer": "12",
     "wrongAnswer": [
       "10",
@@ -747,12 +747,12 @@
     ]
   },
   {
-    "question": "Risolvi l'equazione: 5a-10 = -20",
-    "correctAnswer": "-2",
+    "question": "Risolvi l'equazione: 5a 10 = 20",
+    "correctAnswer": "6",
     "wrongAnswer": [
       "8",
-      "-1",
-      "2"
+      "10",
+      "12"
     ]
   },
   {
@@ -765,7 +765,7 @@
     ]
   },
   {
-    "question": "Risolvi l'equazione: 3c-6 = 15",
+    "question": "Risolvi l'equazione: 3c 6 = 15",
     "correctAnswer": "7",
     "wrongAnswer": [
       "8",
@@ -783,7 +783,7 @@
     ]
   },
   {
-    "question": "Risolvi l'equazione: 5e-12 = 18",
+    "question": "Risolvi l'equazione: 5e 12 = 18",
     "correctAnswer": "6",
     "wrongAnswer": [
       "8",
@@ -801,7 +801,7 @@
     ]
   },
   {
-    "question": "Risolvi l'equazione: 3g-7 = 14",
+    "question": "Risolvi l'equazione: 3g 7 = 14",
     "correctAnswer": "7",
     "wrongAnswer": [
       "8",

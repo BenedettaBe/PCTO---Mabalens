@@ -1,7 +1,7 @@
 import openai 
 
 # Set your OpenAI API key
-openai.api_key = 'YOUR_APIKEY'
+openai.api_key = 'APIKEY'
 
 # Initialize conversation with a system message
 messages = [{"role": "system", "content": "You are an intelligent assistant."}]

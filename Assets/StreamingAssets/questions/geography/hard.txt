@@ -108,8 +108,7 @@ Stati Uniti (Arizona, California)
 Messico, Australia, Sudafrica
 Quale lago è situato tra il Ruanda e il Burundi?
 Lago Tanganica
-Lago Vittoria, Lago Malawi, Lago Turkana
-Quale città è attraversata dal fiume Ottawa?
+Lago Vittoria, Lago Malawi, Lago TurkanaQuale città è attraversata dal fiume Ottawa?
 Ottawa
 Montreal, Toronto, Vancouver
 In quale regione si trova la Valle della Loira in Francia?
@@ -201,8 +200,7 @@ Siviglia
 Madrid, Barcellona, Valencia
 Quale paese è attraversato dal fiume Columbia?
 Stati Uniti
-Canada, Messico, Colombia
-In quale paese si trova il Parco Nazionale di Banff?
+Canada, Messico, ColombiaIn quale paese si trova il Parco Nazionale di Banff?
 Canada
 Stati Uniti, Australia, Svizzera
 Quale stato degli Stati Uniti confina con l'Oceano Pacifico, l'Oregon e l'Idaho?

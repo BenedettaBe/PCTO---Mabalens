@@ -802,101 +802,74 @@
   },
   {
     "question": "Quale strumento suona Nigel Kennedy?",
-    "correctAnswer": "Risposta corretta: Violino",
+    "correctAnswer": "- Risposta corretta: Violino",
     "wrongAnswer": [
-      "Pianoforte",
+      "- Pianoforte",
       "Tromba",
-      "Batteria"
+      "BatteriaChi \u00e8 il cantante dei Queen?"
     ]
   },
   {
-    "question": "Chi \u00e8 il cantante dei Queen?",
-    "correctAnswer": "Freddie Mercury",
+    "question": "Freddie Mercury",
+    "correctAnswer": "Brian May, Roger Taylor, John Deacon",
     "wrongAnswer": [
-      "Brian May",
-      "Roger Taylor",
-      "John Deacon"
+      "Quale strumento suona Elton John?"
     ]
   },
   {
-    "question": "Quale strumento suona Elton John?",
-    "correctAnswer": "Pianoforte",
+    "question": "Pianoforte",
+    "correctAnswer": "Chitarra, Batteria, Violino",
     "wrongAnswer": [
-      "Chitarra",
-      "Batteria",
-      "Violino"
+      "Chi \u00e8 il compositore di \"Il Barbiere di Siviglia\"?"
     ]
   },
   {
-    "question": "Chi \u00e8 il compositore di \"Il Barbiere di Siviglia\"?",
-    "correctAnswer": "Gioachino Rossini",
+    "question": "Gioachino Rossini",
+    "correctAnswer": "Giuseppe Verdi, Wolfgang Amadeus Mozart, Ludwig van Beethoven",
     "wrongAnswer": [
-      "Giuseppe Verdi",
-      "Wolfgang Amadeus Mozart",
-      "Ludwig van Beethoven"
+      "Qual \u00e8 il genere musicale di Eminem?"
     ]
   },
   {
-    "question": "Qual \u00e8 il genere musicale di Eminem?",
-    "correctAnswer": "Hip-hop, Rap",
+    "question": "Hip-hop, Rap",
+    "correctAnswer": "Rock, Pop, R&B",
     "wrongAnswer": [
-      "Rock",
-      "Pop",
-      "R&B"
+      "Chi \u00e8 il cantante di \"Imagine\"?"
     ]
   },
   {
-    "question": "Chi \u00e8 il cantante di \"Imagine\"?",
-    "correctAnswer": "John Lennon",
+    "question": "John Lennon",
+    "correctAnswer": "Paul McCartney, George Harrison, Ringo Starr",
     "wrongAnswer": [
-      "Paul McCartney",
-      "George Harrison",
-      "Ringo Starr"
+      "Quale strumento suona Jimi Hendrix?"
     ]
   },
   {
-    "question": "Quale strumento suona Jimi Hendrix?",
-    "correctAnswer": "Chitarra",
+    "question": "Chitarra",
+    "correctAnswer": "Batteria, Saxofono, Pianoforte",
     "wrongAnswer": [
-      "Batteria",
-      "Saxofono",
-      "Pianoforte"
+      "Chi \u00e8 il \"Re del rock and roll\"?"
     ]
   },
   {
-    "question": "Chi \u00e8 il \"Re del rock and roll\"?",
-    "correctAnswer": "Elvis Presley",
+    "question": "Elvis Presley",
+    "correctAnswer": "Chuck Berry, Little Richard, Buddy Holly",
     "wrongAnswer": [
-      "Chuck Berry",
-      "Little Richard",
-      "Buddy Holly"
+      "Qual \u00e8 il genere musicale di Beyonc\u00e9?"
     ]
   },
   {
-    "question": "Qual \u00e8 il genere musicale di Beyonc\u00e9?",
-    "correctAnswer": "R&B, Pop",
+    "question": "R&B, Pop",
+    "correctAnswer": "Rock, Hip-hop, Country",
     "wrongAnswer": [
-      "Rock",
-      "Hip-hop",
-      "Country"
+      "Chi \u00e8 il cantante di \"Bohemian Rhapsody\"?"
     ]
   },
   {
-    "question": "Chi \u00e8 il cantante di \"Bohemian Rhapsody\"?",
-    "correctAnswer": "Freddie Mercury",
+    "question": "Freddie Mercury",
+    "correctAnswer": "Axl Rose, David Bowie, Mick Jagger",
     "wrongAnswer": [
-      "Axl Rose",
-      "David Bowie",
-      "Mick Jagger"
-    ]
-  },
-  {
-    "question": "Quale strumento suona Antonio Vivaldi?",
-    "correctAnswer": "Risposta corretta: Violino",
-    "wrongAnswer": [
-      "Pianoforte",
-      "Flauto",
-      "Tromba"
+      "Quale strumento suona Antonio Vivaldi?"
     ]
   }
 ]

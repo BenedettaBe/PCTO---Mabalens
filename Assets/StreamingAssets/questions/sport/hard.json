@@ -12,9 +12,12 @@
     "question": "Qual \u00e8 il record del mondo per il salto in alto maschile?",
     "correctAnswer": "2,45 metri",
     "wrongAnswer": [
-      "2,30 metri",
-      "2,55 metri",
-      "2,60 metri"
+      "2",
+      "30 metri",
+      "2",
+      "55 metri",
+      "2",
+      "60 metri"
     ]
   },
   {
@@ -892,9 +895,9 @@
   },
   {
     "question": "Chi \u00e8 l'attuale detentore del titolo di campione mondiale dei pesi massimi nel wrestling?",
-    "correctAnswer": "Bobby Lashley",
+    "correctAnswer": "- Bobby Lashley",
     "wrongAnswer": [
-      "Roman Reigns",
+      "- Roman Reigns",
       "Seth Rollins",
       "Kenny Omega"
     ]
