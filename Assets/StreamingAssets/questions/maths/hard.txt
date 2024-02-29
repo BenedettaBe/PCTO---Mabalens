@@ -1,0 +1,270 @@
+Quanto è la radice quadrata di 121?
+11
+9, 13, 15
+Risolvi l'equazione: 2x + 5 = 15
+5
+3, 8, 10
+Quanto fa 3 elevato alla quarta potenza?
+81
+64, 100, 125
+Quanto è la somma degli angoli interni di un triangolo?
+180 gradi
+90 gradi, 120 gradi, 150 gradi
+Quanto è la metà di 3/4?
+3/8
+1/4, 1/2, 5/8
+Quanto fa 4! (4 fattoriale)?
+24
+12, 18, 30
+Quanto fa 2^8 (2 alla ottava potenza)?
+256
+128, 192, 320
+Risolvi l'equazione: x^2 9 = 0
+±3
+±2, ±4, ±6
+Quanto fa 1/3 diviso 2/5?
+5/6
+1/4, 2/5, 3/6
+Quanto è la radice cubica di 64?
+4
+3, 5, 6
+Quanto fa 15% di 200?
+30
+25, 40, 50
+Quanto è 3/5 di 75?
+45
+30, 60, 90
+Quanto fa 7^2 (7 al quadrato)?
+49
+36, 64, 81
+Risolvi l'equazione: 4x 7 = 5
+3
+2, 4, 6
+Quanto è la somma degli angoli interni di un quadrilatero?
+360 gradi
+180 gradi, 270 gradi, 450 gradi
+Quanto fa 2/3 moltiplicato per 9?
+6
+4, 8, 12
+Quanto è 5% di 1200?
+60
+30, 45, 75
+Risolvi l'equazione: 2x^2 8 = 0
+±2
+±1, ±3, ±4
+Quanto fa 4/7 diviso 2/3?
+6/7
+2/5, 3/4, 5/6
+Quanto è la radice quadrata di 144?
+12
+8, 10, 14
+Quanto fa 16 + 3 * 5?
+31
+28, 34, 40
+Quanto è 3/8 di 48?
+18
+12, 24, 36
+Quanto fa 2^5 (2 alla quinta potenza)?
+32
+16, 24, 40
+Risolvi l'equazione: 3x + 6 = 15
+3
+2, 4, 5
+Quanto è la somma degli angoli interni di un pentagono?
+540 gradi
+360 gradi, 450 gradi, 630 gradi
+Quanto fa 0.6 diviso 0.2?
+3
+1.5, 2, 4
+Quanto è 1/4 moltiplicato per 60?
+15
+10, 20, 25
+Risolvi l'equazione: x^2 5 = 0
+±√5
+±√3, ±√7, ±√9
+Quanto fa 2/9 di 81?
+18
+9, 27, 36
+Quanto è la radice cubica di 125?
+5
+3, 4, 6
+Quanto fa 25 * 4 3^2?
+91
+82, 100, 112
+Quanto è 7/8 di 64?
+56
+48, 60, 72
+Quanto fa 2^6 (2 alla sesta potenza)?
+64
+32, 48, 80
+Risolvi l'equazione: 2x 3 = 7
+5
+4, 6, 8
+Quanto è la somma degli angoli interni di un esagono?
+720 gradi
+540 gradi, 630 gradi, 810 gradi
+Quanto fa 0.75 moltiplicato per 80?
+60
+40, 50, 70
+Quanto è 1/3 diviso 3/4?
+4/9
+1/2, 2/3, 3/5
+Risolvi l'equazione: 4x^2 16 = 0
+±2
+±1, ±3, ±4
+Quanto fa 5/6 moltiplicato per 36?
+30
+20, 25, 40
+Quanto è la radice quadrata di 169?
+13
+10, 12, 15
+Quanto fa 18 + 4 * 3?
+30
+24, 36, 42
+Quanto è 2/5 di 50?
+20
+15, 25, 30
+Quanto fa 3^3 (3 alla terza potenza)?
+27
+18, 24, 36
+Risolvi l'equazione: 5x 10 = 15
+5
+4, 6, 8
+Quanto è la somma degli angoli interni di un ettaro?
+900 gradi
+720 gradi, 810 gradi, 1000 gradi
+Quanto fa 0.4 diviso 0.2?
+2
+1, 1.5, 3
+Quanto è 2/3 moltiplicato per 12?
+8
+6, 10, 14
+Risolvi l'equazione: 3x^2 12 = 0
+±2
+±1, ±3, ±4
+Quanto fa 3/4 diviso 1/2?
+1.5
+0.5, 1, 2
+Quanto è la radice cubica di 27?
+3
+2, 4, 5
+Quanto fa 9 + 6?
+15
+12, 18, 21
+Quanto è 2/3 di 90?
+60
+45, 30, 75
+Quanto fa 5^3 (5 alla terza potenza)?
+125
+100, 150, 200
+Risolvi l'equazione: 2x + 5 = 15
+5
+3, 7, 10
+Quanto è la somma degli angoli interni di un triangolo?
+180 gradi
+90 gradi, 120 gradi, 150 gradi
+Quanto fa 3/4 moltiplicato per 48?
+36
+24, 30, 42
+Quanto è 15% di 300?
+45
+30, 50, 60
+Risolvi l'equazione: 3x 7 = 8
+5
+4, 6, 9
+Quanto fa 1/2 diviso 1/4?
+2
+1, 1.5, 3
+Quanto è la radice quadrata di 196?
+14
+12, 16, 18
+Quanto fa 10 + 2 * 4?
+18
+14, 20, 24
+Quanto è 4/5 di 75?
+60
+45, 30, 80
+Quanto fa 6^2 (6 al quadrato)?
+36
+30, 40, 50
+Risolvi l'equazione: 4x 6 = 10
+4
+2, 6, 8
+Quanto è la somma degli angoli interni di un quadrato?
+360 gradi
+180 gradi, 270 gradi, 450 gradi
+Quanto fa 3/5 moltiplicato per 50?
+30
+25, 40, 45
+Quanto è 20% di 250?
+50
+25, 40, 60
+Risolvi l'equazione: 5x + 2 = 17
+3
+2, 4, 6
+Quanto fa 2/3 diviso 3/4?
+8/9
+1/2, 2/3, 1
+Quanto è la radice quadrata di 225?
+15
+10, 12, 18
+Quanto fa 8 + 3 * 2?
+14
+11, 16, 20
+Quanto è 2/4 di 64?
+32
+24, 40, 48
+Quanto fa 7^3 (7 alla terza potenza)?
+343
+300, 400, 500
+Risolvi l'equazione: 3x + 9 = 24
+5
+4, 6, 8
+Quanto è la somma degli angoli interni di un pentagono?
+540 gradi
+360 gradi, 450 gradi, 630 gradi
+Quanto fa 4/5 moltiplicato per 40?
+32
+24, 30, 36
+Quanto è 25% di 200?
+50
+25, 40, 60
+Risolvi l'equazione: 2x 3 = 13
+8
+6, 10, 12
+Quanto fa 1/3 diviso 1/6?
+2
+1, 1.5, 3
+Quanto è la radice quadrata di 144?
+12
+10, 14, 16
+Risolvi l'equazione: 2x + 8 = 18
+5
+6, 7, 8
+Risolvi l'equazione: 3y 15 = 21
+12
+10, 15, 18
+Risolvi l'equazione: 4z + 7 = 31
+6
+7, 8, 9
+Risolvi l'equazione: 5a 10 = 20
+6
+8, 10, 12
+Risolvi l'equazione: 2b + 3 = 13
+5
+6, 7, 8
+Risolvi l'equazione: 3c 6 = 15
+7
+8, 9, 10
+Risolvi l'equazione: 4d + 5 = 25
+5
+6, 7, 8
+Risolvi l'equazione: 5e 12 = 18
+6
+8, 10, 12
+Risolvi l'equazione: 2f + 9 = 19
+5
+6, 7, 8
+Risolvi l'equazione: 3g 7 = 14
+7
+8, 9, 10

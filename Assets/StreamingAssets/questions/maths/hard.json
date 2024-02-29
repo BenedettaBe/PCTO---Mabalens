@@ -1,0 +1,812 @@
+[
+  {
+    "question": "Quanto \u00e8 la radice quadrata di 121?",
+    "correctAnswer": "11",
+    "wrongAnswer": [
+      "9",
+      "13",
+      "15"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 2x + 5 = 15",
+    "correctAnswer": "5",
+    "wrongAnswer": [
+      "3",
+      "8",
+      "10"
+    ]
+  },
+  {
+    "question": "Quanto fa 3 elevato alla quarta potenza?",
+    "correctAnswer": "81",
+    "wrongAnswer": [
+      "64",
+      "100",
+      "125"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la somma degli angoli interni di un triangolo?",
+    "correctAnswer": "180 gradi",
+    "wrongAnswer": [
+      "90 gradi",
+      "120 gradi",
+      "150 gradi"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la met\u00e0 di 3/4?",
+    "correctAnswer": "3/8",
+    "wrongAnswer": [
+      "1/4",
+      "1/2",
+      "5/8"
+    ]
+  },
+  {
+    "question": "Quanto fa 4! (4 fattoriale)?",
+    "correctAnswer": "24",
+    "wrongAnswer": [
+      "12",
+      "18",
+      "30"
+    ]
+  },
+  {
+    "question": "Quanto fa 2^8 (2 alla ottava potenza)?",
+    "correctAnswer": "256",
+    "wrongAnswer": [
+      "128",
+      "192",
+      "320"
+    ]
+  },
+  {
+    "question": "D (e)^x",
+    "correctAnswer": "(e)^x",
+    "wrongAnswer": [
+      "12",
+      "ln in base e di x",
+      "[(e)^x]^x"
+    ]
+  },
+  {
+    "question": "Quanto fa 1/3 diviso 2/5?",
+    "correctAnswer": "5/6",
+    "wrongAnswer": [
+      "1/4",
+      "2/5",
+      "3/6"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la radice cubica di 64?",
+    "correctAnswer": "4",
+    "wrongAnswer": [
+      "3",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "question": "Quanto fa 15% di 200?",
+    "correctAnswer": "30",
+    "wrongAnswer": [
+      "25",
+      "40",
+      "50"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 3/5 di 75?",
+    "correctAnswer": "45",
+    "wrongAnswer": [
+      "30",
+      "60",
+      "90"
+    ]
+  },
+  {
+    "question": "Quanto fa 7^2 (7 al quadrato)?",
+    "correctAnswer": "49",
+    "wrongAnswer": [
+      "36",
+      "64",
+      "81"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 4x-7 = 5",
+    "correctAnswer": "3",
+    "wrongAnswer": [
+      "2",
+      "4",
+      "6"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la somma degli angoli interni di un quadrilatero?",
+    "correctAnswer": "360 gradi",
+    "wrongAnswer": [
+      "180 gradi",
+      "270 gradi",
+      "450 gradi"
+    ]
+  },
+  {
+    "question": "Quanto fa 2/3 moltiplicato per 9?",
+    "correctAnswer": "6",
+    "wrongAnswer": [
+      "4",
+      "8",
+      "12"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 5% di 1200?",
+    "correctAnswer": "60",
+    "wrongAnswer": [
+      "30",
+      "45",
+      "75"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 2x^2-8 = 0",
+    "correctAnswer": "2^1",
+    "wrongAnswer": [
+      "2^0",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question": "Quanto fa 4/7 diviso 2/3?",
+    "correctAnswer": "6/7",
+    "wrongAnswer": [
+      "2/5",
+      "3/4",
+      "5/6"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la radice quadrata di 144?",
+    "correctAnswer": "12",
+    "wrongAnswer": [
+      "8",
+      "10",
+      "14"
+    ]
+  },
+  {
+    "question": "Quanto fa 16 + 3 * 5?",
+    "correctAnswer": "31",
+    "wrongAnswer": [
+      "28",
+      "34",
+      "40"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 3/8 di 48?",
+    "correctAnswer": "18",
+    "wrongAnswer": [
+      "12",
+      "24",
+      "36"
+    ]
+  },
+  {
+    "question": "Quanto fa 2^5/2?",
+    "correctAnswer": "32",
+    "wrongAnswer": [
+      "16",
+      "24",
+      "40"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 3x + 6 = 15",
+    "correctAnswer": "3",
+    "wrongAnswer": [
+      "2",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la somma degli angoli interni di un pentagono?",
+    "correctAnswer": "540 gradi",
+    "wrongAnswer": [
+      "360 gradi",
+      "450 gradi",
+      "630 gradi"
+    ]
+  },
+  {
+    "question": "Quanto fa 0.6 diviso 0.2?",
+    "correctAnswer": "3",
+    "wrongAnswer": [
+      "1.5",
+      "2",
+      "4"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 1/4 moltiplicato per 60?",
+    "correctAnswer": "15",
+    "wrongAnswer": [
+      "10",
+      "20",
+      "25"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: x^2-5 = 0",
+    "correctAnswer": "\u00b1\u221a5",
+    "wrongAnswer": [
+      "\u00b1\u221a3",
+      "\u00b1\u221a7",
+      "\u00b1\u221a9"
+    ]
+  },
+  {
+    "question": "Quanto fa 2/9 di 81?",
+    "correctAnswer": "18",
+    "wrongAnswer": [
+      "9",
+      "27",
+      "36"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la radice cubica di 125?",
+    "correctAnswer": "5",
+    "wrongAnswer": [
+      "3",
+      "4",
+      "6"
+    ]
+  },
+  {
+    "question": "Quanto fa 25 * 4 - 3^2?",
+    "correctAnswer": "91",
+    "wrongAnswer": [
+      "82",
+      "100",
+      "112"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 7/8 di 64?",
+    "correctAnswer": "56",
+    "wrongAnswer": [
+      "48",
+      "60",
+      "72"
+    ]
+  },
+  {
+    "question": "Quanto fa 2^6 (2 alla sesta potenza)?",
+    "correctAnswer": "64",
+    "wrongAnswer": [
+      "32",
+      "48",
+      "80"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: (2*5-3*5)^3=",
+    "correctAnswer": "125",
+    "wrongAnswer": [
+      "25",
+      "1,25",
+      "275"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la somma degli angoli interni di un esagono?",
+    "correctAnswer": "720 gradi",
+    "wrongAnswer": [
+      "540 gradi",
+      "630 gradi",
+      "810 gradi"
+    ]
+  },
+  {
+    "question": "Quanto fa 0.75 moltiplicato per 80?",
+    "correctAnswer": "60",
+    "wrongAnswer": [
+      "40",
+      "50",
+      "70"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 1/3 diviso 3/4?",
+    "correctAnswer": "4/9",
+    "wrongAnswer": [
+      "1/2",
+      "2/3",
+      "3/5"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 4x^2-16 = 0",
+    "correctAnswer": "\u00b12",
+    "wrongAnswer": [
+      "\u00b11",
+      "\u00b13",
+      "\u00b14"
+    ]
+  },
+  {
+    "question": "Quanto fa 5/6 moltiplicato per 36?",
+    "correctAnswer": "30",
+    "wrongAnswer": [
+      "20",
+      "25",
+      "40"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la radice quadrata di 169?",
+    "correctAnswer": "13",
+    "wrongAnswer": [
+      "10",
+      "12",
+      "15"
+    ]
+  },
+  {
+    "question": "Quanto fa 18 + 4 * 3?",
+    "correctAnswer": "30",
+    "wrongAnswer": [
+      "24",
+      "36",
+      "42"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 2/5 di 50?",
+    "correctAnswer": "20",
+    "wrongAnswer": [
+      "15",
+      "25",
+      "30"
+    ]
+  },
+  {
+    "question": "Quanto fa (3^3)*3 (3 alla terza potenza)?",
+    "correctAnswer": "81",
+    "wrongAnswer": [
+      "27",
+      "76",
+      "52"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 5x-10 = 15",
+    "correctAnswer": "5",
+    "wrongAnswer": [
+      "4",
+      "6",
+      "8"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la somma degli angoli interni di un ettaro?",
+    "correctAnswer": "900 gradi",
+    "wrongAnswer": [
+      "720 gradi",
+      "810 gradi",
+      "1000 gradi"
+    ]
+  },
+  {
+    "question": "Quanto fa 0.4 diviso 0.2?",
+    "correctAnswer": "2",
+    "wrongAnswer": [
+      "1",
+      "1.5",
+      "3"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 2/3 moltiplicato per 12?",
+    "correctAnswer": "8",
+    "wrongAnswer": [
+      "6",
+      "10",
+      "14"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 3x^2-12 = 0",
+    "correctAnswer": "\u00b12",
+    "wrongAnswer": [
+      "\u00b11",
+      "\u00b13",
+      "\u00b14"
+    ]
+  },
+  {
+    "question": "Quanto fa 3/4 diviso 1/2?",
+    "correctAnswer": "1.5",
+    "wrongAnswer": [
+      "0.5",
+      "1",
+      "2"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la radice cubica di 27?",
+    "correctAnswer": "3",
+    "wrongAnswer": [
+      "2",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 * 6 * 9?",
+    "correctAnswer": "486",
+    "wrongAnswer": [
+      "600",
+      "1",
+      "21"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 2/3 di 90?",
+    "correctAnswer": "60",
+    "wrongAnswer": [
+      "45",
+      "30",
+      "75"
+    ]
+  },
+  {
+    "question": "Quanto fa 5^3 (5 alla terza potenza)?",
+    "correctAnswer": "125",
+    "wrongAnswer": [
+      "100",
+      "150",
+      "200"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 2x + 5 = 15",
+    "correctAnswer": "5",
+    "wrongAnswer": [
+      "3",
+      "7",
+      "10"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la somma degli angoli interni di un triangolo?",
+    "correctAnswer": "180 gradi",
+    "wrongAnswer": [
+      "90 gradi",
+      "120 gradi",
+      "150 gradi"
+    ]
+  },
+  {
+    "question": "Quanto fa 3/4 moltiplicato per 48?",
+    "correctAnswer": "36",
+    "wrongAnswer": [
+      "24",
+      "30",
+      "42"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 15% di 300?",
+    "correctAnswer": "45",
+    "wrongAnswer": [
+      "30",
+      "50",
+      "60"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 3x-7 = 8",
+    "correctAnswer": "5",
+    "wrongAnswer": [
+      "4",
+      "6",
+      "9"
+    ]
+  },
+  {
+    "question": "Quanto fa 1/2 diviso 1/4?",
+    "correctAnswer": "2",
+    "wrongAnswer": [
+      "1",
+      "1.5",
+      "3"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la radice quadrata di 196?",
+    "correctAnswer": "14",
+    "wrongAnswer": [
+      "12",
+      "16",
+      "18"
+    ]
+  },
+  {
+    "question": "Quanto fa 10 + 2 * 4?",
+    "correctAnswer": "18",
+    "wrongAnswer": [
+      "14",
+      "20",
+      "24"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 4/5 di 75?",
+    "correctAnswer": "60",
+    "wrongAnswer": [
+      "45",
+      "30",
+      "80"
+    ]
+  },
+  {
+    "question": "Quanto fa 6^2 (6 al quadrato)?",
+    "correctAnswer": "36",
+    "wrongAnswer": [
+      "30",
+      "40",
+      "50"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 4x-6 = 10",
+    "correctAnswer": "4",
+    "wrongAnswer": [
+      "2",
+      "6",
+      "8"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la somma degli angoli interni di un quadrato?",
+    "correctAnswer": "360 gradi",
+    "wrongAnswer": [
+      "180 gradi",
+      "270 gradi",
+      "450 gradi"
+    ]
+  },
+  {
+    "question": "Quanto fa 3/5 moltiplicato per 50?",
+    "correctAnswer": "30",
+    "wrongAnswer": [
+      "25",
+      "40",
+      "45"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 20% di 250?",
+    "correctAnswer": "50",
+    "wrongAnswer": [
+      "25",
+      "40",
+      "60"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 5x + 2 = 17",
+    "correctAnswer": "3",
+    "wrongAnswer": [
+      "2",
+      "4",
+      "6"
+    ]
+  },
+  {
+    "question": "Quanto fa 2/3 diviso 3/4?",
+    "correctAnswer": "8/9",
+    "wrongAnswer": [
+      "1/2",
+      "2/3",
+      "1"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la radice quadrata di 225?",
+    "correctAnswer": "15",
+    "wrongAnswer": [
+      "10",
+      "12",
+      "18"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 + 3 * 2?",
+    "correctAnswer": "14",
+    "wrongAnswer": [
+      "11",
+      "16",
+      "20"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 2/4 di 64?",
+    "correctAnswer": "32",
+    "wrongAnswer": [
+      "24",
+      "40",
+      "48"
+    ]
+  },
+  {
+    "question": "Quanto fa 7^3 (7 alla terza potenza)?",
+    "correctAnswer": "343",
+    "wrongAnswer": [
+      "300",
+      "400",
+      "500"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 3x + 9 = 24",
+    "correctAnswer": "5",
+    "wrongAnswer": [
+      "4",
+      "6",
+      "8"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la somma degli angoli interni di un pentagono?",
+    "correctAnswer": "540 gradi",
+    "wrongAnswer": [
+      "360 gradi",
+      "450 gradi",
+      "630 gradi"
+    ]
+  },
+  {
+    "question": "Quanto fa 4/5 moltiplicato per 40?",
+    "correctAnswer": "32",
+    "wrongAnswer": [
+      "24",
+      "30",
+      "36"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 25% di 200?",
+    "correctAnswer": "50",
+    "wrongAnswer": [
+      "25",
+      "40",
+      "60"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 2 - derivata di 3",
+    "correctAnswer": "2",
+    "wrongAnswer": [
+      "6",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question": "Quanto fa 1/3 diviso 1/6?",
+    "correctAnswer": "2",
+    "wrongAnswer": [
+      "1",
+      "1.5",
+      "3"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la radice quadrata di 144?",
+    "correctAnswer": "12",
+    "wrongAnswer": [
+      "10",
+      "14",
+      "16"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 2x + 8 = 18",
+    "correctAnswer": "5",
+    "wrongAnswer": [
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 3y-15 = 21",
+    "correctAnswer": "12",
+    "wrongAnswer": [
+      "10",
+      "15",
+      "18"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 4z + 7 = 31",
+    "correctAnswer": "6",
+    "wrongAnswer": [
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 5a-10 = -20",
+    "correctAnswer": "-2",
+    "wrongAnswer": [
+      "8",
+      "-1",
+      "2"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 2b + 3 = 13",
+    "correctAnswer": "5",
+    "wrongAnswer": [
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 3c-6 = 15",
+    "correctAnswer": "7",
+    "wrongAnswer": [
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 4d + 5 = 25",
+    "correctAnswer": "5",
+    "wrongAnswer": [
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 5e-12 = 18",
+    "correctAnswer": "6",
+    "wrongAnswer": [
+      "8",
+      "10",
+      "12"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 2f + 9 = 19",
+    "correctAnswer": "5",
+    "wrongAnswer": [
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 3g-7 = 14",
+    "correctAnswer": "7",
+    "wrongAnswer": [
+      "8",
+      "9",
+      "10"
+    ]
+  }
+]

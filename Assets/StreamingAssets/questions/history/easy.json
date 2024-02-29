@@ -1,0 +1,902 @@
+[
+  {
+    "question": "Chi \u00e8 stato il primo presidente degli Stati Uniti?",
+    "correctAnswer": "George Washington",
+    "wrongAnswer": [
+      "Abraham Lincoln",
+      "Thomas Jefferson",
+      "John F. Kennedy"
+    ]
+  },
+  {
+    "question": "In quale periodo \u00e8 avvenuta la Rivoluzione francese?",
+    "correctAnswer": "1789-1799",
+    "wrongAnswer": [
+      "1600-1700",
+      "1800-1900",
+      "1900-2000"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il leader dell'Impero romano durante la sua massima estensione territoriale?",
+    "correctAnswer": "Augusto (Otaviano)",
+    "wrongAnswer": [
+      "Giulio Cesare",
+      "Marco Aurelio",
+      "Nerone"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 iniziata la Seconda Guerra Mondiale?",
+    "correctAnswer": "1939",
+    "wrongAnswer": [
+      "1914",
+      "1945",
+      "1950"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stata la dinastia governante durante la Cina antica?",
+    "correctAnswer": "Dinastia Zhou",
+    "wrongAnswer": [
+      "Dinastia Ming",
+      "Dinastia Qing",
+      "Dinastia Tang"
+    ]
+  },
+  {
+    "question": "Chi era la regina d'Egitto famosa per la sua relazione con Marco Antonio e Cesare?",
+    "correctAnswer": "Cleopatra",
+    "wrongAnswer": [
+      "Nefertiti",
+      "Iside",
+      "Hatshepsut"
+    ]
+  },
+  {
+    "question": "In quale continente si \u00e8 svolta la guerra dei Boeri?",
+    "correctAnswer": "Africa",
+    "wrongAnswer": [
+      "Asia",
+      "Europa",
+      "America"
+    ]
+  },
+  {
+    "question": "Quale evento storico \u00e8 noto come \"Il Grande Saltino in Avanti\"?",
+    "correctAnswer": "Rivoluzione Culturale cinese",
+    "wrongAnswer": [
+      "Rivoluzione Industriale",
+      "Guerra Fredda",
+      "Rivoluzione Russa"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo uomo a mettere piede sulla Luna?",
+    "correctAnswer": "Neil Armstrong",
+    "wrongAnswer": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "John Glenn"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 caduto l'Impero Romano d'Occidente?",
+    "correctAnswer": "V secolo",
+    "wrongAnswer": [
+      "III secolo",
+      "II secolo",
+      "VI secolo"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato la fine della Prima Guerra Mondiale?",
+    "correctAnswer": "Trattato di Versailles",
+    "wrongAnswer": [
+      "Trattato di Rapallo",
+      "Trattato di Trianon",
+      "Trattato di Brest-Litovsk"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo presidente degli Stati Uniti ad essere assassinato?",
+    "correctAnswer": "Abraham Lincoln",
+    "wrongAnswer": [
+      "John F. Kennedy",
+      "Thomas Jefferson",
+      "Franklin D. Roosevelt"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stato il periodo della \"Guerra dei Cent'anni\"?",
+    "correctAnswer": "1337-1453",
+    "wrongAnswer": [
+      "1200-1300",
+      "1500-1600",
+      "1700-1800"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il leader della Rivoluzione cubana nel 1959?",
+    "correctAnswer": "Fidel Castro",
+    "wrongAnswer": [
+      "Che Guevara",
+      "Batista",
+      "Camilo Cienfuegos"
+    ]
+  },
+  {
+    "question": "In quale periodo storico \u00e8 fiorita la civilt\u00e0 greca classica?",
+    "correctAnswer": "V-IV secolo a.C.",
+    "wrongAnswer": [
+      "I secolo a.C.",
+      "II secolo d.C.",
+      "III secolo a.C."
+    ]
+  },
+  {
+    "question": "Quale evento storico \u00e8 noto come la \"Notte dei Cristalli\"?",
+    "correctAnswer": "Pogrom contro gli ebrei nel 1938",
+    "wrongAnswer": [
+      "Incendio di Roma",
+      "Rivolta di Spartaco",
+      "Inquisizione spagnola"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stata la prima donna a vincere il Premio Nobel per la Pace?",
+    "correctAnswer": "Bertha von Suttner",
+    "wrongAnswer": [
+      "Marie Curie",
+      "Malala Yousafzai",
+      "Mother Teresa"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 fu la capitale dell'Impero bizantino?",
+    "correctAnswer": "Costantinopoli",
+    "wrongAnswer": [
+      "Atene",
+      "Roma",
+      "Alessandria"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stato l'evento che ha segnato l'inizio della Rivoluzione industriale in Inghilterra?",
+    "correctAnswer": "Invenzione della macchina a vapore",
+    "wrongAnswer": [
+      "Rivoluzione Francese",
+      "Guerra civile inglese",
+      "Trattato di Windsor"
+    ]
+  },
+  {
+    "question": "Chi era il comandante supremo delle forze alleate durante la Seconda Guerra Mondiale?",
+    "correctAnswer": "Dwight D. Eisenhower",
+    "wrongAnswer": [
+      "Winston Churchill",
+      "Franklin D. Roosevelt",
+      "Charles de Gaulle"
+    ]
+  },
+  {
+    "question": "Quale impero controllava gran parte del Medio Oriente, del Nord Africa e dell'Europa meridionale nel IX secolo?",
+    "correctAnswer": "Impero Abbaside",
+    "wrongAnswer": [
+      "Impero Romano",
+      "Impero Ottomano",
+      "Impero Mongolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo imperatore della dinastia cinese Qin?",
+    "correctAnswer": "Qin Shi Huang",
+    "wrongAnswer": [
+      "Confucio",
+      "Laozi",
+      "Sun Tzu"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata firmata la Dichiarazione d'Indipendenza degli Stati Uniti?",
+    "correctAnswer": "1776",
+    "wrongAnswer": [
+      "1789",
+      "1800",
+      "1850"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il leader della Rivoluzione russa del 1917?",
+    "correctAnswer": "Vladimir Lenin",
+    "wrongAnswer": [
+      "Joseph Stalin",
+      "Leon Trotsky",
+      "Nicholas II"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 avvenuta la Riforma protestante guidata da Martin Lutero?",
+    "correctAnswer": "XVI secolo",
+    "wrongAnswer": [
+      "XV secolo",
+      "XVII secolo",
+      "XVIII secolo"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato l'inizio della Guerra Fredda?",
+    "correctAnswer": "Bomba atomica su Hiroshima e Nagasaki",
+    "wrongAnswer": [
+      "Caduta del Muro di Berlino",
+      "Rivoluzione russa",
+      "Trattato di Versailles"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il fondatore dell'impero mongolo nel XIII secolo?",
+    "correctAnswer": "Genghis Khan",
+    "wrongAnswer": [
+      "Kublai Khan",
+      "Tamerlano",
+      "Attila"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stato il periodo della \"Belle \u00c9poque\" in Europa?",
+    "correctAnswer": "Fine XIX - inizio XX secolo",
+    "wrongAnswer": [
+      "XVII secolo",
+      "XVIII secolo",
+      "XVI secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il comandante delle forze alleate durante la Battaglia di Normandia (D-Day)?",
+    "correctAnswer": "Dwight D. Eisenhower",
+    "wrongAnswer": [
+      "Douglas MacArthur",
+      "George Patton",
+      "Bernard Montgomery"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata fondata l'Organizzazione delle Nazioni Unite (ONU)?",
+    "correctAnswer": "1945",
+    "wrongAnswer": [
+      "1919",
+      "1939",
+      "1955"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il fondatore dell'Impero romano?",
+    "correctAnswer": "Romolo",
+    "wrongAnswer": [
+      "Giulio Cesare",
+      "Augusto",
+      "Nerone"
+    ]
+  },
+  {
+    "question": "Quale evento ha scatenato la Prima Guerra Mondiale?",
+    "correctAnswer": "L'assassinio di Francesco Ferdinando",
+    "wrongAnswer": [
+      "La Rivoluzione russa",
+      "L'invasione della Polonia",
+      "La firma del Trattato di Versailles"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il presidente degli Stati Uniti durante la Guerra civile americana?",
+    "correctAnswer": "Abraham Lincoln",
+    "wrongAnswer": [
+      "George Washington",
+      "Thomas Jefferson",
+      "Franklin D. Roosevelt"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stato il periodo della \"Peste Nera\" in Europa?",
+    "correctAnswer": "XIV secolo",
+    "wrongAnswer": [
+      "XV secolo",
+      "XIII secolo",
+      "XVI secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il comandante dell'esercito cartaginese durante le Guerre Puniche?",
+    "correctAnswer": "Annibale",
+    "wrongAnswer": [
+      "Scipione l'Africano",
+      "Agatocle",
+      "Caracalla"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata firmata la Dichiarazione Universale dei Diritti Umani?",
+    "correctAnswer": "1948",
+    "wrongAnswer": [
+      "1919",
+      "1939",
+      "1955"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il leader dell'Unione Sovietica durante la Guerra Fredda?",
+    "correctAnswer": "Joseph Stalin",
+    "wrongAnswer": [
+      "Vladimir Lenin",
+      "Nikita Khrushchev",
+      "Mikhail Gorbachev"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 stata la capitale dell'Impero romano d'Oriente?",
+    "correctAnswer": "Costantinopoli",
+    "wrongAnswer": [
+      "Roma",
+      "Atene",
+      "Alessandria"
+    ]
+  },
+  {
+    "question": "In quale periodo \u00e8 vissuto Leonardo da Vinci?",
+    "correctAnswer": "Rinascimento",
+    "wrongAnswer": [
+      "Medioevo",
+      "Barocco",
+      "Rococ\u00f2"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il comandante delle forze alleate durante la Battaglia di Stalingrado?",
+    "correctAnswer": "Georgi Zhukov",
+    "wrongAnswer": [
+      "Dwight D. Eisenhower",
+      "Bernard Montgomery",
+      "Erwin Rommel"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato l'inizio della Rivoluzione industriale?",
+    "correctAnswer": "Invenzione della filatura meccanica",
+    "wrongAnswer": [
+      "Rivoluzione francese",
+      "Invenzione della stampa",
+      "Scoperta dell'America"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 avvenuta la scoperta dell'America da parte di Cristoforo Colombo?",
+    "correctAnswer": "XV secolo",
+    "wrongAnswer": [
+      "XIV secolo",
+      "XVI secolo",
+      "XVII secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo imperatore romano a convertirsi al cristianesimo?",
+    "correctAnswer": "Costantino il Grande",
+    "wrongAnswer": [
+      "Augusto",
+      "Marco Aurelio",
+      "Nerone"
+    ]
+  },
+  {
+    "question": "Quale guerra \u00e8 stata combattuta tra Nord e Sud negli Stati Uniti?",
+    "correctAnswer": "Guerra Civile Americana",
+    "wrongAnswer": [
+      "Guerra d'Indipendenza Americana",
+      "Guerra messico-americana",
+      "Guerra del Vietnam"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il fondatore dell'Impero ottomano?",
+    "correctAnswer": "Osman I",
+    "wrongAnswer": [
+      "Solimano il Magnifico",
+      "Maometto II",
+      "Abdul Hamid II"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata firmata la Magna Carta in Inghilterra?",
+    "correctAnswer": "1215",
+    "wrongAnswer": [
+      "1066",
+      "1348",
+      "1492"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo presidente degli Stati Uniti a essere impeachato?",
+    "correctAnswer": "Andrew Johnson",
+    "wrongAnswer": [
+      "Bill Clinton",
+      "Richard Nixon",
+      "Ronald Reagan"
+    ]
+  },
+  {
+    "question": "Quale rivoluzione ha portato al rovesciamento della dinastia russa dei Romanov?",
+    "correctAnswer": "Rivoluzione russa del 1917",
+    "wrongAnswer": [
+      "Rivoluzione francese",
+      "Rivoluzione americana",
+      "Rivoluzione cinese"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 avvenuta la Guerra dei Trent'anni in Europa?",
+    "correctAnswer": "XVII secolo",
+    "wrongAnswer": [
+      "XVI secolo",
+      "XVIII secolo",
+      "XIX secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il leader del movimento per i diritti civili negli Stati Uniti negli anni '60?",
+    "correctAnswer": "Martin Luther King Jr.",
+    "wrongAnswer": [
+      "Malcolm X",
+      "Rosa Parks",
+      "Nelson Mandela"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato l'inizio della Rivoluzione francese?",
+    "correctAnswer": "Presa della Bastiglia",
+    "wrongAnswer": [
+      "Esecuzione di Luigi XVI",
+      "Dichiarazione dei Diritti dell'Uomo e del Cittadino",
+      "Riunione degli Stati Generali"
+    ]
+  },
+  {
+    "question": "In quale periodo storico \u00e8 fiorita la civilt\u00e0 romana?",
+    "correctAnswer": "Antica Roma",
+    "wrongAnswer": [
+      "Rinascimento",
+      "Medioevo",
+      "Et\u00e0 moderna"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il comandante delle forze alleate durante la Battaglia d'Inghilterra?",
+    "correctAnswer": "Sir Hugh Dowding",
+    "wrongAnswer": [
+      "Winston Churchill",
+      "Douglas Bader",
+      "Hermann G\u00f6ring"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato la fine della Guerra Fredda?",
+    "correctAnswer": "Caduta del Muro di Berlino",
+    "wrongAnswer": [
+      "Dissoluzione dell'URSS",
+      "Trattato START",
+      "Rivoluzione di velluto in Cecoslovacchia"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo uomo a circumnavigare la Terra?",
+    "correctAnswer": "Ferdinando Magellano (completata da Juan Sebasti\u00e1n Elcano)",
+    "wrongAnswer": [
+      "Cristoforo Colombo",
+      "James Cook",
+      "Marco Polo"
+    ]
+  },
+  {
+    "question": "In quale periodo \u00e8 vissuto William Shakespeare?",
+    "correctAnswer": "XVI-XVII secolo",
+    "wrongAnswer": [
+      "XIV secolo",
+      "XV secolo",
+      "XVIII secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il leader dell'Impero mongolo dopo Genghis Khan?",
+    "correctAnswer": "Kublai Khan",
+    "wrongAnswer": [
+      "Tamerlano",
+      "Attila",
+      "\u00d6gedei Khan"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato l'inizio della Rivoluzione industriale in Inghilterra?",
+    "correctAnswer": "Invenzione della filatura meccanica",
+    "wrongAnswer": [
+      "Rivoluzione francese",
+      "Invenzione della stampa",
+      "Scoperta dell'America"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 iniziata la Guerra del Vietnam?",
+    "correctAnswer": "1955",
+    "wrongAnswer": [
+      "1945",
+      "1965",
+      "1975"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo presidente degli Stati Uniti ad essere fotografato?",
+    "correctAnswer": "John Quincy Adams",
+    "wrongAnswer": [
+      "George Washington",
+      "Abraham Lincoln",
+      "Thomas Jefferson"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato la fine della Guerra Civile Americana?",
+    "correctAnswer": "Resa di Robert E. Lee a Appomattox",
+    "wrongAnswer": [
+      "Battaglia di Gettysburg",
+      "Assedio di Vicksburg",
+      "Assasinio di Abraham Lincoln"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 stata la Rivoluzione industriale in Europa?",
+    "correctAnswer": "XIX secolo",
+    "wrongAnswer": [
+      "XVIII secolo",
+      "XVII secolo",
+      "XX secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il presidente degli Stati Uniti durante la Guerra di Secessione?",
+    "correctAnswer": "Abraham Lincoln",
+    "wrongAnswer": [
+      "Andrew Johnson",
+      "Ulysses S. Grant",
+      "James Buchanan"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stato il periodo dell'Impero carolingio sotto Carlo Magno?",
+    "correctAnswer": "VIII-IX secolo",
+    "wrongAnswer": [
+      "VI secolo",
+      "X secolo",
+      "XI secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stata la regina d'Inghilterra durante l'epoca elisabettiana?",
+    "correctAnswer": "Elisabetta I",
+    "wrongAnswer": [
+      "Maria Tudor",
+      "Anna Bolena",
+      "Caterina de' Medici"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato la fine della Guerra Fredda in Europa?",
+    "correctAnswer": "Caduta del Muro di Berlino",
+    "wrongAnswer": [
+      "Dissoluzione dell'URSS",
+      "Trattato START",
+      "Rivoluzione di velluto in Cecoslovacchia"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo uomo a salire sulla vetta dell'Everest?",
+    "correctAnswer": "Sir Edmund Hillary (con Tenzing Norgay)",
+    "wrongAnswer": [
+      "Reinhold Messner",
+      "Junko Tabei",
+      "George Mallory"
+    ]
+  },
+  {
+    "question": "Quale impero ha costruito la Grande Muraglia cinese?",
+    "correctAnswer": "Impero cinese",
+    "wrongAnswer": [
+      "Impero mongolo",
+      "Impero romano",
+      "Impero persiano"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 avvenuta la scoperta dell'America da parte di Cristoforo Colombo?",
+    "correctAnswer": "XV secolo",
+    "wrongAnswer": [
+      "XIV secolo",
+      "XVI secolo",
+      "XVII secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo imperatore della dinastia cinese Han?",
+    "correctAnswer": "Liu Bang (Han Gaozu)",
+    "wrongAnswer": [
+      "Qin Shi Huang",
+      "Han Wudi",
+      "Tang Taizong"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato la fine della Prima Guerra Mondiale?",
+    "correctAnswer": "Trattato di Versailles",
+    "wrongAnswer": [
+      "Trattato di Rapallo",
+      "Trattato di Trianon",
+      "Trattato di Brest-Litovsk"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 scoppiata la Rivoluzione russa?",
+    "correctAnswer": "1917",
+    "wrongAnswer": [
+      "1905",
+      "1920",
+      "1930"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il generale dell'esercito confederato durante la Guerra Civile Americana?",
+    "correctAnswer": "Robert E. Lee",
+    "wrongAnswer": [
+      "Stonewall Jackson",
+      "Ulysses S. Grant",
+      "William T. Sherman"
+    ]
+  },
+  {
+    "question": "Quale evento ha scatenato la Guerra di Secessione negli Stati Uniti?",
+    "correctAnswer": "Attacco a Fort Sumter",
+    "wrongAnswer": [
+      "Proclamazione di Emancipazione",
+      "Assasinio di Abraham Lincoln",
+      "Battaglia di Gettysburg"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il presidente degli Stati Uniti durante la Guerra di Secessione?",
+    "correctAnswer": "Abraham Lincoln",
+    "wrongAnswer": [
+      "Andrew Johnson",
+      "Ulysses S. Grant",
+      "James Buchanan"
+    ]
+  },
+  {
+    "question": "In quale periodo \u00e8 vissuto Marco Polo?",
+    "correctAnswer": "XIII-XIV secolo",
+    "wrongAnswer": [
+      "XV secolo",
+      "XII secolo",
+      "XIV-XV secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il comandante dell'Armata Rossa durante la Seconda Guerra Mondiale?",
+    "correctAnswer": "Joseph Stalin",
+    "wrongAnswer": [
+      "Georgi Zhukov",
+      "Vasilij Zajcev",
+      "Nikita Khrushchev"
+    ]
+  },
+  {
+    "question": "Quale rivoluzione ha portato al rovesciamento della dinastia russa dei Romanov?",
+    "correctAnswer": "Rivoluzione russa del 1917",
+    "wrongAnswer": [
+      "Rivoluzione francese",
+      "Rivoluzione americana",
+      "Rivoluzione cinese"
+    ]
+  },
+  {
+    "question": "In quale periodo \u00e8 vissuto William Wallace, il protagonista di \"Braveheart\"?",
+    "correctAnswer": "XIII secolo",
+    "wrongAnswer": [
+      "XV secolo",
+      "XIV secolo",
+      "XII secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il fondatore della dinastia Ming in Cina?",
+    "correctAnswer": "Zhu Yuanzhang (Hongwu)",
+    "wrongAnswer": [
+      "Kublai Khan",
+      "Qin Shi Huang",
+      "Kangxi"
+    ]
+  },
+  {
+    "question": "Quale guerra \u00e8 stata combattuta tra Nord e Sud negli Stati Uniti?",
+    "correctAnswer": "Guerra Civile Americana",
+    "wrongAnswer": [
+      "Guerra d'Indipendenza Americana",
+      "Guerra messico-americana",
+      "Guerra del Vietnam"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo imperatore della dinastia cinese Han?",
+    "correctAnswer": "Liu Bang (Han Gaozu)",
+    "wrongAnswer": [
+      "Qin Shi Huang",
+      "Han Wudi",
+      "Tang Taizong"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata firmata la Magna Carta in Inghilterra?",
+    "correctAnswer": "1215",
+    "wrongAnswer": [
+      "1066",
+      "1348",
+      "1492"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il generale dell'esercito confederato durante la Guerra Civile Americana?",
+    "correctAnswer": "Robert E. Lee",
+    "wrongAnswer": [
+      "Stonewall Jackson",
+      "Ulysses S. Grant",
+      "William T. Sherman"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stato il periodo dell'Impero carolingio sotto Carlo Magno?",
+    "correctAnswer": "VIII-IX secolo",
+    "wrongAnswer": [
+      "VI secolo",
+      "X secolo",
+      "XI secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo imperatore romano a convertirsi al cristianesimo?",
+    "correctAnswer": "Costantino il Grande",
+    "wrongAnswer": [
+      "Augusto",
+      "Marco Aurelio",
+      "Nerone"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 avvenuta la Riforma protestante guidata da Martin Lutero?",
+    "correctAnswer": "XVI secolo",
+    "wrongAnswer": [
+      "XV secolo",
+      "XVII secolo",
+      "XVIII secolo"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato l'inizio della Guerra Fredda?",
+    "correctAnswer": "Bomba atomica su Hiroshima e Nagasaki",
+    "wrongAnswer": [
+      "Caduta del Muro di Berlino",
+      "Rivoluzione russa",
+      "Trattato di Versailles"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il fondatore dell'impero mongolo nel XIII secolo?",
+    "correctAnswer": "Genghis Khan",
+    "wrongAnswer": [
+      "Kublai Khan",
+      "Tamerlano",
+      "Attila"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il comandante supremo delle forze alleate durante la Seconda Guerra Mondiale?",
+    "correctAnswer": "Dwight D. Eisenhower",
+    "wrongAnswer": [
+      "Winston Churchill",
+      "Franklin D. Roosevelt",
+      "Charles de Gaulle"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 caduto l'Impero Romano d'Occidente?",
+    "correctAnswer": "V secolo",
+    "wrongAnswer": [
+      "III secolo",
+      "II secolo",
+      "VI secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il leader dell'Impero romano durante la sua massima estensione territoriale?",
+    "correctAnswer": "Augusto (Otaviano)",
+    "wrongAnswer": [
+      "Giulio Cesare",
+      "Marco Aurelio",
+      "Nerone"
+    ]
+  },
+  {
+    "question": "Quale impero controllava gran parte del Medio Oriente, del Nord Africa e dell'Europa meridionale nel IX secolo?",
+    "correctAnswer": "Impero Abbaside",
+    "wrongAnswer": [
+      "Impero Romano",
+      "Impero Ottomano",
+      "Impero Mongolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il presidente degli Stati Uniti durante la Guerra di Secessione?",
+    "correctAnswer": "Abraham Lincoln",
+    "wrongAnswer": [
+      "Andrew Johnson",
+      "Ulysses S. Grant",
+      "James Buchanan"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 fu la capitale dell'Impero bizantino?",
+    "correctAnswer": "Costantinopoli",
+    "wrongAnswer": [
+      "Atene",
+      "Roma",
+      "Alessandria"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata firmata la Dichiarazione d'Indipendenza degli Stati Uniti?",
+    "correctAnswer": "1776",
+    "wrongAnswer": [
+      "1789",
+      "1800",
+      "1850"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il leader della Rivoluzione cubana nel 1959?",
+    "correctAnswer": "Fidel Castro",
+    "wrongAnswer": [
+      "Che Guevara",
+      "Batista",
+      "Camilo Cienfuegos"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato la fine della Guerra Fredda in Europa?",
+    "correctAnswer": "Caduta del Muro di Berlino",
+    "wrongAnswer": [
+      "Dissoluzione dell'URSS",
+      "Trattato START",
+      "Rivoluzione di velluto in Cecoslovacchia"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 avvenuta la Rivoluzione francese?",
+    "correctAnswer": "XVIII secolo",
+    "wrongAnswer": [
+      "XVI secolo",
+      "XIX secolo",
+      "XX secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo presidente degli Stati Uniti ad essere impeachato?",
+    "correctAnswer": "Andrew Johnson",
+    "wrongAnswer": [
+      "Bill Clinton",
+      "Richard Nixon",
+      "Ronald Reagan"
+    ]
+  }
+]

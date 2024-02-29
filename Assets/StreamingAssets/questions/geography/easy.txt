@@ -1,0 +1,300 @@
+Capitale dell'Italia?
+Roma
+Milano, Parigi, Berlino
+Continente del Brasile?
+Sud America
+Europa, Africa, Asia
+Fiume più lungo del mondo?
+Nilo
+Amazon, Danubio, Mississippi
+Dove si trova la Grande Muraglia?
+Cina
+India, Giappone, Messico
+Deserto più grande del mondo?
+Sahara
+Atacama, Gobi, Kalahari
+Oceano vicino all'Australia?
+Oceano Pacifico
+Oceano Atlantico, Oceano Indiano, Mar Mediterraneo
+Paese più grande del mondo in superficie?
+Russia
+Canada, Cina, Stati Uniti
+Capitale degli Stati Uniti?
+Washington, D.C.
+New York, Los Angeles, Chicago
+Dove si trova il Monte Everest?
+Himalaya
+Alpi, Ande, Rocciose
+Quanti continenti ci sono nel mondo?
+7
+5, 8, 10
+Paese più piccolo del mondo?
+Città del Vaticano
+Monaco, San Marino, Liechtenstein
+Paese della Torre Eiffel?
+Francia
+Italia, Germania, Spagna
+Mare più grande del mondo?
+Mare Pacifico
+Mare Atlantico, Mare Indiano, Mare Mediterraneo
+Confine naturale tra Europa e Asia?
+Urali
+Danubio, Reno, Senna
+Oceano vicino all'Islanda?
+Oceano Atlantico
+Oceano Pacifico, Oceano Indiano, Mar Mediterraneo
+Capitale del Giappone?
+Tokyo
+Pechino, Seul, Bangkok
+Dove si trova il deserto di Mojave?
+Stati Uniti (California, Nevada, Arizona)
+Messico, Australia, Arabia Saudita
+Fiume più lungo d'Europa?
+Volga
+Danubio, Tamigi, Senna
+Punto più alto dell'Africa?
+Monte Kilimanjaro
+Monte Elbrus, Monte Kenya, Monte Bianco
+Paese del Canal Grande?
+Italia (Venezia)
+Francia, Spagna, Olanda
+Capitale dell'Argentina?
+Buenos Aires
+Rio de Janeiro, Città del Messico, Lima
+Paese delle piramidi di Giza?
+Egitto
+Sudan, Messico, Italia
+Lago più profondo del mondo?
+Baikal
+Superiore, Vittoria, Titicaca
+Capitale della Cina?
+Pechino
+Shanghai, Hong Kong, Taipei
+Isola più grande del mondo?
+Groenlandia
+Australia, Borneo, Giappone
+Paese attraversato dall'Equatore?
+Ecuador
+Brasile, Colombia, Venezuela
+Capitale del Regno Unito?
+Londra
+Parigi, Berlino, Amsterdam
+Montagna più alta d'Europa?
+Elbrus
+Monte Bianco, Cervino, Dolomiti
+Fiume che attraversa Parigi?
+Senna
+Tamigi, Danubio, Reno
+Stretto tra Spagna e Marocco?
+Gibilterra
+Bosforo, Dardanelli, Malacca
+Paese delle Alpi Svizzere?
+Svizzera
+Austria, Italia, Francia
+Capitale dell'Australia?
+Canberra
+Sydney, Melbourne, Brisbane
+Paese delle isole Fiji?
+Figi
+Tahiti, Samoa, Bali
+Catena montuosa tra Francia e Spagna?
+Pirenei
+Alpi, Appalachi, Monti Urali
+Lago più grande d'Africa?
+Vittoria
+Nasser, Tanganica, Malawi
+Paese delle piramidi di Teotihuacan?
+Messico
+Egitto, Perù, Sudan
+Capitale della Thailandia?
+Bangkok
+Phuket, Chiang Mai, Krabi
+Penisola italiana attraversata dall'Arno?
+Toscana
+Calabria, Puglia, Liguria
+Paese del Taj Mahal?
+India
+Pakistan, Bangladesh, Nepal
+Capitale della Russia?
+Mosca
+San Pietroburgo, Kiev, Minsk
+Deserto tra Cina e Mongolia?
+Gobi
+Sahara, Atacama, Kalahari
+Paese delle Isole Galapagos?
+Ecuador
+Colombia, Messico, Peru
+Isola vulcanica al largo dell'Italia?
+Sicilia
+Sardegna, Corsica, Ischia
+Paese attraversato dal fiume Danubio?
+Romania
+Germania, Austria, Serbia
+Capitale del Brasile?
+Brasilia
+Rio de Janeiro, San Paolo, Salvador
+Paese delle piramidi di Chichen Itza?
+Messico
+Guatemala, Belize, Honduras
+Fiume che attraversa New York?
+Hudson
+Mississippi, Potomac, Colorado
+Isola al largo della punta sud-occidentale dell'Africa?
+Madagascar
+Mauritius, Seychelles, Réunion
+Stato più grande degli Stati Uniti?
+Alaska
+Texas, California, Florida
+Capoluogo della Baviera in Germania?
+Monaco
+Berlino, Amburgo, Francoforte
+Isola più popolata del mondo?
+Giava
+Honshu, Sumatra, Borneo
+Fiume che attraversa Roma?
+Tevere
+Po, Arno, Senna
+Catena montuosa tra Italia e Svizzera?
+Alpi
+Appalachi, Ande, Pirenei
+Paese attraversato dal Circolo Polare Artico?
+Norvegia
+Svezia, Finlandia, Russia
+Capitale dell'Egitto?
+Il Cairo
+Alessandria, Luxor, Sharm el-Sheikh
+Isola caraibica divisa tra Haiti e Repubblica Dominicana?
+Hispaniola
+Cuba, Porto Rico, Giamaica
+Stato più piccolo degli Stati Uniti?
+Rhode Island
+Delaware, Connecticut, New Hampshire
+Montagna più alta del Nord America?
+Denali (Monte McKinley)
+Monte Logan, Monte Hood, Monte Whitney
+Paese delle Piramidi di Tikal?
+Guatemala
+Messico, Belize, Honduras
+Città più popolosa del mondo?
+Tokyo
+Shanghai, Mumbai, Pechino
+Paese attraversato dal fiume Mekong?
+Laos
+Vietnam, Cambogia, Thailandia
+Capitale della Corea del Sud?
+Seul
+Pyongyang, Busan, Incheon
+Stato dell'Australia famoso per l'Opera House?
+Nuovo Galles del Sud
+Victoria, Queensland, Australia Meridionale
+Paese attraversato dal fiume Niger?
+Nigeria
+Mali, Guinea, Ciad
+Capoluogo della Toscana in Italia?
+Firenze
+Pisa, Siena, Livorno
+Catena montuosa tra Francia e Italia?
+Alpi Marittime
+Appalachi, Ande, Pirenei
+Paese attraversato dal fiume Lena?
+Russia
+Mongolia, Cina, Kazakistan
+Stato messicano noto per le spiagge di Cancun?
+Quintana Roo
+Yucatan, Baja California, Veracruz
+Paese del Machu Picchu?
+Perù
+Bolivia, Ecuador, Colombia
+Città brasiliana famosa per il carnevale?
+Rio de Janeiro
+San Paolo, Salvador, Brasilia
+Stato più grande dell'India?
+Rajastan
+Uttar Pradesh, Madhya Pradesh, Maharashtra
+Paese attraversato dal fiume Amur?
+Russia
+Cina, Mongolia, Corea del Nord
+Isola greca famosa per le rovine antiche?
+Creta
+Rodi, Corfù, Santorini
+Capitale della Colombia?
+Bogotà
+Medellín, Cali, Cartagena
+Stato del Brasile noto per l'Amazzonia?
+Amazonas
+Bahia, Rio de Janeiro, Sao Paulo
+Isola caraibica divisa tra Haiti e Cuba?
+Hispaniola
+Giamaica, Porto Rico, Cuba
+Paese attraversato dal fiume Tago?
+Portogallo
+Spagna, Francia, Italia
+Monti tra Norvegia e Svezia?
+Monti Scandinavi
+Alpi, Carpazi, Pirenei
+Capoluogo della Baviera in Germania?
+Monaco
+Berlino, Amburgo, Francoforte
+Paese attraversato dal fiume Volga?
+Russia
+Kazakistan, Ucraina, Bielorussia
+Catena montuosa tra Italia e Svizzera?
+Alpi
+Appalachi, Ande, Pirenei
+Isola caraibica divisa tra Haiti e Repubblica Dominicana?
+Hispaniola
+Cuba, Porto Rico, Giamaica
+Stato più piccolo degli Stati Uniti?
+Rhode Island
+Delaware, Connecticut, New Hampshire
+Montagna più alta del Nord America?
+Denali (Monte McKinley)
+Monte Logan, Monte Hood, Monte Whitney
+Paese delle Piramidi di Tikal?
+Guatemala
+Messico, Belize, Honduras
+Città più popolosa del mondo?
+Tokyo
+Shanghai, Mumbai, Pechino
+Paese attraversato dal fiume Mekong?
+Laos
+Vietnam, Cambogia, Thailandia
+Capitale della Corea del Sud?
+Seul
+Pyongyang, Busan, Incheon
+Stato dell'Australia famoso per l'Opera House?
+Nuovo Galles del Sud
+Victoria, Queensland, Australia Meridionale
+Paese attraversato dal fiume Niger?
+Nigeria
+Mali, Guinea, Ciad
+Capoluogo della Toscana in Italia?
+Firenze
+Pisa, Siena, Livorno
+Catena montuosa tra Francia e Italia?
+Alpi Marittime
+Appalachi, Ande, Pirenei
+Paese attraversato dal Circolo Polare Artico?
+Norvegia
+Svezia, Finlandia, Russia
+Capitale dell'Egitto?
+Il Cairo
+Alessandria, Luxor, Sharm el-Sheikh
+Isola caraibica divisa tra Haiti e Cuba?
+Hispaniola
+Giamaica, Porto Rico, Cuba
+Paese attraversato dal fiume Tago?
+Portogallo
+Spagna, Francia, Italia
+Monti tra Norvegia e Svezia?
+Monti Scandinavi
+Alpi, Carpazi, Pirenei
+Capoluogo della Baviera in Germania?
+Monaco
+Berlino, Amburgo, Francoforte
+Paese attraversato dal fiume Volga?
+Russia
+Kazakistan, Ucraina, Bielorussia
+Catena montuosa tra Italia e Svizzera?
+Alpi
+Appalachi, Ande, Pirenei
