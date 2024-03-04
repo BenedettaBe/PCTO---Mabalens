@@ -1,0 +1,702 @@
+[
+  {
+    "question": "Chi \u00e8 stato il primo presidente degli Stati Uniti?",
+    "correctAnswer": "Risposta corretta: George Washington",
+    "wrongAnswer": [
+      "Risposte sbagliate: Abraham Lincoln, Thomas Jefferson, John F. Kennedy"
+    ]
+  },
+  {
+    "question": "In quale periodo \u00e8 avvenuta la Rivoluzione francese?",
+    "correctAnswer": "Risposta corretta: 1789-1799",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1600-1700, 1800-1900, 1900-2000"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il leader dell'Impero romano durante la sua massima estensione territoriale?",
+    "correctAnswer": "Risposta corretta: Augusto (Otaviano)",
+    "wrongAnswer": [
+      "Risposte sbagliate: Giulio Cesare, Marco Aurelio, Nerone"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 iniziata la Seconda Guerra Mondiale?",
+    "correctAnswer": "Risposta corretta: 1939",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1914, 1945, 1950"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stata la dinastia governante durante la Cina antica?",
+    "correctAnswer": "Risposta corretta: Dinastia Zhou",
+    "wrongAnswer": [
+      "Risposte sbagliate: Dinastia Ming, Dinastia Qing, Dinastia Tang"
+    ]
+  },
+  {
+    "question": "Chi era la regina d'Egitto famosa per la sua relazione con Marco Antonio e Cesare?",
+    "correctAnswer": "Risposta corretta: Cleopatra",
+    "wrongAnswer": [
+      "Risposte sbagliate: Nefertiti, Iside, Hatshepsut"
+    ]
+  },
+  {
+    "question": "In quale continente si \u00e8 svolta la guerra dei Boeri?",
+    "correctAnswer": "Risposta corretta: Africa",
+    "wrongAnswer": [
+      "Risposte sbagliate: Asia, Europa, America"
+    ]
+  },
+  {
+    "question": "Quale evento storico \u00e8 noto come \"Il Grande Saltino in Avanti\"?",
+    "correctAnswer": "Risposta corretta: Rivoluzione Culturale cinese",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rivoluzione Industriale, Guerra Fredda, Rivoluzione Russa"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo uomo a mettere piede sulla Luna?",
+    "correctAnswer": "Risposta corretta: Neil Armstrong",
+    "wrongAnswer": [
+      "Risposte sbagliate: Buzz Aldrin, Yuri Gagarin, John Glenn"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 caduto l'Impero Romano d'Occidente?",
+    "correctAnswer": "Risposta corretta: V secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: III secolo, II secolo, VI secolo"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato la fine della Prima Guerra Mondiale?",
+    "correctAnswer": "Risposta corretta: Trattato di Versailles",
+    "wrongAnswer": [
+      "Risposte sbagliate: Trattato di Rapallo, Trattato di Trianon, Trattato di Brest-Litovsk"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo presidente degli Stati Uniti ad essere assassinato?",
+    "correctAnswer": "Risposta corretta: Abraham Lincoln",
+    "wrongAnswer": [
+      "Risposte sbagliate: John F. Kennedy, Thomas Jefferson, Franklin D. Roosevelt"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stato il periodo della \"Guerra dei Cent'anni\"?",
+    "correctAnswer": "Risposta corretta: 1337-1453",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1200-1300, 1500-1600, 1700-1800"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il leader della Rivoluzione cubana nel 1959?",
+    "correctAnswer": "Risposta corretta: Fidel Castro",
+    "wrongAnswer": [
+      "Risposte sbagliate: Che Guevara, Batista, Camilo Cienfuegos"
+    ]
+  },
+  {
+    "question": "In quale periodo storico \u00e8 fiorita la civilt\u00e0 greca classica?",
+    "correctAnswer": "Risposta corretta: V-IV secolo a.C.",
+    "wrongAnswer": [
+      "Risposte sbagliate: I secolo a.C., II secolo d.C., III secolo a.C."
+    ]
+  },
+  {
+    "question": "Quale evento storico \u00e8 noto come la \"Notte dei Cristalli\"?",
+    "correctAnswer": "Risposta corretta: Pogrom contro gli ebrei nel 1938",
+    "wrongAnswer": [
+      "Risposte sbagliate: Incendio di Roma, Rivolta di Spartaco, Inquisizione spagnola"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stata la prima donna a vincere il Premio Nobel per la Pace?",
+    "correctAnswer": "Risposta corretta: Bertha von Suttner",
+    "wrongAnswer": [
+      "Risposte sbagliate: Marie Curie, Malala Yousafzai, Mother Teresa"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 fu la capitale dell'Impero bizantino?",
+    "correctAnswer": "Risposta corretta: Costantinopoli",
+    "wrongAnswer": [
+      "Risposte sbagliate: Atene, Roma, Alessandria"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stato l'evento che ha segnato l'inizio della Rivoluzione industriale in Inghilterra?",
+    "correctAnswer": "Risposta corretta: Invenzione della macchina a vapore",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rivoluzione Francese, Guerra civile inglese, Trattato di Windsor"
+    ]
+  },
+  {
+    "question": "Chi era il comandante supremo delle forze alleate durante la Seconda Guerra Mondiale?",
+    "correctAnswer": "Risposta corretta: Dwight D. Eisenhower",
+    "wrongAnswer": [
+      "Risposte sbagliate: Winston Churchill, Franklin D. Roosevelt, Charles de Gaulle"
+    ]
+  },
+  {
+    "question": "Quale impero controllava gran parte del Medio Oriente, del Nord Africa e dell'Europa meridionale nel IX secolo?",
+    "correctAnswer": "Risposta corretta: Impero Abbaside",
+    "wrongAnswer": [
+      "Risposte sbagliate: Impero Romano, Impero Ottomano, Impero Mongolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo imperatore della dinastia cinese Qin?",
+    "correctAnswer": "Risposta corretta: Qin Shi Huang",
+    "wrongAnswer": [
+      "Risposte sbagliate: Confucio, Laozi, Sun Tzu"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata firmata la Dichiarazione d'Indipendenza degli Stati Uniti?",
+    "correctAnswer": "Risposta corretta: 1776",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1789, 1800, 1850"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il leader della Rivoluzione russa del 1917?",
+    "correctAnswer": "Risposta corretta: Vladimir Lenin",
+    "wrongAnswer": [
+      "Risposte sbagliate: Joseph Stalin, Leon Trotsky, Nicholas II"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 avvenuta la Riforma protestante guidata da Martin Lutero?",
+    "correctAnswer": "Risposta corretta: XVI secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: XV secolo, XVII secolo, XVIII secolo"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato l'inizio della Guerra Fredda?",
+    "correctAnswer": "Risposta corretta: Bomba atomica su Hiroshima e Nagasaki",
+    "wrongAnswer": [
+      "Risposte sbagliate: Caduta del Muro di Berlino, Rivoluzione russa, Trattato di Versailles"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il fondatore dell'impero mongolo nel XIII secolo?",
+    "correctAnswer": "Risposta corretta: Genghis Khan",
+    "wrongAnswer": [
+      "Risposte sbagliate: Kublai Khan, Tamerlano, Attila"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stato il periodo della \"Belle \u00c9poque\" in Europa?",
+    "correctAnswer": "Risposta corretta: Fine XIX - inizio XX secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: XVII secolo, XVIII secolo, XVI secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il comandante delle forze alleate durante la Battaglia di Normandia (D-Day)?",
+    "correctAnswer": "Risposta corretta: Dwight D. Eisenhower",
+    "wrongAnswer": [
+      "Risposte sbagliate: Douglas MacArthur, George Patton, Bernard Montgomery"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata fondata l'Organizzazione delle Nazioni Unite (ONU)?",
+    "correctAnswer": "Risposta corretta: 1945",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1919, 1939, 1955"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il fondatore dell'Impero romano?",
+    "correctAnswer": "Risposta corretta: Romolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Giulio Cesare, Augusto, Nerone"
+    ]
+  },
+  {
+    "question": "Quale evento ha scatenato la Prima Guerra Mondiale?",
+    "correctAnswer": "Risposta corretta: L'assassinio di Francesco Ferdinando",
+    "wrongAnswer": [
+      "Risposte sbagliate: La Rivoluzione russa, L'invasione della Polonia, La firma del Trattato di Versailles"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il presidente degli Stati Uniti durante la Guerra civile americana?",
+    "correctAnswer": "Risposta corretta: Abraham Lincoln",
+    "wrongAnswer": [
+      "Risposte sbagliate: George Washington, Thomas Jefferson, Franklin D. Roosevelt"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stato il periodo della \"Peste Nera\" in Europa?",
+    "correctAnswer": "Risposta corretta: XIV secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: XV secolo, XIII secolo, XVI secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il comandante dell'esercito cartaginese durante le Guerre Puniche?",
+    "correctAnswer": "Risposta corretta: Annibale",
+    "wrongAnswer": [
+      "Risposte sbagliate: Scipione l'Africano, Agatocle, Caracalla"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata firmata la Dichiarazione Universale dei Diritti Umani?",
+    "correctAnswer": "Risposta corretta: 1948",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1919, 1939, 1955"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il leader dell'Unione Sovietica durante la Guerra Fredda?",
+    "correctAnswer": "Risposta corretta: Joseph Stalin",
+    "wrongAnswer": [
+      "Risposte sbagliate: Vladimir Lenin, Nikita Khrushchev, Mikhail Gorbachev"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 stata la capitale dell'Impero romano d'Oriente?",
+    "correctAnswer": "Risposta corretta: Costantinopoli",
+    "wrongAnswer": [
+      "Risposte sbagliate: Roma, Atene, Alessandria"
+    ]
+  },
+  {
+    "question": "In quale periodo \u00e8 vissuto Leonardo da Vinci?",
+    "correctAnswer": "Risposta corretta: Rinascimento",
+    "wrongAnswer": [
+      "Risposte sbagliate: Medioevo, Barocco, Rococ\u00f2"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il comandante delle forze alleate durante la Battaglia di Stalingrado?",
+    "correctAnswer": "Risposta corretta: Georgi Zhukov",
+    "wrongAnswer": [
+      "Risposte sbagliate: Dwight D. Eisenhower, Bernard Montgomery, Erwin Rommel"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato l'inizio della Rivoluzione industriale?",
+    "correctAnswer": "Risposta corretta: Invenzione della filatura meccanica",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rivoluzione francese, Invenzione della stampa, Scoperta dell'America"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 avvenuta la scoperta dell'America da parte di Cristoforo Colombo?",
+    "correctAnswer": "Risposta corretta: XV secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: XIV secolo, XVI secolo, XVII secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo imperatore romano a convertirsi al cristianesimo?",
+    "correctAnswer": "Risposta corretta: Costantino il Grande",
+    "wrongAnswer": [
+      "Risposte sbagliate: Augusto, Marco Aurelio, Nerone"
+    ]
+  },
+  {
+    "question": "Quale guerra \u00e8 stata combattuta tra Nord e Sud negli Stati Uniti?",
+    "correctAnswer": "Risposta corretta: Guerra Civile Americana",
+    "wrongAnswer": [
+      "Risposte sbagliate: Guerra d'Indipendenza Americana, Guerra messico-americana, Guerra del Vietnam"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il fondatore dell'Impero ottomano?",
+    "correctAnswer": "Risposta corretta: Osman I",
+    "wrongAnswer": [
+      "Risposte sbagliate: Solimano il Magnifico, Maometto II, Abdul Hamid II"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata firmata la Magna Carta in Inghilterra?",
+    "correctAnswer": "Risposta corretta: 1215",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1066, 1348, 1492"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo presidente degli Stati Uniti a essere impeachato?",
+    "correctAnswer": "Risposta corretta: Andrew Johnson",
+    "wrongAnswer": [
+      "Risposte sbagliate: Bill Clinton, Richard Nixon, Ronald Reagan"
+    ]
+  },
+  {
+    "question": "Quale rivoluzione ha portato al rovesciamento della dinastia russa dei Romanov?",
+    "correctAnswer": "Risposta corretta: Rivoluzione russa del 1917",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rivoluzione francese, Rivoluzione americana, Rivoluzione cinese"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 avvenuta la Guerra dei Trent'anni in Europa?",
+    "correctAnswer": "Risposta corretta: XVII secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: XVI secolo, XVIII secolo, XIX secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il leader del movimento per i diritti civili negli Stati Uniti negli anni '60?",
+    "correctAnswer": "Risposta corretta: Martin Luther King Jr.",
+    "wrongAnswer": [
+      "Risposte sbagliate: Malcolm X, Rosa Parks, Nelson Mandela"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato l'inizio della Rivoluzione francese?",
+    "correctAnswer": "Risposta corretta: Presa della Bastiglia",
+    "wrongAnswer": [
+      "Risposte sbagliate: Esecuzione di Luigi XVI, Dichiarazione dei Diritti dell'Uomo e del Cittadino, Riunione degli Stati Generali"
+    ]
+  },
+  {
+    "question": "In quale periodo storico \u00e8 fiorita la civilt\u00e0 romana?",
+    "correctAnswer": "Risposta corretta: Antica Roma",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rinascimento, Medioevo, Et\u00e0 moderna"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il comandante delle forze alleate durante la Battaglia d'Inghilterra?",
+    "correctAnswer": "Risposta corretta: Sir Hugh Dowding",
+    "wrongAnswer": [
+      "Risposte sbagliate: Winston Churchill, Douglas Bader, Hermann G\u00f6ring"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato la fine della Guerra Fredda?",
+    "correctAnswer": "Risposta corretta: Caduta del Muro di Berlino",
+    "wrongAnswer": [
+      "Risposte sbagliate: Dissoluzione dell'URSS, Trattato START, Rivoluzione di velluto in Cecoslovacchia"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo uomo a circumnavigare la Terra?",
+    "correctAnswer": "Risposta corretta: Ferdinando Magellano (completata da Juan Sebasti\u00e1n Elcano)",
+    "wrongAnswer": [
+      "Risposte sbagliate: Cristoforo Colombo, James Cook, Marco Polo"
+    ]
+  },
+  {
+    "question": "In quale periodo \u00e8 vissuto William Shakespeare?",
+    "correctAnswer": "Risposta corretta: XVI-XVII secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: XIV secolo, XV secolo, XVIII secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il leader dell'Impero mongolo dopo Genghis Khan?",
+    "correctAnswer": "Risposta corretta: Kublai Khan",
+    "wrongAnswer": [
+      "Risposte sbagliate: Tamerlano, Attila, \u00d6gedei Khan"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato l'inizio della Rivoluzione industriale in Inghilterra?",
+    "correctAnswer": "Risposta corretta: Invenzione della filatura meccanica",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rivoluzione francese, Invenzione della stampa, Scoperta dell'America"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 iniziata la Guerra del Vietnam?",
+    "correctAnswer": "Risposta corretta: 1955",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1945, 1965, 1975"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo presidente degli Stati Uniti ad essere fotografato?",
+    "correctAnswer": "Risposta corretta: John Quincy Adams",
+    "wrongAnswer": [
+      "Risposte sbagliate: George Washington, Abraham Lincoln, Thomas Jefferson"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato la fine della Guerra Civile Americana?",
+    "correctAnswer": "Risposta corretta: Resa di Robert E. Lee a Appomattox",
+    "wrongAnswer": [
+      "Risposte sbagliate: Battaglia di Gettysburg, Assedio di Vicksburg, Assasinio di Abraham Lincoln"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 stata la Rivoluzione industriale in Europa?",
+    "correctAnswer": "Risposta corretta: XIX secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: XVIII secolo, XVII secolo, XX secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il presidente degli Stati Uniti durante la Guerra di Secessione?",
+    "correctAnswer": "Risposta corretta: Abraham Lincoln",
+    "wrongAnswer": [
+      "Risposte sbagliate: Andrew Johnson, Ulysses S. Grant, James Buchanan"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stato il periodo dell'Impero carolingio sotto Carlo Magno?",
+    "correctAnswer": "Risposta corretta: VIII-IX secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: VI secolo, X secolo, XI secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stata la regina d'Inghilterra durante l'epoca elisabettiana?",
+    "correctAnswer": "Risposta corretta: Elisabetta I",
+    "wrongAnswer": [
+      "Risposte sbagliate: Maria Tudor, Anna Bolena, Caterina de' Medici"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato la fine della Guerra Fredda in Europa?",
+    "correctAnswer": "Risposta corretta: Caduta del Muro di Berlino",
+    "wrongAnswer": [
+      "Risposte sbagliate: Dissoluzione dell'URSS, Trattato START, Rivoluzione di velluto in Cecoslovacchia"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo uomo a salire sulla vetta dell'Everest?",
+    "correctAnswer": "Risposta corretta: Sir Edmund Hillary (con Tenzing Norgay)",
+    "wrongAnswer": [
+      "Risposte sbagliate: Reinhold Messner, Junko Tabei, George Mallory"
+    ]
+  },
+  {
+    "question": "Quale impero ha costruito la Grande Muraglia cinese?",
+    "correctAnswer": "Risposta corretta: Impero cinese",
+    "wrongAnswer": [
+      "Risposte sbagliate: Impero mongolo, Impero romano, Impero persiano"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 avvenuta la scoperta dell'America da parte di Cristoforo Colombo?",
+    "correctAnswer": "Risposta corretta: XV secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: XIV secolo, XVI secolo, XVII secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo imperatore della dinastia cinese Han?",
+    "correctAnswer": "Risposta corretta: Liu Bang (Han Gaozu)",
+    "wrongAnswer": [
+      "Risposte sbagliate: Qin Shi Huang, Han Wudi, Tang Taizong"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato la fine della Prima Guerra Mondiale?",
+    "correctAnswer": "Risposta corretta: Trattato di Versailles",
+    "wrongAnswer": [
+      "Risposte sbagliate: Trattato di Rapallo, Trattato di Trianon, Trattato di Brest-Litovsk"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 scoppiata la Rivoluzione russa?",
+    "correctAnswer": "Risposta corretta: 1917",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1905, 1920, 1930"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il generale dell'esercito confederato durante la Guerra Civile Americana?",
+    "correctAnswer": "Risposta corretta: Robert E. Lee",
+    "wrongAnswer": [
+      "Risposte sbagliate: Stonewall Jackson, Ulysses S. Grant, William T. Sherman"
+    ]
+  },
+  {
+    "question": "Quale evento ha scatenato la Guerra di Secessione negli Stati Uniti?",
+    "correctAnswer": "Risposta corretta: Attacco a Fort Sumter",
+    "wrongAnswer": [
+      "Risposte sbagliate: Proclamazione di Emancipazione, Assasinio di Abraham Lincoln, Battaglia di Gettysburg"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il presidente degli Stati Uniti durante la Guerra di Secessione?",
+    "correctAnswer": "Risposta corretta: Abraham Lincoln",
+    "wrongAnswer": [
+      "Risposte sbagliate: Andrew Johnson, Ulysses S. Grant, James Buchanan"
+    ]
+  },
+  {
+    "question": "In quale periodo \u00e8 vissuto Marco Polo?",
+    "correctAnswer": "Risposta corretta: XIII-XIV secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: XV secolo, XII secolo, XIV-XV secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il comandante dell'Armata Rossa durante la Seconda Guerra Mondiale?",
+    "correctAnswer": "Risposta corretta: Joseph Stalin",
+    "wrongAnswer": [
+      "Risposte sbagliate: Georgi Zhukov, Vasilij Zajcev, Nikita Khrushchev"
+    ]
+  },
+  {
+    "question": "Quale rivoluzione ha portato al rovesciamento della dinastia russa dei Romanov?",
+    "correctAnswer": "Risposta corretta: Rivoluzione russa del 1917",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rivoluzione francese, Rivoluzione americana, Rivoluzione cinese"
+    ]
+  },
+  {
+    "question": "In quale periodo \u00e8 vissuto William Wallace, il protagonista di \"Braveheart\"?",
+    "correctAnswer": "Risposta corretta: XIII secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: XV secolo, XIV secolo, XII secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il fondatore della dinastia Ming in Cina?",
+    "correctAnswer": "Risposta corretta: Zhu Yuanzhang (Hongwu)",
+    "wrongAnswer": [
+      "Risposte sbagliate: Kublai Khan, Qin Shi Huang, Kangxi"
+    ]
+  },
+  {
+    "question": "Quale guerra \u00e8 stata combattuta tra Nord e Sud negli Stati Uniti?",
+    "correctAnswer": "Risposta corretta: Guerra Civile Americana",
+    "wrongAnswer": [
+      "Risposte sbagliate: Guerra d'Indipendenza Americana, Guerra messico-americana, Guerra del Vietnam"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo imperatore della dinastia cinese Han?",
+    "correctAnswer": "Risposta corretta: Liu Bang (Han Gaozu)",
+    "wrongAnswer": [
+      "Risposte sbagliate: Qin Shi Huang, Han Wudi, Tang Taizong"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata firmata la Magna Carta in Inghilterra?",
+    "correctAnswer": "Risposta corretta: 1215",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1066, 1348, 1492"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il generale dell'esercito confederato durante la Guerra Civile Americana?",
+    "correctAnswer": "Risposta corretta: Robert E. Lee",
+    "wrongAnswer": [
+      "Risposte sbagliate: Stonewall Jackson, Ulysses S. Grant, William T. Sherman"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stato il periodo dell'Impero carolingio sotto Carlo Magno?",
+    "correctAnswer": "Risposta corretta: VIII-IX secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: VI secolo, X secolo, XI secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo imperatore romano a convertirsi al cristianesimo?",
+    "correctAnswer": "Risposta corretta: Costantino il Grande",
+    "wrongAnswer": [
+      "Risposte sbagliate: Augusto, Marco Aurelio, Nerone"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 avvenuta la Riforma protestante guidata da Martin Lutero?",
+    "correctAnswer": "Risposta corretta: XVI secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: XV secolo, XVII secolo, XVIII secolo"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato l'inizio della Guerra Fredda?",
+    "correctAnswer": "Risposta corretta: Bomba atomica su Hiroshima e Nagasaki",
+    "wrongAnswer": [
+      "Risposte sbagliate: Caduta del Muro di Berlino, Rivoluzione russa, Trattato di Versailles"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il fondatore dell'impero mongolo nel XIII secolo?",
+    "correctAnswer": "Risposta corretta: Genghis Khan",
+    "wrongAnswer": [
+      "Risposte sbagliate: Kublai Khan, Tamerlano, Attila"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il comandante supremo delle forze alleate durante la Seconda Guerra Mondiale?",
+    "correctAnswer": "Risposta corretta: Dwight D. Eisenhower",
+    "wrongAnswer": [
+      "Risposte sbagliate: Winston Churchill, Franklin D. Roosevelt, Charles de Gaulle"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 caduto l'Impero Romano d'Occidente?",
+    "correctAnswer": "Risposta corretta: V secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: III secolo, II secolo, VI secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il leader dell'Impero romano durante la sua massima estensione territoriale?",
+    "correctAnswer": "Risposta corretta: Augusto (Otaviano)",
+    "wrongAnswer": [
+      "Risposte sbagliate: Giulio Cesare, Marco Aurelio, Nerone"
+    ]
+  },
+  {
+    "question": "Quale impero controllava gran parte del Medio Oriente, del Nord Africa e dell'Europa meridionale nel IX secolo?",
+    "correctAnswer": "Risposta corretta: Impero Abbaside",
+    "wrongAnswer": [
+      "Risposte sbagliate: Impero Romano, Impero Ottomano, Impero Mongolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il presidente degli Stati Uniti durante la Guerra di Secessione?",
+    "correctAnswer": "Risposta corretta: Abraham Lincoln",
+    "wrongAnswer": [
+      "Risposte sbagliate: Andrew Johnson, Ulysses S. Grant, James Buchanan"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 fu la capitale dell'Impero bizantino?",
+    "correctAnswer": "Risposta corretta: Costantinopoli",
+    "wrongAnswer": [
+      "Risposte sbagliate: Atene, Roma, Alessandria"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata firmata la Dichiarazione d'Indipendenza degli Stati Uniti?",
+    "correctAnswer": "Risposta corretta: 1776",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1789, 1800, 1850"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il leader della Rivoluzione cubana nel 1959?",
+    "correctAnswer": "Risposta corretta: Fidel Castro",
+    "wrongAnswer": [
+      "Risposte sbagliate: Che Guevara, Batista, Camilo Cienfuegos"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato la fine della Guerra Fredda in Europa?",
+    "correctAnswer": "Risposta corretta: Caduta del Muro di Berlino",
+    "wrongAnswer": [
+      "Risposte sbagliate: Dissoluzione dell'URSS, Trattato START, Rivoluzione di velluto in Cecoslovacchia"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 avvenuta la Rivoluzione francese?",
+    "correctAnswer": "Risposta corretta: XVIII secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: XVI secolo, XIX secolo, XX secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo presidente degli Stati Uniti ad essere impeachato?",
+    "correctAnswer": "Risposta corretta: Andrew Johnson",
+    "wrongAnswer": [
+      "Risposte sbagliate: Bill Clinton, Richard Nixon, Ronald Reagan"
+    ]
+  }
+]

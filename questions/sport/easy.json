@@ -1,0 +1,702 @@
+[
+  {
+    "question": "In quale sport si usa una mazza per colpire una palla?",
+    "correctAnswer": "Risposta corretta: Baseball",
+    "wrongAnswer": [
+      "Risposte sbagliate: Calcio, Tennis, Golf"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport pi\u00f9 popolare al mondo?",
+    "correctAnswer": "Risposta corretta: Calcio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Basket, Tennis, Baseball"
+    ]
+  },
+  {
+    "question": "In quale sport si utilizza una rete e una palla e i giocatori devono colpire la palla sopra la rete?",
+    "correctAnswer": "Risposta corretta: Tennis",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pallavolo, Calcio, Golf"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport che si gioca con una palla sferica e due squadre di cinque giocatori ciascuna?",
+    "correctAnswer": "Risposta corretta: Pallacanestro",
+    "wrongAnswer": [
+      "Risposte sbagliate: Baseball, Calcio, Golf"
+    ]
+  },
+  {
+    "question": "In quale sport si corre su una pista e si salta ostacoli?",
+    "correctAnswer": "Risposta corretta: Corsa ad ostacoli",
+    "wrongAnswer": [
+      "Risposte sbagliate: Salto con l'asta, Lancio del peso, Corsa veloce"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano nuotando in una piscina?",
+    "correctAnswer": "Risposta corretta: Nuoto",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pallanuoto, Tuffi, Surf"
+    ]
+  },
+  {
+    "question": "In quale sport si utilizza una tavola e si cavalcano le onde?",
+    "correctAnswer": "Risposta corretta: Surf",
+    "wrongAnswer": [
+      "Risposte sbagliate: Sci, Windsurf, Canoa"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti lanciano un disco il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del disco",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del martello, Salto in lungo, Tiro con l'arco"
+    ]
+  },
+  {
+    "question": "In quale sport si usa una palla e un campo rettangolare diviso a met\u00e0 da una rete?",
+    "correctAnswer": "Risposta corretta: Pallavolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Calcio, Tennis, Golf"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista e devono superare ostacoli alti?",
+    "correctAnswer": "Risposta corretta: Salto in alto",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del giavellotto, Corsa ad ostacoli, Salto in lungo"
+    ]
+  },
+  {
+    "question": "In quale sport si gareggia con una bicicletta su una pista ovale?",
+    "correctAnswer": "Risposta corretta: Ciclismo su pista",
+    "wrongAnswer": [
+      "Risposte sbagliate: BMX, Ciclismo su strada, Mountain bike"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport invernale in cui gli atleti scivolano su una pista di ghiaccio e lanciano una pesante pietra di granito?",
+    "correctAnswer": "Risposta corretta: Curling",
+    "wrongAnswer": [
+      "Risposte sbagliate: Hockey su ghiaccio, Pattinaggio di figura, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport si usa una mazza per colpire una palla bianca in buche distribuite sul campo?",
+    "correctAnswer": "Risposta corretta: Golf",
+    "wrongAnswer": [
+      "Risposte sbagliate: Baseball, Tennis, Cricket"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e utilizzando bastoni per guidare una palla?",
+    "correctAnswer": "Risposta corretta: Hockey su ghiaccio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pattinaggio di figura, Curling, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport si svolgono gare di velocit\u00e0 su piste ovali e gli atleti indossano pattini?",
+    "correctAnswer": "Risposta corretta: Pattinaggio di velocit\u00e0",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pattinaggio di figura, Hockey su ghiaccio, Curling"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di terra battuta e saltano ostacoli?",
+    "correctAnswer": "Risposta corretta: Corsa campestre",
+    "wrongAnswer": [
+      "Risposte sbagliate: Corsa su pista, Maratona, Triathlon"
+    ]
+  },
+  {
+    "question": "In quale sport si gareggia nuotando in stile libero, dorso, rana e farfalla?",
+    "correctAnswer": "Risposta corretta: Nuoto",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pallanuoto, Tuffi, Triathlon"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista ovale e lanciano un peso il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del peso",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del disco, Lancio del martello, Salto con l'asta"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti gareggiano su una pista curva e lanciano un peso il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del martello",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del peso, Lancio del disco, Salto in alto"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista rettangolare e lanciano una lancia il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del giavellotto",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del peso, Salto in alto, Salto in lungo"
+    ]
+  },
+  {
+    "question": "In quale sport si gareggia su una pista di ghiaccio indossando pattini e lanciando una palla con un bastone?",
+    "correctAnswer": "Risposta corretta: Curling su ghiaccio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Hockey su ghiaccio, Pattinaggio di figura, Sci alpino"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista curva e lanciano una palla di ferro il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del peso",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del martello, Salto in alto, Corsa su pista"
+    ]
+  },
+  {
+    "question": "In quale sport si usa una palla e una mazza, e il campo \u00e8 diviso in \"inning\"?",
+    "correctAnswer": "Risposta corretta: Baseball",
+    "wrongAnswer": [
+      "Risposte sbagliate: Softball, Calcio, Tennis"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e cercano di segnare gol con una piccola palla?",
+    "correctAnswer": "Risposta corretta: Hockey su ghiaccio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pattinaggio di figura, Curling, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport si lancia una palla di ferro il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del peso",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del martello, Salto in alto, Nuoto"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e fanno acrobazie e salti?",
+    "correctAnswer": "Risposta corretta: Pattinaggio di figura",
+    "wrongAnswer": [
+      "Risposte sbagliate: Hockey su ghiaccio, Curling, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport si gareggia su una pista di ghiaccio, indossando pattini e cercando di segnare gol con una rondella?",
+    "correctAnswer": "Risposta corretta: Hockey su ghiaccio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pattinaggio di figura, Curling, Sci alpino"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti scendono da una montagna innevata usando sci o snowboard?",
+    "correctAnswer": "Risposta corretta: Sci alpino",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pattinaggio di figura, Curling, Hockey su ghiaccio"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti gareggiano in bicicletta su strade di montagna o collina?",
+    "correctAnswer": "Risposta corretta: Ciclismo su strada",
+    "wrongAnswer": [
+      "Risposte sbagliate: Ciclismo su pista, BMX, Mountain bike"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano usando una tavola e scendono gi\u00f9 per una montagna innevata?",
+    "correctAnswer": "Risposta corretta: Snowboard",
+    "wrongAnswer": [
+      "Risposte sbagliate: Sci alpino, Pattinaggio di figura, Curling"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti gareggiano a piedi, in bicicletta e nuotano in sequenza?",
+    "correctAnswer": "Risposta corretta: Triathlon",
+    "wrongAnswer": [
+      "Risposte sbagliate: Ironman, Corsa campestre, Pattinaggio di velocit\u00e0"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti scendono lungo una pista innevata utilizzando uno slittino?",
+    "correctAnswer": "Risposta corretta: Slittino",
+    "wrongAnswer": [
+      "Risposte sbagliate: Sci alpino, Snowboard, Pattinaggio di figura"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti scendono lungo una pista innevata utilizzando uno slittino e gareggiano in squadre?",
+    "correctAnswer": "Risposta corretta: Slittino di squadra",
+    "wrongAnswer": [
+      "Risposte sbagliate: Sci alpino, Snowboard, Hockey su ghiaccio"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e lanciano una palla con una canna?",
+    "correctAnswer": "Risposta corretta: Curling su ghiaccio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Hockey su ghiaccio, Pattinaggio di figura, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti gareggiano su una pista di ghiaccio e cercano di segnare gol con una palla usando un bastone ricurvo?",
+    "correctAnswer": "Risposta corretta: Hockey su ghiaccio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pattinaggio di figura, Curling, Sci alpino"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista curva e lanciano una lancia il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del giavellotto",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del peso, Salto in alto, Salto in lungo"
+    ]
+  },
+  {
+    "question": "In quale sport si usa una palla e una rete, e gli atleti devono colpire la palla sopra la rete?",
+    "correctAnswer": "Risposta corretta: Tennis da tavolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Badminton, Beach tennis, Squash"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e lanciano una palla con una canna?",
+    "correctAnswer": "Risposta corretta: Curling su ghiaccio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Hockey su ghiaccio, Pattinaggio di figura, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti lanciano un disco il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del disco",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del martello, Salto in alto, Nuoto"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista rettangolare e cercano di segnare punti calciando una palla in una porta?",
+    "correctAnswer": "Risposta corretta: Calcio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rugby, Football americano, Baseball"
+    ]
+  },
+  {
+    "question": "In quale sport si utilizza una palla e una mazza, e i giocatori corrono intorno a basi disposte a forma di diamante?",
+    "correctAnswer": "Risposta corretta: Softball",
+    "wrongAnswer": [
+      "Risposte sbagliate: Baseball, Cricket, Golf"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e cercano di segnare gol con una rondella?",
+    "correctAnswer": "Risposta corretta: Hockey su ghiaccio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pattinaggio di figura, Curling, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti gareggiano su una pista rettangolare e cercano di segnare punti lanciando una palla attraverso un cestino?",
+    "correctAnswer": "Risposta corretta: Pallacanestro",
+    "wrongAnswer": [
+      "Risposte sbagliate: Calcio, Tennis, Baseball"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e cercano di segnare gol con una rondella?",
+    "correctAnswer": "Risposta corretta: Hockey su ghiaccio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pattinaggio di figura, Curling, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti lanciano un martello il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del martello",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del peso, Lancio del disco, Salto in alto"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista curva e lanciano una palla di ferro il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del peso",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del martello, Salto in alto, Corsa su pista"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti gareggiano su una pista di ghiaccio indossando pattini e cercano di segnare gol con una rondella?",
+    "correctAnswer": "Risposta corretta: Hockey su ghiaccio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pattinaggio di figura, Curling, Sci alpino"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista rettangolare e cercano di segnare punti calciando una palla in una porta?",
+    "correctAnswer": "Risposta corretta: Calcio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rugby, Football americano, Baseball"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti gareggiano su una pista curva e cercano di lanciare una lancia il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del giavellotto",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del peso, Salto in alto, Salto in lungo"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista rettangolare e cercano di segnare punti lanciando una palla attraverso un cestino?",
+    "correctAnswer": "Risposta corretta: Pallacanestro",
+    "wrongAnswer": [
+      "Risposte sbagliate: Calcio, Tennis, Baseball"
+    ]
+  },
+  {
+    "question": "In quale sport si usa una palla e una rete, e gli atleti devono colpire la palla sopra la rete?",
+    "correctAnswer": "Risposta corretta: Tennis da tavolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Badminton, Beach tennis, Squash"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e fanno acrobazie e salti?",
+    "correctAnswer": "Risposta corretta: Pattinaggio di figura",
+    "wrongAnswer": [
+      "Risposte sbagliate: Hockey su ghiaccio, Curling, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport si utilizza una palla e una mazza, e i giocatori corrono intorno a basi disposte a forma di diamante?",
+    "correctAnswer": "Risposta corretta: Softball",
+    "wrongAnswer": [
+      "Risposte sbagliate: Baseball, Cricket, Golf"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e lanciano una palla con una canna?",
+    "correctAnswer": "Risposta corretta: Curling su ghiaccio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Hockey su ghiaccio, Pattinaggio di figura, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti lanciano una palla di ferro il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del peso",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del martello, Salto in alto, Nuoto"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista rettangolare e cercano di segnare punti lanciando una palla attraverso un cestino?",
+    "correctAnswer": "Risposta corretta: Pallacanestro",
+    "wrongAnswer": [
+      "Risposte sbagliate: Calcio, Tennis, Baseball"
+    ]
+  },
+  {
+    "question": "In quale sport si usa una palla e una rete, e gli atleti devono colpire la palla sopra la rete?",
+    "correctAnswer": "Risposta corretta: Tennis da tavolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Badminton, Beach tennis, Squash"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e cercano di segnare gol con una rondella?",
+    "correctAnswer": "Risposta corretta: Hockey su ghiaccio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pattinaggio di figura, Curling, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti lanciano un disco il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del disco",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del martello, Salto in alto, Nuoto"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista curva e cercano di lanciare una lancia il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del giavellotto",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del peso, Salto in alto, Salto in lungo"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti gareggiano su una pista rettangolare e cercano di segnare punti calciando una palla in una porta?",
+    "correctAnswer": "Risposta corretta: Calcio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rugby, Football americano, Baseball"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e cercano di segnare gol con una rondella?",
+    "correctAnswer": "Risposta corretta: Hockey su ghiaccio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pattinaggio di figura, Curling, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti gareggiano su una pista rettangolare e cercano di segnare punti lanciando una palla attraverso un cestino?",
+    "correctAnswer": "Risposta corretta: Pallacanestro",
+    "wrongAnswer": [
+      "Risposte sbagliate: Calcio, Tennis, Baseball"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e lanciano una palla con una canna?",
+    "correctAnswer": "Risposta corretta: Curling su ghiaccio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Hockey su ghiaccio, Pattinaggio di figura, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti lanciano una palla di ferro il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del peso",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del martello, Salto in alto, Nuoto"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista rettangolare e cercano di segnare punti lanciando una palla attraverso un cestino?",
+    "correctAnswer": "Risposta corretta: Pallacanestro",
+    "wrongAnswer": [
+      "Risposte sbagliate: Calcio, Tennis, Baseball"
+    ]
+  },
+  {
+    "question": "In quale sport si usa una palla e una rete, e gli atleti devono colpire la palla sopra la rete?",
+    "correctAnswer": "Risposta corretta: Tennis da tavolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Badminton, Beach tennis, Squash"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e fanno acrobazie e salti?",
+    "correctAnswer": "Risposta corretta: Pattinaggio di figura",
+    "wrongAnswer": [
+      "Risposte sbagliate: Hockey su ghiaccio, Curling, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti lanciano un disco il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del disco",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del martello, Salto in alto, Nuoto"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista curva e cercano di lanciare una lancia il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del giavellotto",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del peso, Salto in alto, Salto in lungo"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti gareggiano su una pista rettangolare e cercano di segnare punti calciando una palla in una porta?",
+    "correctAnswer": "Risposta corretta: Calcio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rugby, Football americano, Baseball"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e cercano di segnare gol con una rondella?",
+    "correctAnswer": "Risposta corretta: Hockey su ghiaccio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pattinaggio di figura, Curling, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti gareggiano su una pista rettangolare e cercano di segnare punti lanciando una palla attraverso un cestino?",
+    "correctAnswer": "Risposta corretta: Pallacanestro",
+    "wrongAnswer": [
+      "Risposte sbagliate: Calcio, Tennis, Baseball"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e lanciano una palla con una canna?",
+    "correctAnswer": "Risposta corretta: Curling su ghiaccio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Hockey su ghiaccio, Pattinaggio di figura, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti lanciano una palla di ferro il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del peso",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del martello, Salto in alto, Nuoto"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista rettangolare e cercano di segnare punti lanciando una palla attraverso un cestino?",
+    "correctAnswer": "Risposta corretta: Pallacanestro",
+    "wrongAnswer": [
+      "Risposte sbagliate: Calcio, Tennis, Baseball"
+    ]
+  },
+  {
+    "question": "In quale sport si usa una palla e una rete, e gli atleti devono colpire la palla sopra la rete?",
+    "correctAnswer": "Risposta corretta: Tennis da tavolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Badminton, Beach tennis, Squash"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e fanno acrobazie e salti?",
+    "correctAnswer": "Risposta corretta: Pattinaggio di figura",
+    "wrongAnswer": [
+      "Risposte sbagliate: Hockey su ghiaccio, Curling, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti lanciano un disco il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del disco",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del martello, Salto in alto, Nuoto"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista curva e cercano di lanciare una lancia il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del giavellotto",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del peso, Salto in alto, Salto in lungo"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti gareggiano su una pista rettangolare e cercano di segnare punti calciando una palla in una porta?",
+    "correctAnswer": "Risposta corretta: Calcio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rugby, Football americano, Baseball"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e cercano di segnare gol con una rondella?",
+    "correctAnswer": "Risposta corretta: Hockey su ghiaccio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pattinaggio di figura, Curling, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti gareggiano su una pista rettangolare e cercano di segnare punti lanciando una palla attraverso un cestino?",
+    "correctAnswer": "Risposta corretta: Pallacanestro",
+    "wrongAnswer": [
+      "Risposte sbagliate: Calcio, Tennis, Baseball"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e lanciano una palla con una canna?",
+    "correctAnswer": "Risposta corretta: Curling su ghiaccio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Hockey su ghiaccio, Pattinaggio di figura, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti lanciano una palla di ferro il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del peso",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del martello, Salto in alto, Nuoto"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista rettangolare e cercano di segnare punti lanciando una palla attraverso un cestino?",
+    "correctAnswer": "Risposta corretta: Pallacanestro",
+    "wrongAnswer": [
+      "Risposte sbagliate: Calcio, Tennis, Baseball"
+    ]
+  },
+  {
+    "question": "In quale sport si usa una palla e una rete, e gli atleti devono colpire la palla sopra la rete?",
+    "correctAnswer": "Risposta corretta: Tennis da tavolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Badminton, Beach tennis, Squash"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e fanno acrobazie e salti?",
+    "correctAnswer": "Risposta corretta: Pattinaggio di figura",
+    "wrongAnswer": [
+      "Risposte sbagliate: Hockey su ghiaccio, Curling, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti lanciano un disco il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del disco",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del martello, Salto in alto, Nuoto"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista curva e cercano di lanciare una lancia il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del giavellotto",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del peso, Salto in alto, Salto in lungo"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti gareggiano su una pista rettangolare e cercano di segnare punti calciando una palla in una porta?",
+    "correctAnswer": "Risposta corretta: Calcio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rugby, Football americano, Baseball"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e cercano di segnare gol con una rondella?",
+    "correctAnswer": "Risposta corretta: Hockey su ghiaccio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pattinaggio di figura, Curling, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti gareggiano su una pista rettangolare e cercano di segnare punti lanciando una palla attraverso un cestino?",
+    "correctAnswer": "Risposta corretta: Pallacanestro",
+    "wrongAnswer": [
+      "Risposte sbagliate: Calcio, Tennis, Baseball"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e lanciano una palla con una canna?",
+    "correctAnswer": "Risposta corretta: Curling su ghiaccio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Hockey su ghiaccio, Pattinaggio di figura, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti lanciano una palla di ferro il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del peso",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del martello, Salto in alto, Nuoto"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista rettangolare e cercano di segnare punti lanciando una palla attraverso un cestino?",
+    "correctAnswer": "Risposta corretta: Pallacanestro",
+    "wrongAnswer": [
+      "Risposte sbagliate: Calcio, Tennis, Baseball"
+    ]
+  },
+  {
+    "question": "In quale sport si usa una palla e una rete, e gli atleti devono colpire la palla sopra la rete?",
+    "correctAnswer": "Risposta corretta: Tennis da tavolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Badminton, Beach tennis, Squash"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista di ghiaccio indossando pattini e fanno acrobazie e salti?",
+    "correctAnswer": "Risposta corretta: Pattinaggio di figura",
+    "wrongAnswer": [
+      "Risposte sbagliate: Hockey su ghiaccio, Curling, Sci alpino"
+    ]
+  },
+  {
+    "question": "In quale sport gli atleti lanciano un disco il pi\u00f9 lontano possibile?",
+    "correctAnswer": "Risposta corretta: Lancio del disco",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lancio del martello, Salto in alto, Nuoto"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 lo sport in cui gli atleti gareggiano su una pista curva e cercano di lanciare una lancia il pi\u00f9 lontano possibile?",
+    "correctAnswer": "- Risposta corretta: Lancio del giavellotto",
+    "wrongAnswer": [
+      "- Risposte sbagliate: Lancio del peso, Salto in alto, Salto in lungo"
+    ]
+  }
+]

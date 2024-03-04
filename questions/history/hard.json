@@ -1,0 +1,702 @@
+[
+  {
+    "question": "Chi \u00e8 stato il fondatore della dinastia Tudor in Inghilterra?",
+    "correctAnswer": "Risposta corretta: Enrico VII",
+    "wrongAnswer": [
+      "Risposte sbagliate: Elisabetta I, Riccardo III, Enrico VIII"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 scoppiata la guerra dei Sette Anni?",
+    "correctAnswer": "Risposta corretta: 1756",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1642, 1812, 1914"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il comandante dell'esercito alleato durante la Campagna d'Italia nella Seconda Guerra Mondiale?",
+    "correctAnswer": "Risposta corretta: Harold Alexander",
+    "wrongAnswer": [
+      "Risposte sbagliate: George Patton, Dwight D. Eisenhower, Erwin Rommel"
+    ]
+  },
+  {
+    "question": "Quale evento storico ha segnato la fine della Guerra Fredda in Europa?",
+    "correctAnswer": "Risposta corretta: Caduta del Muro di Berlino",
+    "wrongAnswer": [
+      "Risposte sbagliate: Dissoluzione dell'URSS, Trattato START, Rivoluzione di velluto in Cecoslovacchia"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo presidente della Repubblica italiana?",
+    "correctAnswer": "Risposta corretta: Enrico De Nicola",
+    "wrongAnswer": [
+      "Risposte sbagliate: Alcide De Gasperi, Giuseppe Saragat, Sandro Pertini"
+    ]
+  },
+  {
+    "question": "In quale periodo \u00e8 vissuto Spartaco, il leader della rivolta degli schiavi romani?",
+    "correctAnswer": "Risposta corretta: I secolo a.C.",
+    "wrongAnswer": [
+      "Risposte sbagliate: II secolo a.C., III secolo a.C., IV secolo a.C."
+    ]
+  },
+  {
+    "question": "Quale evento storico \u00e8 noto come la \"Notte dei Lunghi Coltelli\"?",
+    "correctAnswer": "Risposta corretta: Eliminazione delle SA da parte di Hitler",
+    "wrongAnswer": [
+      "Risposte sbagliate: Assassinio di Rasputin, Incendio del Reichstag, Marcia su Roma"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo sovrano della dinastia degli Asburgo?",
+    "correctAnswer": "Risposta corretta: Rodolfo I d'Asburgo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Carlo V, Massimiliano I, Francesco Giuseppe I"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata firmata la Dichiarazione di Indipendenza dell'India?",
+    "correctAnswer": "Risposta corretta: 1947",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1919, 1955, 1962"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il fondatore dell'Impero maurya in India?",
+    "correctAnswer": "Risposta corretta: Chandragupta Maurya",
+    "wrongAnswer": [
+      "Risposte sbagliate: Ashoka il Grande, Harsha, Akbar il Grande"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato l'inizio della Guerra del Peloponneso?",
+    "correctAnswer": "Risposta corretta: Rivolta di Corinto",
+    "wrongAnswer": [
+      "Risposte sbagliate: Battaglia di Maratona, Guerra persiana, Trattato di Tessalonica"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il leader della rivoluzione haitiana?",
+    "correctAnswer": "Risposta corretta: Toussaint Louverture",
+    "wrongAnswer": [
+      "Risposte sbagliate: Sim\u00f3n Bol\u00edvar, Jean-Jacques Dessalines, Henri Christophe"
+    ]
+  },
+  {
+    "question": "In quale periodo \u00e8 vissuto il filosofo cinese Confucio?",
+    "correctAnswer": "Risposta corretta: VI-V secolo a.C.",
+    "wrongAnswer": [
+      "Risposte sbagliate: IV secolo a.C., III secolo a.C., II secolo a.C."
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato l'inizio della Guerra d'Indipendenza degli Stati Uniti?",
+    "correctAnswer": "Risposta corretta: Battaglia di Lexington e Concord",
+    "wrongAnswer": [
+      "Risposte sbagliate: Dichiarazione di Indipendenza, Battaglia di Saratoga, Assedio di Yorktown"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il comandante dell'esercito cartaginese durante la Seconda Guerra Punica?",
+    "correctAnswer": "Risposta corretta: Annibale",
+    "wrongAnswer": [
+      "Risposte sbagliate: Scipione l'Africano, Asdrubale Barca, Amilcare Barca"
+    ]
+  },
+  {
+    "question": "Quale evento ha portato alla fondazione della Lega delle Nazioni?",
+    "correctAnswer": "Risposta corretta: Trattato di Versailles",
+    "wrongAnswer": [
+      "Risposte sbagliate: Trattato di Rapallo, Trattato di Trianon, Trattato di Brest-Litovsk"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo imperatore romano a regnare dopo la morte di Nerone?",
+    "correctAnswer": "Risposta corretta: Galba",
+    "wrongAnswer": [
+      "Risposte sbagliate: Vespasiano, Tito, Domiziano"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata fondata la NATO (Organizzazione del Trattato dell'Atlantico del Nord)?",
+    "correctAnswer": "Risposta corretta: 1949",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1955, 1962, 1970"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stata la dinastia che ha governato l'Egitto durante la costruzione delle piramidi di Giza?",
+    "correctAnswer": "Risposta corretta: Dinastia IV",
+    "wrongAnswer": [
+      "Risposte sbagliate: Dinastia III, Dinastia V, Dinastia VI"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il principale comandante militare durante la Guerra del Vietnam per gli Stati Uniti?",
+    "correctAnswer": "Risposta corretta: William Westmoreland",
+    "wrongAnswer": [
+      "Risposte sbagliate: Douglas MacArthur, John F. Kennedy, Lyndon B. Johnson"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stato istituito il Commonwealth delle Nazioni?",
+    "correctAnswer": "Risposta corretta: 1931",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1920, 1945, 1955"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo imperatore dell'Impero romano d'Oriente?",
+    "correctAnswer": "Risposta corretta: Augusto",
+    "wrongAnswer": [
+      "Risposte sbagliate: Costantino il Grande, Teodosio I, Giustiniano I"
+    ]
+  },
+  {
+    "question": "Quale evento ha portato all'inizio della Guerra di Secessione negli Stati Uniti?",
+    "correctAnswer": "Risposta corretta: Attacco a Fort Sumter",
+    "wrongAnswer": [
+      "Risposte sbagliate: Proclamazione di Emancipazione, Assasinio di Abraham Lincoln, Battaglia di Gettysburg"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 fiorita la dinastia Tang in Cina?",
+    "correctAnswer": "Risposta corretta: VII-IX secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: V-VI secolo, X-XI secolo, XII-XIII secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo presidente della Repubblica francese?",
+    "correctAnswer": "Risposta corretta: Louis-Napol\u00e9on Bonaparte",
+    "wrongAnswer": [
+      "Risposte sbagliate: Charles de Gaulle, Jacques Chirac, Fran\u00e7ois Mitterrand"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stato l'effetto principale del Congresso di Vienna del 1815 sulla Polonia?",
+    "correctAnswer": "Risposta corretta: Spartizione della Polonia tra Russia, Prussia e Austria",
+    "wrongAnswer": [
+      "Risposte sbagliate: Creazione di uno stato polacco indipendente, Anschluss della Polonia da parte della Germania, Rinascita della Confederazione Polacco-Lituana"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il fondatore della dinastia Qing in Cina?",
+    "correctAnswer": "Risposta corretta: Nurhaci",
+    "wrongAnswer": [
+      "Risposte sbagliate: Kangxi, Qianlong, Hongwu"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato l'inizio della Guerra d'indipendenza greca contro l'Impero ottomano?",
+    "correctAnswer": "Risposta corretta: Rivolta di Chios",
+    "wrongAnswer": [
+      "Risposte sbagliate: Assedio di Missolungi, Massacro di Chio, Battaglia di Navarino"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il principale teorico del liberalismo economico nel XIX secolo?",
+    "correctAnswer": "Risposta corretta: Adam Smith",
+    "wrongAnswer": [
+      "Risposte sbagliate: Karl Marx, John Maynard Keynes, Friedrich Hayek"
+    ]
+  },
+  {
+    "question": "In quale periodo storico \u00e8 vissuto il re Luigi XIV di Francia?",
+    "correctAnswer": "Risposta corretta: XVII secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: XVI secolo, XVIII secolo, XIX secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il principale leader della rivoluzione messicana del 1910?",
+    "correctAnswer": "Risposta corretta: Francisco Madero",
+    "wrongAnswer": [
+      "Risposte sbagliate: Emiliano Zapata, Pancho Villa, Porfirio D\u00edaz"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato l'inizio della Guerra del Vietnam?",
+    "correctAnswer": "Risposta corretta: Incidente del Golfo del Tonchino",
+    "wrongAnswer": [
+      "Risposte sbagliate: Invasione del Laos, Tet Offensive, Dichiarazione di guerra"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il comandante delle forze alleate durante la Campagna del Nord Africa nella Seconda Guerra Mondiale?",
+    "correctAnswer": "Risposta corretta: Bernard Montgomery",
+    "wrongAnswer": [
+      "Risposte sbagliate: Erwin Rommel, Dwight D. Eisenhower, George Patton"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 vissuto William Wallace, il leader della resistenza scozzese contro l'Inghilterra?",
+    "correctAnswer": "Risposta corretta: XIII-XIV secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: XI-XII secolo, XV-XVI secolo, XVII-XVIII secolo"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato l'inizio della Guerra di Crimea?",
+    "correctAnswer": "Risposta corretta: Dispute religiose tra cattolici e ortodossi in Terra Santa",
+    "wrongAnswer": [
+      "Risposte sbagliate: Invasione russa dell'Impero ottomano, Riforma militare in Russia, Crisi di successione nell'Impero ottomano"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo presidente della Repubblica tedesca (Weimar) dopo la Prima Guerra Mondiale?",
+    "correctAnswer": "Risposta corretta: Friedrich Ebert",
+    "wrongAnswer": [
+      "Risposte sbagliate: Paul von Hindenburg, Gustav Stresemann, Kurt von Schleicher"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata firmata la Dichiarazione d'indipendenza degli Stati Uniti?",
+    "correctAnswer": "Risposta corretta: 1776",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1789, 1803, 1812"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo presidente degli Stati Uniti?",
+    "correctAnswer": "Risposta corretta: George Washington",
+    "wrongAnswer": [
+      "Risposte sbagliate: Thomas Jefferson, John Adams, James Madison"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stato l'effetto principale della Rivoluzione industriale sulla societ\u00e0 europea?",
+    "correctAnswer": "Risposta corretta: Crescita della classe operaia industriale",
+    "wrongAnswer": [
+      "Risposte sbagliate: Declino dell'aristocrazia, Crescita della classe mercantile, Aumento della popolazione rurale"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il fondatore dell'Impero persiano (Achemenide)?",
+    "correctAnswer": "Risposta corretta: Ciro il Grande",
+    "wrongAnswer": [
+      "Risposte sbagliate: Dario I, Serse I, Artaserse I"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata fondata la citt\u00e0 di Roma secondo la leggenda?",
+    "correctAnswer": "Risposta corretta: 753 a.C.",
+    "wrongAnswer": [
+      "Risposte sbagliate: 500 a.C., 1000 a.C., 100 a.C."
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il principale leader dell'unit\u00e0 tedesca nel XIX secolo?",
+    "correctAnswer": "Risposta corretta: Otto von Bismarck",
+    "wrongAnswer": [
+      "Risposte sbagliate: Wilhelm I, Friedrich Wilhelm IV, Kaiser Guglielmo II"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stata la causa principale della Guerra franco-prussiana del 1870-1871?",
+    "correctAnswer": "Risposta corretta: Controversie sulla successione al trono spagnolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Dispute territoriali in Alsazia e Lorena, Competizione coloniale in Africa, Rivoluzione industriale in Germania"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il principale leader della resistenza francese durante la Seconda Guerra Mondiale?",
+    "correctAnswer": "Risposta corretta: Charles de Gaulle",
+    "wrongAnswer": [
+      "Risposte sbagliate: Philippe P\u00e9tain, Winston Churchill, Joseph Stalin"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 stata la Riforma protestante guidata da Martin Lutero?",
+    "correctAnswer": "Risposta corretta: XVI secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: XV secolo, XVII secolo, XVIII secolo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il comandante dell'esercito alleato durante la Battaglia di Waterloo?",
+    "correctAnswer": "Risposta corretta: Duke of Wellington",
+    "wrongAnswer": [
+      "Risposte sbagliate: Napoleon Bonaparte, Gebhard Leberecht von Bl\u00fccher, Michel Ney"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato l'inizio della Rivoluzione industriale in Gran Bretagna?",
+    "correctAnswer": "Risposta corretta: Invenzione della filatura meccanica",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rivoluzione francese, Invenzione della stampa, Scoperta dell'America"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo presidente degli Stati Uniti ad essere assassinato?",
+    "correctAnswer": "Risposta corretta: Abraham Lincoln",
+    "wrongAnswer": [
+      "Risposte sbagliate: John F. Kennedy, James A. Garfield, William McKinley"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stato l'effetto principale dell'Impero romano sull'Europa occidentale dopo la sua caduta?",
+    "correctAnswer": "Risposta corretta: Decadenza dell'organizzazione politica e economica",
+    "wrongAnswer": [
+      "Risposte sbagliate: Crescita economica, Rinascita culturale, Espansione territoriale"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il principale esploratore portoghese durante l'era delle esplorazioni?",
+    "correctAnswer": "Risposta corretta: Vasco da Gama",
+    "wrongAnswer": [
+      "Risposte sbagliate: Cristoforo Colombo, Ferdinando Magellano, Giovanni Caboto"
+    ]
+  },
+  {
+    "question": "In quale periodo \u00e8 vissuto il filosofo greco Socrate?",
+    "correctAnswer": "Risposta corretta: V secolo a.C.",
+    "wrongAnswer": [
+      "Risposte sbagliate: IV secolo a.C., VI secolo a.C., VII secolo a.C."
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato l'inizio della Rivoluzione francese?",
+    "correctAnswer": "Risposta corretta: Presa della Bastiglia",
+    "wrongAnswer": [
+      "Risposte sbagliate: Ascesa al trono di Luigi XVI, Convocazione degli Stati Generali, Esecuzione di Luigi XVI"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il principale teorico del comunismo insieme a Karl Marx?",
+    "correctAnswer": "Risposta corretta: Friedrich Engels",
+    "wrongAnswer": [
+      "Risposte sbagliate: Vladimir Lenin, Joseph Stalin, Leon Trotsky"
+    ]
+  },
+  {
+    "question": "In quale secolo \u00e8 stata la dinastia Han in Cina?",
+    "correctAnswer": "Risposta corretta: III secolo a.C. III secolo d.C.",
+    "wrongAnswer": [
+      "Risposte sbagliate: V secolo a.C. V secolo d.C., I secolo a.C. I secolo d.C., VII secolo a.C. VII secolo d.C."
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il principale leader dell'unit\u00e0 tedesca durante il XIX secolo?",
+    "correctAnswer": "Risposta corretta: Otto von Bismarck",
+    "wrongAnswer": [
+      "Risposte sbagliate: Wilhelm I, Friedrich Wilhelm IV, Kaiser Guglielmo II"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato la fine della Guerra Fredda in Europa?",
+    "correctAnswer": "Risposta corretta: Caduta del Muro di Berlino",
+    "wrongAnswer": [
+      "Risposte sbagliate: Dissoluzione dell'URSS, Trattato START, Rivoluzione di velluto in Cecoslovacchia"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo imperatore cinese della dinastia Qin?",
+    "correctAnswer": "Risposta corretta: Qin Shi Huang",
+    "wrongAnswer": [
+      "Risposte sbagliate: Han Wudi, Liu Bang, Tang Taizong"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata fondata l'Organizzazione delle Nazioni Unite (ONU)?",
+    "correctAnswer": "Risposta corretta: 1945",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1920, 1930, 1950"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stato l'effetto principale della Rivoluzione industriale sulla produzione di beni?",
+    "correctAnswer": "Risposta corretta: Passaggio dalla produzione artigianale alla produzione industriale di massa",
+    "wrongAnswer": [
+      "Risposte sbagliate: Aumento della produzione artigianale, Declino della produzione, Crescita della produzione agricola"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il principale leader della rivoluzione russa del 1917?",
+    "correctAnswer": "Risposta corretta: Vladimir Lenin",
+    "wrongAnswer": [
+      "Risposte sbagliate: Joseph Stalin, Leon Trotsky, Nicholas II"
+    ]
+  },
+  {
+    "question": "In quale periodo \u00e8 vissuto il filosofo cinese Confucio?",
+    "correctAnswer": "Risposta corretta: VI-V secolo a.C.",
+    "wrongAnswer": [
+      "Risposte sbagliate: IV secolo a.C., III secolo a.C., II secolo a.C."
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato l'inizio della Guerra del Peloponneso?",
+    "correctAnswer": "Risposta corretta: Rivolta di Corinto",
+    "wrongAnswer": [
+      "Risposte sbagliate: Battaglia di Maratona, Guerra persiana, Trattato di Tessalonica"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il leader della rivoluzione haitiana?",
+    "correctAnswer": "Risposta corretta: Toussaint Louverture",
+    "wrongAnswer": [
+      "Risposte sbagliate: Sim\u00f3n Bol\u00edvar, Jean-Jacques Dessalines, Henri Christophe"
+    ]
+  },
+  {
+    "question": "In quale periodo \u00e8 fiorito l'Impero ottomano?",
+    "correctAnswer": "Risposta corretta: XIV-XIX secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: VIII-XIII secolo, XV-XX secolo, IV-IX secolo"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato l'inizio della Guerra delle Falkland nel 1982?",
+    "correctAnswer": "Risposta corretta: Invasione argentina delle isole Falkland",
+    "wrongAnswer": [
+      "Risposte sbagliate: Bombardamento delle Malvine, Rivolta popolare, Crollo economico"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il leader dell'Unione Sovietica durante la crisi dei missili di Cuba?",
+    "correctAnswer": "Risposta corretta: Nikita Khrushchev",
+    "wrongAnswer": [
+      "Risposte sbagliate: Joseph Stalin, Leonid Brezhnev, Mikhail Gorbachev"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stato l'effetto principale della Rivoluzione industriale sulle condizioni di lavoro?",
+    "correctAnswer": "Risposta corretta: Emergenza delle fabbriche e lunghe ore lavorative",
+    "wrongAnswer": [
+      "Risposte sbagliate: Riduzione dell'orario lavorativo, Crescita del salario, Aumento del lavoro autonomo"
+    ]
+  },
+  {
+    "question": "Chi era il leader dell'apartheid in Sudafrica durante gli anni '90?",
+    "correctAnswer": "Risposta corretta: Frederik de Klerk",
+    "wrongAnswer": [
+      "Risposte sbagliate: Nelson Mandela, Hendrik Verwoerd, Desmond Tutu"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 fu bombardata con le prime bombe atomiche durante la Seconda Guerra Mondiale?",
+    "correctAnswer": "Risposta corretta: Hiroshima e Nagasaki",
+    "wrongAnswer": [
+      "Risposte sbagliate: Tokyo, Berlino, Londra"
+    ]
+  },
+  {
+    "question": "In quale secolo si \u00e8 svolta la Rivoluzione inglese?",
+    "correctAnswer": "Risposta corretta: XVII secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: XVI secolo, XVIII secolo, XIX secolo"
+    ]
+  },
+  {
+    "question": "Chi fu il principale imperatore romano a convertirsi al cristianesimo?",
+    "correctAnswer": "Risposta corretta: Costantino il Grande",
+    "wrongAnswer": [
+      "Risposte sbagliate: Augusto, Marco Aurelio, Diocleziano"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stato l'effetto principale della Rivoluzione industriale sulla societ\u00e0?",
+    "correctAnswer": "Risposta corretta: Urbanizzazione",
+    "wrongAnswer": [
+      "Risposte sbagliate: Agricoltura intensiva, Decadenza delle arti, Rinascita della teocrazia"
+    ]
+  },
+  {
+    "question": "Chi era il principale leader dell'apartheid in Sudafrica?",
+    "correctAnswer": "Risposta corretta: Hendrik Verwoerd",
+    "wrongAnswer": [
+      "Risposte sbagliate: Nelson Mandela, Frederik de Klerk, Desmond Tutu"
+    ]
+  },
+  {
+    "question": "Quale trattato pose fine alla Prima Guerra Mondiale?",
+    "correctAnswer": "Risposta corretta: Trattato di Versailles",
+    "wrongAnswer": [
+      "Risposte sbagliate: Trattato di Rapallo, Trattato di Brest-Litovsk, Trattato di Trianon"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stato il risultato principale del Congresso di Vienna nel 1815?",
+    "correctAnswer": "Risposta corretta: Restaurazione monarchica",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rivoluzione democratica, Ascesa del nazionalismo, Creazione della Societ\u00e0 delle Nazioni"
+    ]
+  },
+  {
+    "question": "Chi fu il principale leader della Rivoluzione cinese del 1949?",
+    "correctAnswer": "Risposta corretta: Mao Zedong",
+    "wrongAnswer": [
+      "Risposte sbagliate: Chiang Kai-shek, Sun Yat-sen, Deng Xiaoping"
+    ]
+  },
+  {
+    "question": "In quale periodo storico \u00e8 fiorito l'Impero ottomano?",
+    "correctAnswer": "Risposta corretta: XIV-XIX secolo",
+    "wrongAnswer": [
+      "Risposte sbagliate: VIII-XIII secolo, XV-XX secolo, IV-IX secolo"
+    ]
+  },
+  {
+    "question": "Quale evento ha scatenato la Guerra delle Falkland nel 1982?",
+    "correctAnswer": "Risposta corretta: Invasione argentina delle isole Falkland",
+    "wrongAnswer": [
+      "Risposte sbagliate: Bombardamento delle Malvine, Rivolta popolare, Crollo economico"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il leader dell'Unione Sovietica durante la crisi dei missili di Cuba?",
+    "correctAnswer": "Risposta corretta: Nikita Khrushchev",
+    "wrongAnswer": [
+      "Risposte sbagliate: Joseph Stalin, Leonid Brezhnev, Mikhail Gorbachev"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stato l'effetto della Rivoluzione industriale sulle condizioni di lavoro?",
+    "correctAnswer": "Risposta corretta: Emergenza delle fabbriche e lunghe ore lavorative",
+    "wrongAnswer": [
+      "Risposte sbagliate: Riduzione dell'orario lavorativo, Crescita del salario, Aumento del lavoro autonomo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il comandante dell'esercito cartaginese durante la Prima Guerra Punica?",
+    "correctAnswer": "Risposta corretta: Amilcare Barca",
+    "wrongAnswer": [
+      "Risposte sbagliate: Scipione l'Africano, Annibale, Asdrubale Barca"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata firmata la Magna Carta in Inghilterra?",
+    "correctAnswer": "Risposta corretta: 1215",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1066, 1348, 1492"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stato il risultato principale della Guerra dei Trent'anni?",
+    "correctAnswer": "Risposta corretta: Trattato di Westfalia",
+    "wrongAnswer": [
+      "Risposte sbagliate: Trattato di Utrecht, Trattato di Versailles, Trattato di Trianon"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il fondatore della dinastia Ming in Cina?",
+    "correctAnswer": "Risposta corretta: Hongwu",
+    "wrongAnswer": [
+      "Risposte sbagliate: Zhu Di, Yongle, Jianwen"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata dichiarata l'indipendenza dell'Algeria dalla Francia?",
+    "correctAnswer": "Risposta corretta: 1962",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1954, 1975, 1980"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il principale leader della Rivoluzione industriale in Germania?",
+    "correctAnswer": "Risposta corretta: Friedrich List",
+    "wrongAnswer": [
+      "Risposte sbagliate: Karl Marx, Otto von Bismarck, Friedrich Engels"
+    ]
+  },
+  {
+    "question": "Quale evento ha portato alla fine della monarchia in Francia durante la Rivoluzione francese?",
+    "correctAnswer": "Risposta corretta: Esecuzione di Luigi XVI",
+    "wrongAnswer": [
+      "Risposte sbagliate: Presa della Bastiglia, Convocazione degli Stati Generali, Ascesa di Napoleone"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata istituita la Comunit\u00e0 Economica Europea (CEE)?",
+    "correctAnswer": "Risposta corretta: 1957",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1945, 1965, 1975"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il principale ideologo del movimento dei diritti civili negli Stati Uniti?",
+    "correctAnswer": "Risposta corretta: Martin Luther King Jr.",
+    "wrongAnswer": [
+      "Risposte sbagliate: Malcolm X, Rosa Parks, Thurgood Marshall"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato l'inizio della Rivoluzione industriale in Belgio?",
+    "correctAnswer": "Risposta corretta: Costruzione delle prime ferrovie",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rivoluzione industriale in Gran Bretagna, Scoperta del carbone, Invenzione della filatura meccanica"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il fondatore dell'impero mongolo?",
+    "correctAnswer": "Risposta corretta: Genghis Khan",
+    "wrongAnswer": [
+      "Risposte sbagliate: Kublai Khan, Tamerlano, Batu Khan"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 stata la causa principale della Rivoluzione russa del 1917?",
+    "correctAnswer": "Risposta corretta: Povert\u00e0 e malcontento tra la popolazione",
+    "wrongAnswer": [
+      "Risposte sbagliate: Ascesa di Lenin, Trattato di Brest-Litovsk, Rivoluzione industriale"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata fondata la Lega delle Nazioni?",
+    "correctAnswer": "Risposta corretta: 1920",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1918, 1930, 1945"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il comandante delle forze alleate durante la Battaglia di Stalingrado?",
+    "correctAnswer": "Risposta corretta: Georgi Zhukov",
+    "wrongAnswer": [
+      "Risposte sbagliate: Erich von Manstein, Friedrich Paulus, Vasily Chuikov"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato l'inizio della Guerra d'indipendenza algerina contro la Francia?",
+    "correctAnswer": "Risposta corretta: Rivolta del 1\u00ba novembre 1954",
+    "wrongAnswer": [
+      "Risposte sbagliate: Indipendenza del Marocco, Guerra dei Sei Giorni, Indipendenza del Vietnam"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo presidente della Repubblica popolare cinese?",
+    "correctAnswer": "Risposta corretta: Mao Zedong",
+    "wrongAnswer": [
+      "Risposte sbagliate: Chiang Kai-shek, Sun Yat-sen, Deng Xiaoping"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato la fine della Guerra di Secessione negli Stati Uniti?",
+    "correctAnswer": "Risposta corretta: Resa di Robert E. Lee a Appomattox",
+    "wrongAnswer": [
+      "Risposte sbagliate: Proclamazione di Emancipazione, Battaglia di Gettysburg, Assasinio di Abraham Lincoln"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il comandante delle forze alleate durante la Battaglia d'Inghilterra?",
+    "correctAnswer": "Risposta corretta: Hugh Dowding",
+    "wrongAnswer": [
+      "Risposte sbagliate: Winston Churchill, Douglas Bader, Hermann G\u00f6ring"
+    ]
+  },
+  {
+    "question": "Quale evento ha segnato la fine della Guerra Fredda in Asia?",
+    "correctAnswer": "Risposta corretta: Ritiro delle truppe sovietiche dall'Afghanistan",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rivoluzione filippina, Guerra del Vietnam, Rivoluzione culturale cinese"
+    ]
+  },
+  {
+    "question": "In quale anno \u00e8 stata firmata la Dichiarazione di Indipendenza dell'Indonesia?",
+    "correctAnswer": "Risposta corretta: 1945",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1950, 1962, 1971"
+    ]
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "question": "Quanto fa 5 + 7?",
+    "correctAnswer": "Risposta corretta: 12",
+    "wrongAnswer": [
+      "Risposte sbagliate: 8, 15, 20"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 il doppio di 9?",
+    "correctAnswer": "Risposta corretta: 18",
+    "wrongAnswer": [
+      "Risposte sbagliate: 12, 15, 20"
+    ]
+  },
+  {
+    "question": "Quanto fa 4 x 6?",
+    "correctAnswer": "Risposta corretta: 24",
+    "wrongAnswer": [
+      "Risposte sbagliate: 16, 20, 30"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 - 3?",
+    "correctAnswer": "Risposta corretta: 6",
+    "wrongAnswer": [
+      "Risposte sbagliate: 4, 8, 10"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 la met\u00e0 di 14?",
+    "correctAnswer": "Risposta corretta: 7",
+    "wrongAnswer": [
+      "Risposte sbagliate: 5, 10, 12"
+    ]
+  },
+  {
+    "question": "Quanto fa 3 al cubo?",
+    "correctAnswer": "Risposta corretta: 27",
+    "wrongAnswer": [
+      "Risposte sbagliate: 9, 18, 36"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 diviso 2?",
+    "correctAnswer": "Risposta corretta: 4",
+    "wrongAnswer": [
+      "Risposte sbagliate: 2, 6, 8"
+    ]
+  },
+  {
+    "question": "Quale \u00e8 il prodotto di 5 e 4?",
+    "correctAnswer": "Risposta corretta: 20",
+    "wrongAnswer": [
+      "Risposte sbagliate: 15, 25, 30"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 + 9?",
+    "correctAnswer": "Risposta corretta: 16",
+    "wrongAnswer": [
+      "Risposte sbagliate: 12, 18, 20"
+    ]
+  },
+  {
+    "question": "Quanto fa 2 x 10?",
+    "correctAnswer": "Risposta corretta: 20",
+    "wrongAnswer": [
+      "Risposte sbagliate: 15, 25, 30"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 - 3?",
+    "correctAnswer": "Risposta corretta: 3",
+    "wrongAnswer": [
+      "Risposte sbagliate: 2, 5, 8"
+    ]
+  },
+  {
+    "question": "Quanto fa 4 al quadrato?",
+    "correctAnswer": "Risposta corretta: 16",
+    "wrongAnswer": [
+      "Risposte sbagliate: 8, 12, 20"
+    ]
+  },
+  {
+    "question": "Quanto fa 5 diviso 1?",
+    "correctAnswer": "Risposta corretta: 5",
+    "wrongAnswer": [
+      "Risposte sbagliate: 2, 3, 8"
+    ]
+  },
+  {
+    "question": "Quanto fa 11 + 13?",
+    "correctAnswer": "Risposta corretta: 24",
+    "wrongAnswer": [
+      "Risposte sbagliate: 18, 20, 30"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 x 3?",
+    "correctAnswer": "Risposta corretta: 27",
+    "wrongAnswer": [
+      "Risposte sbagliate: 15, 18, 24"
+    ]
+  },
+  {
+    "question": "Quanto fa 15 diviso 5?",
+    "correctAnswer": "Risposta corretta: 3",
+    "wrongAnswer": [
+      "Risposte sbagliate: 5, 10, 15"
+    ]
+  },
+  {
+    "question": "Quanto fa 2 + 4 + 6?",
+    "correctAnswer": "Risposta corretta: 12",
+    "wrongAnswer": [
+      "Risposte sbagliate: 8, 10, 14"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 x 8?",
+    "correctAnswer": "Risposta corretta: 56",
+    "wrongAnswer": [
+      "Risposte sbagliate: 40, 50, 60"
+    ]
+  },
+  {
+    "question": "Quanto fa 12 - 7?",
+    "correctAnswer": "Risposta corretta: 5",
+    "wrongAnswer": [
+      "Risposte sbagliate: 3, 8, 10"
+    ]
+  },
+  {
+    "question": "Quanto fa 3 al quadrato?",
+    "correctAnswer": "Risposta corretta: 9",
+    "wrongAnswer": [
+      "Risposte sbagliate: 6, 12, 15"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 diviso 2?",
+    "correctAnswer": "Risposta corretta: 3",
+    "wrongAnswer": [
+      "Risposte sbagliate: 2, 4, 6"
+    ]
+  },
+  {
+    "question": "Quanto fa 10 + 15?",
+    "correctAnswer": "Risposta corretta: 25",
+    "wrongAnswer": [
+      "Risposte sbagliate: 18, 20, 30"
+    ]
+  },
+  {
+    "question": "Quanto fa 5 x 5?",
+    "correctAnswer": "Risposta corretta: 25",
+    "wrongAnswer": [
+      "Risposte sbagliate: 20, 30, 35"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 - 4?",
+    "correctAnswer": "Risposta corretta: 5",
+    "wrongAnswer": [
+      "Risposte sbagliate: 3, 6, 8"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 al cubo?",
+    "correctAnswer": "Risposta corretta: 343",
+    "wrongAnswer": [
+      "Risposte sbagliate: 49, 98, 196"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 diviso 4?",
+    "correctAnswer": "Risposta corretta: 2",
+    "wrongAnswer": [
+      "Risposte sbagliate: 3, 4, 5"
+    ]
+  },
+  {
+    "question": "Quanto fa 11 x 9?",
+    "correctAnswer": "Risposta corretta: 99",
+    "wrongAnswer": [
+      "Risposte sbagliate: 88, 77, 66"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 + 8?",
+    "correctAnswer": "Risposta corretta: 14",
+    "wrongAnswer": [
+      "Risposte sbagliate: 10, 12, 16"
+    ]
+  },
+  {
+    "question": "Quanto fa 4 al cubo?",
+    "correctAnswer": "Risposta corretta: 64",
+    "wrongAnswer": [
+      "Risposte sbagliate: 16, 32, 48"
+    ]
+  },
+  {
+    "question": "Quanto fa 5 diviso 2?",
+    "correctAnswer": "Risposta corretta: 2.5",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1, 3, 4"
+    ]
+  },
+  {
+    "question": "Quanto fa 3 + 7 + 2?",
+    "correctAnswer": "Risposta corretta: 12",
+    "wrongAnswer": [
+      "Risposte sbagliate: 8, 10, 14"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 x 6?",
+    "correctAnswer": "Risposta corretta: 54",
+    "wrongAnswer": [
+      "Risposte sbagliate: 45, 60, 72"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 - 2?",
+    "correctAnswer": "Risposta corretta: 6",
+    "wrongAnswer": [
+      "Risposte sbagliate: 4, 8, 10"
+    ]
+  },
+  {
+    "question": "Quanto fa 12 + 18?",
+    "correctAnswer": "Risposta corretta: 30",
+    "wrongAnswer": [
+      "Risposte sbagliate: 25, 35, 40"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 x 7?",
+    "correctAnswer": "Risposta corretta: 49",
+    "wrongAnswer": [
+      "Risposte sbagliate: 36, 42, 56"
+    ]
+  },
+  {
+    "question": "Quanto fa 10 - 5?",
+    "correctAnswer": "Risposta corretta: 5",
+    "wrongAnswer": [
+      "Risposte sbagliate: 3, 8, 10"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 al quadrato?",
+    "correctAnswer": "Risposta corretta: 36",
+    "wrongAnswer": [
+      "Risposte sbagliate: 18, 24, 42"
+    ]
+  },
+  {
+    "question": "Quanto fa 4 diviso 2?",
+    "correctAnswer": "Risposta corretta: 2",
+    "wrongAnswer": [
+      "Risposte sbagliate: 3, 4, 5"
+    ]
+  },
+  {
+    "question": "Quanto fa 11 + 5?",
+    "correctAnswer": "Risposta corretta: 16",
+    "wrongAnswer": [
+      "Risposte sbagliate: 12, 18, 20"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 x 2?",
+    "correctAnswer": "Risposta corretta: 18",
+    "wrongAnswer": [
+      "Risposte sbagliate: 15, 20, 25"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 - 1?",
+    "correctAnswer": "Risposta corretta: 6",
+    "wrongAnswer": [
+      "Risposte sbagliate: 4, 8, 10"
+    ]
+  },
+  {
+    "question": "Quanto fa 5 + 3 + 2?",
+    "correctAnswer": "Risposta corretta: 10",
+    "wrongAnswer": [
+      "Risposte sbagliate: 8, 12, 15"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 x 9?",
+    "correctAnswer": "Risposta corretta: 54",
+    "wrongAnswer": [
+      "Risposte sbagliate: 45, 60, 72"
+    ]
+  },
+  {
+    "question": "Quanto fa 12 - 6?",
+    "correctAnswer": "Risposta corretta: 6",
+    "wrongAnswer": [
+      "Risposte sbagliate: 4, 8, 10"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 diviso 2?",
+    "correctAnswer": "Risposta corretta: 4",
+    "wrongAnswer": [
+      "Risposte sbagliate: 2, 6, 8"
+    ]
+  },
+  {
+    "question": "Quanto fa 10 x 10?",
+    "correctAnswer": "Risposta corretta: 100",
+    "wrongAnswer": [
+      "Risposte sbagliate: 80, 90, 120"
+    ]
+  },
+  {
+    "question": "Quanto fa 3 al cubo?",
+    "correctAnswer": "Risposta corretta: 27",
+    "wrongAnswer": [
+      "Risposte sbagliate: 9, 18, 36"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 + 6?",
+    "correctAnswer": "Risposta corretta: 13",
+    "wrongAnswer": [
+      "Risposte sbagliate: 10, 15, 20"
+    ]
+  },
+  {
+    "question": "Quanto fa 4 x 8?",
+    "correctAnswer": "Risposta corretta: 32",
+    "wrongAnswer": [
+      "Risposte sbagliate: 24, 40, 48"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 diviso 3?",
+    "correctAnswer": "Risposta corretta: 3",
+    "wrongAnswer": [
+      "Risposte sbagliate: 2, 4, 6"
+    ]
+  },
+  {
+    "question": "Quanto fa 5 + 6 + 3?",
+    "correctAnswer": "Risposta corretta: 14",
+    "wrongAnswer": [
+      "Risposte sbagliate: 12, 18, 20"
+    ]
+  },
+  {
+    "question": "Quanto fa 11 x 7?",
+    "correctAnswer": "Risposta corretta: 77",
+    "wrongAnswer": [
+      "Risposte sbagliate: 66, 88, 99"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 - 3?",
+    "correctAnswer": "Risposta corretta: 5",
+    "wrongAnswer": [
+      "Risposte sbagliate: 3, 6, 8"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 + 4?",
+    "correctAnswer": "Risposta corretta: 10",
+    "wrongAnswer": [
+      "Risposte sbagliate: 8, 12, 15"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 x 4?",
+    "correctAnswer": "Risposta corretta: 36",
+    "wrongAnswer": [
+      "Risposte sbagliate: 27, 45, 54"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 diviso 7?",
+    "correctAnswer": "Risposta corretta: 1",
+    "wrongAnswer": [
+      "Risposte sbagliate: 2, 3, 4"
+    ]
+  },
+  {
+    "question": "Quanto fa 12 + 15?",
+    "correctAnswer": "Risposta corretta: 27",
+    "wrongAnswer": [
+      "Risposte sbagliate: 20, 30, 35"
+    ]
+  },
+  {
+    "question": "Quanto fa 5 al quadrato?",
+    "correctAnswer": "Risposta corretta: 25",
+    "wrongAnswer": [
+      "Risposte sbagliate: 15, 20, 30"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 diviso 4?",
+    "correctAnswer": "Risposta corretta: 2",
+    "wrongAnswer": [
+      "Risposte sbagliate: 3, 4, 5"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 x 7?",
+    "correctAnswer": "Risposta corretta: 42",
+    "wrongAnswer": [
+      "Risposte sbagliate: 30, 50, 60"
+    ]
+  },
+  {
+    "question": "Quanto fa 10 - 2?",
+    "correctAnswer": "Risposta corretta: 8",
+    "wrongAnswer": [
+      "Risposte sbagliate: 6, 10, 12"
+    ]
+  },
+  {
+    "question": "Quanto fa 3 + 8?",
+    "correctAnswer": "Risposta corretta: 11",
+    "wrongAnswer": [
+      "Risposte sbagliate: 10, 12, 15"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 x 5?",
+    "correctAnswer": "Risposta corretta: 45",
+    "wrongAnswer": [
+      "Risposte sbagliate: 36, 54, 63"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 - 2?",
+    "correctAnswer": "Risposta corretta: 5",
+    "wrongAnswer": [
+      "Risposte sbagliate: 3, 6, 8"
+    ]
+  },
+  {
+    "question": "Quanto fa 4 al cubo?",
+    "correctAnswer": "Risposta corretta: 64",
+    "wrongAnswer": [
+      "Risposte sbagliate: 16, 32, 48"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 diviso 3?",
+    "correctAnswer": "Risposta corretta: 2",
+    "wrongAnswer": [
+      "Risposte sbagliate: 3, 4, 5"
+    ]
+  },
+  {
+    "question": "Quanto fa 11 + 8?",
+    "correctAnswer": "Risposta corretta: 19",
+    "wrongAnswer": [
+      "Risposte sbagliate: 15, 20, 25"
+    ]
+  },
+  {
+    "question": "Quanto fa 5 x 8?",
+    "correctAnswer": "Risposta corretta: 40",
+    "wrongAnswer": [
+      "Risposte sbagliate: 30, 50, 60"
+    ]
+  },
+  {
+    "question": "Quanto fa 12 diviso 3?",
+    "correctAnswer": "Risposta corretta: 4",
+    "wrongAnswer": [
+      "Risposte sbagliate: 3, 5, 6"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 + 7?",
+    "correctAnswer": "Risposta corretta: 16",
+    "wrongAnswer": [
+      "Risposte sbagliate: 12, 18, 20"
+    ]
+  },
+  {
+    "question": "Quanto fa 2 al quadrato?",
+    "correctAnswer": "Risposta corretta: 4",
+    "wrongAnswer": [
+      "Risposte sbagliate: 6, 8, 10"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 x 6?",
+    "correctAnswer": "Risposta corretta: 42",
+    "wrongAnswer": [
+      "Risposte sbagliate: 30, 50, 60"
+    ]
+  },
+  {
+    "question": "Quanto fa 10 + 11?",
+    "correctAnswer": "Risposta corretta: 21",
+    "wrongAnswer": [
+      "Risposte sbagliate: 18, 25, 30"
+    ]
+  },
+  {
+    "question": "Quanto fa 3 x 5?",
+    "correctAnswer": "Risposta corretta: 15",
+    "wrongAnswer": [
+      "Risposte sbagliate: 10, 12, 18"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 - 1?",
+    "correctAnswer": "Risposta corretta: 5",
+    "wrongAnswer": [
+      "Risposte sbagliate: 3, 8, 10"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 diviso 1?",
+    "correctAnswer": "Risposta corretta: 8",
+    "wrongAnswer": [
+      "Risposte sbagliate: 4, 6, 10"
+    ]
+  },
+  {
+    "question": "Quanto fa 13 + 14?",
+    "correctAnswer": "Risposta corretta: 27",
+    "wrongAnswer": [
+      "Risposte sbagliate: 20, 30, 35"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 x 7?",
+    "correctAnswer": "Risposta corretta: 63",
+    "wrongAnswer": [
+      "Risposte sbagliate: 54, 70, 80"
+    ]
+  },
+  {
+    "question": "Quanto fa 4 al quadrato?",
+    "correctAnswer": "Risposta corretta: 16",
+    "wrongAnswer": [
+      "Risposte sbagliate: 8, 12, 20"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 diviso 2?",
+    "correctAnswer": "Risposta corretta: 3",
+    "wrongAnswer": [
+      "Risposte sbagliate: 2, 4, 6"
+    ]
+  },
+  {
+    "question": "Quanto fa 11 - 5?",
+    "correctAnswer": "Risposta corretta: 6",
+    "wrongAnswer": [
+      "Risposte sbagliate: 4, 8, 10"
+    ]
+  },
+  {
+    "question": "Quanto fa 5 + 9?",
+    "correctAnswer": "Risposta corretta: 14",
+    "wrongAnswer": [
+      "Risposte sbagliate: 12, 18, 20"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 x 5?",
+    "correctAnswer": "Risposta corretta: 35",
+    "wrongAnswer": [
+      "Risposte sbagliate: 25, 40, 50"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 - 4?",
+    "correctAnswer": "Risposta corretta: 4",
+    "wrongAnswer": [
+      "Risposte sbagliate: 2, 6, 8"
+    ]
+  },
+  {
+    "question": "Quanto fa 3 al cubo?",
+    "correctAnswer": "Risposta corretta: 27",
+    "wrongAnswer": [
+      "Risposte sbagliate: 9, 18, 36"
+    ]
+  },
+  {
+    "question": "Quanto fa 10 diviso 2?",
+    "correctAnswer": "Risposta corretta: 5",
+    "wrongAnswer": [
+      "Risposte sbagliate: 3, 4, 6"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 + 7 + 8?",
+    "correctAnswer": "Risposta corretta: 21",
+    "wrongAnswer": [
+      "Risposte sbagliate: 18, 25, 30"
+    ]
+  },
+  {
+    "question": "Quanto fa 4 x 7?",
+    "correctAnswer": "Risposta corretta: 28",
+    "wrongAnswer": [
+      "Risposte sbagliate: 20, 35, 40"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 - 1?",
+    "correctAnswer": "Risposta corretta: 8",
+    "wrongAnswer": [
+      "Risposte sbagliate: 6, 10, 12"
+    ]
+  },
+  {
+    "question": "Quanto fa 5 diviso 5?",
+    "correctAnswer": "Risposta corretta: 1",
+    "wrongAnswer": [
+      "Risposte sbagliate: 2, 3, 4"
+    ]
+  },
+  {
+    "question": "Quanto fa 11 + 6?",
+    "correctAnswer": "Risposta corretta: 17",
+    "wrongAnswer": [
+      "Risposte sbagliate: 15, 20, 25"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 x 6?",
+    "correctAnswer": "Risposta corretta: 48",
+    "wrongAnswer": [
+      "Risposte sbagliate: 36, 42, 54"
+    ]
+  },
+  {
+    "question": "Quanto fa 3 - 1?",
+    "correctAnswer": "Risposta corretta: 2",
+    "wrongAnswer": [
+      "Risposte sbagliate: 4, 6, 8"
+    ]
+  },
+  {
+    "question": "Quanto fa 7 + 3?",
+    "correctAnswer": "Risposta corretta: 10",
+    "wrongAnswer": [
+      "Risposte sbagliate: 8, 12, 15"
+    ]
+  },
+  {
+    "question": "Quanto fa 12 x 4?",
+    "correctAnswer": "Risposta corretta: 48",
+    "wrongAnswer": [
+      "Risposte sbagliate: 36, 40, 54"
+    ]
+  },
+  {
+    "question": "Quanto fa 9 + 6?",
+    "correctAnswer": "Risposta corretta: 15",
+    "wrongAnswer": [
+      "Risposte sbagliate: 12, 18, 20"
+    ]
+  },
+  {
+    "question": "Quanto fa 2 diviso 2?",
+    "correctAnswer": "Risposta corretta: 1",
+    "wrongAnswer": [
+      "Risposte sbagliate: 0, 3, 4"
+    ]
+  },
+  {
+    "question": "Quanto fa 5 - 2?",
+    "correctAnswer": "Risposta corretta: 3",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1, 4, 6"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 + 5?",
+    "correctAnswer": "Risposta corretta: 13",
+    "wrongAnswer": [
+      "Risposte sbagliate: 10, 15, 20"
+    ]
+  },
+  {
+    "question": "Quanto fa 6 x 8?",
+    "correctAnswer": "Risposta corretta: 48",
+    "wrongAnswer": [
+      "Risposte sbagliate: 36, 42, 54"
+    ]
+  }
+]

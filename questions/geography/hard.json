@@ -1,0 +1,681 @@
+[
+  {
+    "question": "Il confine tra Germania e Francia \u00e8 segnato da quale fiume?",
+    "correctAnswer": "Risposta corretta: Reno",
+    "wrongAnswer": [
+      "Risposte sbagliate: Danubio, Senna, Tamigi"
+    ]
+  },
+  {
+    "question": "In quale paese si trova la regione della Cappadocia?",
+    "correctAnswer": "Risposta corretta: Turchia",
+    "wrongAnswer": [
+      "Risposte sbagliate: Grecia, Italia, Spagna"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 asiatica \u00e8 situata su due continenti?",
+    "correctAnswer": "Risposta corretta: Istanbul",
+    "wrongAnswer": [
+      "Risposte sbagliate: Teheran, Dubai, Bangkok"
+    ]
+  },
+  {
+    "question": "Quale catena montuosa si trova tra la Spagna e la Francia?",
+    "correctAnswer": "Risposta corretta: Pirenei",
+    "wrongAnswer": [
+      "Risposte sbagliate: Alpi, Carpazi, AndeIl fiume Yangtze scorre attraverso quale paese?",
+      "Risposta corretta: Cina"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 la capitale dell'Argentina?",
+    "correctAnswer": "Risposta corretta: Buenos Aires",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rio de Janeiro, Bogot\u00e0, Lima"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 la citt\u00e0 pi\u00f9 settentrionale del mondo con una popolazione superiore a un milione di abitanti?",
+    "correctAnswer": "Risposta corretta: Murmansk",
+    "wrongAnswer": [
+      "Risposte sbagliate: Oslo, Stoccolma, Helsinki"
+    ]
+  },
+  {
+    "question": "Quale isola italiana \u00e8 famosa per la sua forma a stivale?",
+    "correctAnswer": "Risposta corretta: Sicilia",
+    "wrongAnswer": [
+      "Risposte sbagliate: Sardegna, Corsica, Capri"
+    ]
+  },
+  {
+    "question": "In quale stato degli Stati Uniti si trova il Parco Nazionale di Yellowstone?",
+    "correctAnswer": "Risposta corretta: Wyoming",
+    "wrongAnswer": [
+      "Risposte sbagliate: Colorado, Montana, Idaho"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il punto pi\u00f9 basso della Terra?",
+    "correctAnswer": "Risposta corretta: Mar Morto",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lago Baikal, Challenger Deep, Fossa delle Marianne"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 conosciuta come la \"Perla dell'Adriatico\"?",
+    "correctAnswer": "Risposta corretta: Dubrovnik",
+    "wrongAnswer": [
+      "Risposte sbagliate: Atene, Venezia, Barcellona"
+    ]
+  },
+  {
+    "question": "Quale stato degli Stati Uniti \u00e8 chiamato \"Lo Stato del Sole\"?",
+    "correctAnswer": "Risposta corretta: Florida",
+    "wrongAnswer": [
+      "Risposte sbagliate: California, Arizona, Texas"
+    ]
+  },
+  {
+    "question": "In quale paese si trova il deserto del Kalahari?",
+    "correctAnswer": "Risposta corretta: Botswana",
+    "wrongAnswer": [
+      "Risposte sbagliate: Namibia, Sud Africa, Zimbabwe"
+    ]
+  },
+  {
+    "question": "Quale fiume attraversa la citt\u00e0 di Vienna?",
+    "correctAnswer": "Risposta corretta: Danubio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Senna, Tamigi, Tevere"
+    ]
+  },
+  {
+    "question": "Quale stato dell'Australia \u00e8 noto per la Grande Barriera Corallina?",
+    "correctAnswer": "Risposta corretta: Queensland",
+    "wrongAnswer": [
+      "Risposte sbagliate: Nuovo Galles del Sud, Victoria, Australia Occidentale"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 la capitale del Canada?",
+    "correctAnswer": "Risposta corretta: Ottawa",
+    "wrongAnswer": [
+      "Risposte sbagliate: Toronto, Vancouver, Montreal"
+    ]
+  },
+  {
+    "question": "In quale oceano si trova l'Isola di Pasqua?",
+    "correctAnswer": "Risposta corretta: Oceano Pacifico",
+    "wrongAnswer": [
+      "Risposte sbagliate: Oceano Atlantico, Oceano Indiano, Mar Mediterraneo"
+    ]
+  },
+  {
+    "question": "Quale regione dell'India \u00e8 famosa per i suoi canali e backwater?",
+    "correctAnswer": "Risposta corretta: Kerala",
+    "wrongAnswer": [
+      "Risposte sbagliate: Goa, Punjab, Rajastan"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 attraversata dal fiume Huangpu?",
+    "correctAnswer": "Risposta corretta: Shanghai",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pechino, Hong Kong, Tokyo"
+    ]
+  },
+  {
+    "question": "Quale catena montuosa attraversa l'intera lunghezza d'Italia?",
+    "correctAnswer": "Risposta corretta: Appennini",
+    "wrongAnswer": [
+      "Risposte sbagliate: Alpi, Carpazi, Pirenei"
+    ]
+  },
+  {
+    "question": "Quale paese \u00e8 attraversato dal Circolo Polare Artico e dal Circolo Polare Antartico?",
+    "correctAnswer": "Risposta corretta: Norvegia",
+    "wrongAnswer": [
+      "Risposte sbagliate: Canada, Russia, Argentina"
+    ]
+  },
+  {
+    "question": "In quale paese si trova la Baia di Ha Long?",
+    "correctAnswer": "Risposta corretta: Vietnam",
+    "wrongAnswer": [
+      "Risposte sbagliate: Thailandia, Indonesia, Malesia"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 situata alla confluenza dei fiumi Moscova e Oka?",
+    "correctAnswer": "Risposta corretta: Mosca",
+    "wrongAnswer": [
+      "Risposte sbagliate: San Pietroburgo, Kiev, MinskQuale citt\u00e0 \u00e8 attraversata dal fiume Liffey?",
+      "Risposta corretta: Dublino",
+      "Risposte sbagliate: Londra, Edimburgo, Oslo"
+    ]
+  },
+  {
+    "question": "Quale fiume attraversa Budapest?",
+    "correctAnswer": "Risposta corretta: Danubio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Tevere, Senna, Tamigi"
+    ]
+  },
+  {
+    "question": "Quale paese \u00e8 attraversato dal fiume Mekong?",
+    "correctAnswer": "Risposta corretta: Laos",
+    "wrongAnswer": [
+      "Risposte sbagliate: Vietnam, Cambogia, Thailandia"
+    ]
+  },
+  {
+    "question": "In quale paese si trova il Parco Nazionale delle Montagne Rocciose?",
+    "correctAnswer": "Risposta corretta: Canada",
+    "wrongAnswer": [
+      "Risposte sbagliate: Stati Uniti, Alaska, Nuova Zelanda"
+    ]
+  },
+  {
+    "question": "Quale stato degli Stati Uniti confina con il Canada a nord e con il Pacifico a ovest?",
+    "correctAnswer": "Risposta corretta: Washington",
+    "wrongAnswer": [
+      "Risposte sbagliate: Oregon, Idaho, Montana"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 situata sulla Baia di Tokio?",
+    "correctAnswer": "Risposta corretta: Tokyo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Osaka, Kyoto, Hiroshima"
+    ]
+  },
+  {
+    "question": "In quale oceano si trova l'Isola di Baffin?",
+    "correctAnswer": "Risposta corretta: Oceano Artico",
+    "wrongAnswer": [
+      "Risposte sbagliate: Oceano Atlantico, Oceano Pacifico, Oceano Indiano"
+    ]
+  },
+  {
+    "question": "Quale catena montuosa separa la Russia dall'Asia centrale?",
+    "correctAnswer": "Risposta corretta: Monti Urali",
+    "wrongAnswer": [
+      "Risposte sbagliate: Monti Altai, Monti Caucaso, Monti Appalachi"
+    ]
+  },
+  {
+    "question": "Quale paese \u00e8 attraversato dal fiume Colorado?",
+    "correctAnswer": "Risposta corretta: Stati Uniti",
+    "wrongAnswer": [
+      "Risposte sbagliate: Messico, Canada, Guatemala"
+    ]
+  },
+  {
+    "question": "In quale paese si trova il Parco Nazionale di Yellowstone?",
+    "correctAnswer": "Risposta corretta: Wyoming",
+    "wrongAnswer": [
+      "Risposte sbagliate: Montana, Idaho, Colorado"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 conosciuta come la \"Porta d'Oro\"?",
+    "correctAnswer": "Risposta corretta: Istanbul",
+    "wrongAnswer": [
+      "Risposte sbagliate: Barcellona, Dubrovnik, Alessandria"
+    ]
+  },
+  {
+    "question": "Quale catena montuosa attraversa l'intera lunghezza del Nepal?",
+    "correctAnswer": "Risposta corretta: Himalaya",
+    "wrongAnswer": [
+      "Risposte sbagliate: Karakoram, Hindukush, Appalachi"
+    ]
+  },
+  {
+    "question": "In quale paese si trova il deserto di Sonora?",
+    "correctAnswer": "Risposta corretta: Stati Uniti (Arizona, California)",
+    "wrongAnswer": [
+      "Risposte sbagliate: Messico, Australia, Sudafrica"
+    ]
+  },
+  {
+    "question": "Quale lago \u00e8 situato tra il Ruanda e il Burundi?",
+    "correctAnswer": "Risposta corretta: Lago Tanganica",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lago Vittoria, Lago Malawi, Lago TurkanaQuale citt\u00e0 \u00e8 attraversata dal fiume Ottawa?",
+      "Risposta corretta: Ottawa",
+      "Risposte sbagliate: Montreal, Toronto, Vancouver"
+    ]
+  },
+  {
+    "question": "In quale regione si trova la Valle della Loira in Francia?",
+    "correctAnswer": "Risposta corretta: Centro-Valle della Loira",
+    "wrongAnswer": [
+      "Risposte sbagliate: Borgogna, Provenza-Alpi-Costa Azzurra, Grand Est"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 situata sulla costa della Riviera Maya?",
+    "correctAnswer": "Risposta corretta: Playa del Carmen",
+    "wrongAnswer": [
+      "Risposte sbagliate: Cancun, Tulum, Cozumel"
+    ]
+  },
+  {
+    "question": "Quale fiume attraversa la citt\u00e0 di Vienna?",
+    "correctAnswer": "Risposta corretta: Danubio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Senna, Tamigi, Tevere"
+    ]
+  },
+  {
+    "question": "Quale stato degli Stati Uniti ha la forma di un guanto?",
+    "correctAnswer": "Risposta corretta: Michigan",
+    "wrongAnswer": [
+      "Risposte sbagliate: Ohio, Illinois, Indiana"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 situata alla foce del fiume Ljubljanica?",
+    "correctAnswer": "Risposta corretta: Lubiana",
+    "wrongAnswer": [
+      "Risposte sbagliate: Zagabria, Belgrado, Bratislava"
+    ]
+  },
+  {
+    "question": "Quale paese \u00e8 attraversato dal fiume Paran\u00e1?",
+    "correctAnswer": "Risposta corretta: Argentina",
+    "wrongAnswer": [
+      "Risposte sbagliate: Brasile, Paraguay, Uruguay"
+    ]
+  },
+  {
+    "question": "Quale stato degli Stati Uniti \u00e8 noto come il \"Sunshine State\"?",
+    "correctAnswer": "Risposta corretta: Florida",
+    "wrongAnswer": [
+      "Risposte sbagliate: California, Arizona, Texas"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 attraversata dal fiume Guadalquivir?",
+    "correctAnswer": "Risposta corretta: Siviglia",
+    "wrongAnswer": [
+      "Risposte sbagliate: Madrid, Barcellona, Valencia"
+    ]
+  },
+  {
+    "question": "Quale paese \u00e8 attraversato dal fiume Columbia?",
+    "correctAnswer": "Risposta corretta: Stati Uniti",
+    "wrongAnswer": [
+      "Risposte sbagliate: Canada, Messico, Colombia"
+    ]
+  },
+  {
+    "question": "In quale paese si trova il Parco Nazionale di Banff?",
+    "correctAnswer": "Risposta corretta: Canada",
+    "wrongAnswer": [
+      "Risposte sbagliate: Stati Uniti, Australia, Svizzera"
+    ]
+  },
+  {
+    "question": "Quale stato degli Stati Uniti confina con l'Oceano Pacifico, l'Oregon e l'Idaho?",
+    "correctAnswer": "Risposta corretta: California",
+    "wrongAnswer": [
+      "Risposte sbagliate: Washington, Nevada, Arizona"
+    ]
+  },
+  {
+    "question": "Quale catena montuosa attraversa l'intera lunghezza dell'Argentina e del Cile?",
+    "correctAnswer": "Risposta corretta: Ande",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pirenei, Alpi, Appalachi"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 situata sulla Baia di Tokio?",
+    "correctAnswer": "Risposta corretta: Tokyo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Osaka, Kyoto, Hiroshima"
+    ]
+  },
+  {
+    "question": "Quale fiume attraversa il centro di Parigi?",
+    "correctAnswer": "Risposta corretta: Senna",
+    "wrongAnswer": [
+      "Risposte sbagliate: Sava, Reno, Tevere"
+    ]
+  },
+  {
+    "question": "In quale regione si trova la citt\u00e0 di Napoli in Italia?",
+    "correctAnswer": "Risposta corretta: Campania",
+    "wrongAnswer": [
+      "Risposte sbagliate: Calabria, Puglia, Sicilia"
+    ]
+  },
+  {
+    "question": "Quale catena montuosa separa la Francia dalla Spagna?",
+    "correctAnswer": "Risposta corretta: Pirenei",
+    "wrongAnswer": [
+      "Risposte sbagliate: Alpi, Appalachi, Ande"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 attraversata dal fiume Thames?",
+    "correctAnswer": "Risposta corretta: Londra",
+    "wrongAnswer": [
+      "Risposte sbagliate: Parigi, Berlino, Amsterdam"
+    ]
+  },
+  {
+    "question": "Quale paese europeo \u00e8 chiamato \"La Svizzera dei Balcani\"?",
+    "correctAnswer": "Risposta corretta: Montenegro",
+    "wrongAnswer": [
+      "Risposte sbagliate: Slovenia, Albania, Bosnia ed Erzegovina"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 situata sulla Baia di San Francisco?",
+    "correctAnswer": "Risposta corretta: San Francisco",
+    "wrongAnswer": [
+      "Risposte sbagliate: Los Angeles, San Diego, Seattle"
+    ]
+  },
+  {
+    "question": "Quale stato degli Stati Uniti \u00e8 noto come il \"Grande Stato di Montagna\"?",
+    "correctAnswer": "Risposta corretta: Montana",
+    "wrongAnswer": [
+      "Risposte sbagliate: Colorado, Wyoming, Utah"
+    ]
+  },
+  {
+    "question": "In quale oceano si trova l'Isola di Pasqua?",
+    "correctAnswer": "Risposta corretta: Oceano Pacifico",
+    "wrongAnswer": [
+      "Risposte sbagliate: Oceano Atlantico, Oceano Indiano, Mar Mediterraneo"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 situata sulla Baia di Ha Long?",
+    "correctAnswer": "Risposta corretta: Hanoi",
+    "wrongAnswer": [
+      "Risposte sbagliate: Ho Chi Minh City, Phnom Penh, Bangkok"
+    ]
+  },
+  {
+    "question": "Quale paese \u00e8 attraversato dal fiume Colorado?",
+    "correctAnswer": "Risposta corretta: Stati Uniti",
+    "wrongAnswer": [
+      "Risposte sbagliate: Messico, Canada, Guatemala"
+    ]
+  },
+  {
+    "question": "In quale paese si trova la Baia di Ha Long?",
+    "correctAnswer": "Risposta corretta: Vietnam",
+    "wrongAnswer": [
+      "Risposte sbagliate: Thailandia, Indonesia, Malesia"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 situata alla foce del fiume Ljubljanica?",
+    "correctAnswer": "Risposta corretta: Lubiana",
+    "wrongAnswer": [
+      "Risposte sbagliate: Zagabria, Belgrado, Bratislava"
+    ]
+  },
+  {
+    "question": "Quale paese \u00e8 attraversato dal fiume Paran\u00e1?",
+    "correctAnswer": "Risposta corretta: Argentina",
+    "wrongAnswer": [
+      "Risposte sbagliate: Brasile, Paraguay, Uruguay"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 attraversata dal fiume Ottawa?",
+    "correctAnswer": "Risposta corretta: Ottawa",
+    "wrongAnswer": [
+      "Risposte sbagliate: Montreal, Toronto, Vancouver"
+    ]
+  },
+  {
+    "question": "In quale regione si trova la Valle della Loira in Francia?",
+    "correctAnswer": "Risposta corretta: Centro-Valle della Loira",
+    "wrongAnswer": [
+      "Risposte sbagliate: Borgogna, Provenza-Alpi-Costa Azzurra, Grand Est"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 attraversata dal fiume Guadalquivir?",
+    "correctAnswer": "Risposta corretta: Siviglia",
+    "wrongAnswer": [
+      "Risposte sbagliate: Madrid, Barcellona, Valencia"
+    ]
+  },
+  {
+    "question": "Quale paese \u00e8 attraversato dal fiume Columbia?",
+    "correctAnswer": "Risposta corretta: Stati Uniti",
+    "wrongAnswer": [
+      "Risposte sbagliate: Canada, Messico, ColombiaIn quale paese si trova il Parco Nazionale di Banff?",
+      "Risposta corretta: Canada",
+      "Risposte sbagliate: Stati Uniti, Australia, Svizzera"
+    ]
+  },
+  {
+    "question": "Quale stato degli Stati Uniti confina con l'Oceano Pacifico, l'Oregon e l'Idaho?",
+    "correctAnswer": "Risposta corretta: California",
+    "wrongAnswer": [
+      "Risposte sbagliate: Washington, Nevada, Arizona"
+    ]
+  },
+  {
+    "question": "Quale catena montuosa attraversa l'intera lunghezza dell'Argentina e del Cile?",
+    "correctAnswer": "Risposta corretta: Ande",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pirenei, Alpi, Appalachi"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 situata sulla Baia di Tokio?",
+    "correctAnswer": "Risposta corretta: Tokyo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Osaka, Kyoto, Hiroshima"
+    ]
+  },
+  {
+    "question": "Quale fiume attraversa il centro di Parigi?",
+    "correctAnswer": "Risposta corretta: Senna",
+    "wrongAnswer": [
+      "Risposte sbagliate: Sava, Reno, Tevere"
+    ]
+  },
+  {
+    "question": "In quale regione si trova la citt\u00e0 di Napoli in Italia?",
+    "correctAnswer": "Risposta corretta: Campania",
+    "wrongAnswer": [
+      "Risposte sbagliate: Calabria, Puglia, Sicilia"
+    ]
+  },
+  {
+    "question": "Quale catena montuosa separa la Francia dalla Spagna?",
+    "correctAnswer": "Risposta corretta: Pirenei",
+    "wrongAnswer": [
+      "Risposte sbagliate: Alpi, Appalachi, Ande"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 attraversata dal fiume Thames?",
+    "correctAnswer": "Risposta corretta: Londra",
+    "wrongAnswer": [
+      "Risposte sbagliate: Parigi, Berlino, Amsterdam"
+    ]
+  },
+  {
+    "question": "Quale paese europeo \u00e8 chiamato \"La Svizzera dei Balcani\"?",
+    "correctAnswer": "Risposta corretta: Montenegro",
+    "wrongAnswer": [
+      "Risposte sbagliate: Slovenia, Albania, Bosnia ed Erzegovina"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 situata sulla Baia di San Francisco?",
+    "correctAnswer": "Risposta corretta: San Francisco",
+    "wrongAnswer": [
+      "Risposte sbagliate: Los Angeles, San Diego, Seattle"
+    ]
+  },
+  {
+    "question": "Quale stato degli Stati Uniti \u00e8 noto come il \"Grande Stato di Montagna\"?",
+    "correctAnswer": "Risposta corretta: Montana",
+    "wrongAnswer": [
+      "Risposte sbagliate: Colorado, Wyoming, Utah"
+    ]
+  },
+  {
+    "question": "In quale oceano si trova l'Isola di Pasqua?",
+    "correctAnswer": "Risposta corretta: Oceano Pacifico",
+    "wrongAnswer": [
+      "Risposte sbagliate: Oceano Atlantico, Oceano Indiano, Mar Mediterraneo"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 situata sulla Baia di Ha Long?",
+    "correctAnswer": "Risposta corretta: Hanoi",
+    "wrongAnswer": [
+      "Risposte sbagliate: Ho Chi Minh City, Phnom Penh, Bangkok"
+    ]
+  },
+  {
+    "question": "Quale paese \u00e8 attraversato dal fiume Colorado?",
+    "correctAnswer": "Risposta corretta: Stati Uniti",
+    "wrongAnswer": [
+      "Risposte sbagliate: Messico, Canada, Guatemala"
+    ]
+  },
+  {
+    "question": "In quale paese si trova la Baia di Ha Long?",
+    "correctAnswer": "Risposta corretta: Vietnam",
+    "wrongAnswer": [
+      "Risposte sbagliate: Thailandia, Indonesia, Malesia"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 situata alla foce del fiume Ljubljanica?",
+    "correctAnswer": "Risposta corretta: Lubiana",
+    "wrongAnswer": [
+      "Risposte sbagliate: Zagabria, Belgrado, Bratislava"
+    ]
+  },
+  {
+    "question": "Quale paese \u00e8 attraversato dal fiume Paran\u00e1?",
+    "correctAnswer": "Risposta corretta: Argentina",
+    "wrongAnswer": [
+      "Risposte sbagliate: Brasile, Paraguay, Uruguay"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 attraversata dal fiume Ottawa?",
+    "correctAnswer": "Risposta corretta: Ottawa",
+    "wrongAnswer": [
+      "Risposte sbagliate: Montreal, Toronto, Vancouver"
+    ]
+  },
+  {
+    "question": "In quale regione si trova la Valle della Loira in Francia?",
+    "correctAnswer": "Risposta corretta: Centro-Valle della Loira",
+    "wrongAnswer": [
+      "Risposte sbagliate: Borgogna, Provenza-Alpi-Costa Azzurra, Grand Est"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 situata sulla Baia di San Francisco?",
+    "correctAnswer": "Risposta corretta: San Francisco",
+    "wrongAnswer": [
+      "Risposte sbagliate: Los Angeles, San Diego, Seattle"
+    ]
+  },
+  {
+    "question": "Quale stato degli Stati Uniti \u00e8 noto come il \"Grande Stato di Montagna\"?",
+    "correctAnswer": "Risposta corretta: Montana",
+    "wrongAnswer": [
+      "Risposte sbagliate: Colorado, Wyoming, Utah"
+    ]
+  },
+  {
+    "question": "In quale oceano si trova l'Isola di Pasqua?",
+    "correctAnswer": "Risposta corretta: Oceano Pacifico",
+    "wrongAnswer": [
+      "Risposte sbagliate: Oceano Atlantico, Oceano Indiano, Mar Mediterraneo"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 situata sulla Baia di Ha Long?",
+    "correctAnswer": "Risposta corretta: Hanoi",
+    "wrongAnswer": [
+      "Risposte sbagliate: Ho Chi Minh City, Phnom Penh, Bangkok"
+    ]
+  },
+  {
+    "question": "Quale paese \u00e8 attraversato dal fiume Colorado?",
+    "correctAnswer": "Risposta corretta: Stati Uniti",
+    "wrongAnswer": [
+      "Risposte sbagliate: Messico, Canada, Guatemala"
+    ]
+  },
+  {
+    "question": "In quale paese si trova la Baia di Ha Long?",
+    "correctAnswer": "Risposta corretta: Vietnam",
+    "wrongAnswer": [
+      "Risposte sbagliate: Thailandia, Indonesia, Malesia"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 situata alla foce del fiume Ljubljanica?",
+    "correctAnswer": "Risposta corretta: Lubiana",
+    "wrongAnswer": [
+      "Risposte sbagliate: Zagabria, Belgrado, Bratislava"
+    ]
+  },
+  {
+    "question": "Quale paese \u00e8 attraversato dal fiume Paran\u00e1?",
+    "correctAnswer": "Risposta corretta: Argentina",
+    "wrongAnswer": [
+      "Risposte sbagliate: Brasile, Paraguay, Uruguay"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 attraversata dal fiume Ottawa?",
+    "correctAnswer": "Risposta corretta: Ottawa",
+    "wrongAnswer": [
+      "Risposte sbagliate: Montreal, Toronto, Vancouver"
+    ]
+  },
+  {
+    "question": "In quale regione si trova la Valle della Loira in Francia?",
+    "correctAnswer": "Risposta corretta: Centro-Valle della Loira",
+    "wrongAnswer": [
+      "Risposte sbagliate: Borgogna, Provenza-Alpi-Costa Azzurra, Grand Est"
+    ]
+  },
+  {
+    "question": "Quale citt\u00e0 \u00e8 situata sulla Baia di San Francisco?",
+    "correctAnswer": "Risposta corretta: San Francisco",
+    "wrongAnswer": [
+      "Risposte sbagliate: Los Angeles, San Diego, Seattle"
+    ]
+  },
+  {
+    "question": "Quale stato degli Stati Uniti \u00e8 noto come il \"Grande Stato di Montagna\"?",
+    "correctAnswer": "Risposta corretta: Montana",
+    "wrongAnswer": [
+      "Risposte sbagliate: Colorado, Wyoming, Utah"
+    ]
+  },
+  {
+    "question": "In quale oceano si trova l'Isola di Pasqua?",
+    "correctAnswer": "Risposta corretta: Oceano Pacifico",
+    "wrongAnswer": [
+      "Risposte sbagliate: Oceano Atlantico, Oceano Indiano, Mar Mediterraneo"
+    ]
+  }
+]

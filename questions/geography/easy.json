@@ -1,0 +1,702 @@
+[
+  {
+    "question": "Capitale dell'Italia?",
+    "correctAnswer": "Risposta corretta: Roma",
+    "wrongAnswer": [
+      "Risposte sbagliate: Milano, Parigi, Berlino"
+    ]
+  },
+  {
+    "question": "Continente del Brasile?",
+    "correctAnswer": "Risposta corretta: Sud America",
+    "wrongAnswer": [
+      "Risposte sbagliate: Europa, Africa, Asia"
+    ]
+  },
+  {
+    "question": "Fiume pi\u00f9 lungo del mondo?",
+    "correctAnswer": "Risposta corretta: Nilo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Amazon, Danubio, Mississippi"
+    ]
+  },
+  {
+    "question": "Dove si trova la Grande Muraglia?",
+    "correctAnswer": "Risposta corretta: Cina",
+    "wrongAnswer": [
+      "Risposte sbagliate: India, Giappone, Messico"
+    ]
+  },
+  {
+    "question": "Deserto pi\u00f9 grande del mondo?",
+    "correctAnswer": "Risposta corretta: Sahara",
+    "wrongAnswer": [
+      "Risposte sbagliate: Atacama, Gobi, Kalahari"
+    ]
+  },
+  {
+    "question": "Oceano vicino all'Australia?",
+    "correctAnswer": "Risposta corretta: Oceano Pacifico",
+    "wrongAnswer": [
+      "Risposte sbagliate: Oceano Atlantico, Oceano Indiano, Mar Mediterraneo"
+    ]
+  },
+  {
+    "question": "Paese pi\u00f9 grande del mondo in superficie?",
+    "correctAnswer": "Risposta corretta: Russia",
+    "wrongAnswer": [
+      "Risposte sbagliate: Canada, Cina, Stati Uniti"
+    ]
+  },
+  {
+    "question": "Capitale degli Stati Uniti?",
+    "correctAnswer": "Risposta corretta: Washington, D.C.",
+    "wrongAnswer": [
+      "Risposte sbagliate: New York, Los Angeles, Chicago"
+    ]
+  },
+  {
+    "question": "Dove si trova il Monte Everest?",
+    "correctAnswer": "Risposta corretta: Himalaya",
+    "wrongAnswer": [
+      "Risposte sbagliate: Alpi, Ande, Rocciose"
+    ]
+  },
+  {
+    "question": "Quanti continenti ci sono nel mondo?",
+    "correctAnswer": "Risposta corretta: 7",
+    "wrongAnswer": [
+      "Risposte sbagliate: 5, 8, 10"
+    ]
+  },
+  {
+    "question": "Paese pi\u00f9 piccolo del mondo?",
+    "correctAnswer": "Risposta corretta: Citt\u00e0 del Vaticano",
+    "wrongAnswer": [
+      "Risposte sbagliate: Monaco, San Marino, Liechtenstein"
+    ]
+  },
+  {
+    "question": "Paese della Torre Eiffel?",
+    "correctAnswer": "Risposta corretta: Francia",
+    "wrongAnswer": [
+      "Risposte sbagliate: Italia, Germania, Spagna"
+    ]
+  },
+  {
+    "question": "Mare pi\u00f9 grande del mondo?",
+    "correctAnswer": "Risposta corretta: Mare Pacifico",
+    "wrongAnswer": [
+      "Risposte sbagliate: Mare Atlantico, Mare Indiano, Mare Mediterraneo"
+    ]
+  },
+  {
+    "question": "Confine naturale tra Europa e Asia?",
+    "correctAnswer": "Risposta corretta: Urali",
+    "wrongAnswer": [
+      "Risposte sbagliate: Danubio, Reno, Senna"
+    ]
+  },
+  {
+    "question": "Oceano vicino all'Islanda?",
+    "correctAnswer": "Risposta corretta: Oceano Atlantico",
+    "wrongAnswer": [
+      "Risposte sbagliate: Oceano Pacifico, Oceano Indiano, Mar Mediterraneo"
+    ]
+  },
+  {
+    "question": "Capitale del Giappone?",
+    "correctAnswer": "Risposta corretta: Tokyo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pechino, Seul, Bangkok"
+    ]
+  },
+  {
+    "question": "Dove si trova il deserto di Mojave?",
+    "correctAnswer": "Risposta corretta: Stati Uniti (California, Nevada, Arizona)",
+    "wrongAnswer": [
+      "Risposte sbagliate: Messico, Australia, Arabia Saudita"
+    ]
+  },
+  {
+    "question": "Fiume pi\u00f9 lungo d'Europa?",
+    "correctAnswer": "Risposta corretta: Volga",
+    "wrongAnswer": [
+      "Risposte sbagliate: Danubio, Tamigi, Senna"
+    ]
+  },
+  {
+    "question": "Punto pi\u00f9 alto dell'Africa?",
+    "correctAnswer": "Risposta corretta: Monte Kilimanjaro",
+    "wrongAnswer": [
+      "Risposte sbagliate: Monte Elbrus, Monte Kenya, Monte Bianco"
+    ]
+  },
+  {
+    "question": "Paese del Canal Grande?",
+    "correctAnswer": "Risposta corretta: Italia (Venezia)",
+    "wrongAnswer": [
+      "Risposte sbagliate: Francia, Spagna, Olanda"
+    ]
+  },
+  {
+    "question": "Capitale dell'Argentina?",
+    "correctAnswer": "Risposta corretta: Buenos Aires",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rio de Janeiro, Citt\u00e0 del Messico, Lima"
+    ]
+  },
+  {
+    "question": "Paese delle piramidi di Giza?",
+    "correctAnswer": "Risposta corretta: Egitto",
+    "wrongAnswer": [
+      "Risposte sbagliate: Sudan, Messico, Italia"
+    ]
+  },
+  {
+    "question": "Lago pi\u00f9 profondo del mondo?",
+    "correctAnswer": "Risposta corretta: Baikal",
+    "wrongAnswer": [
+      "Risposte sbagliate: Superiore, Vittoria, Titicaca"
+    ]
+  },
+  {
+    "question": "Capitale della Cina?",
+    "correctAnswer": "Risposta corretta: Pechino",
+    "wrongAnswer": [
+      "Risposte sbagliate: Shanghai, Hong Kong, Taipei"
+    ]
+  },
+  {
+    "question": "Isola pi\u00f9 grande del mondo?",
+    "correctAnswer": "Risposta corretta: Groenlandia",
+    "wrongAnswer": [
+      "Risposte sbagliate: Australia, Borneo, Giappone"
+    ]
+  },
+  {
+    "question": "Paese attraversato dall'Equatore?",
+    "correctAnswer": "Risposta corretta: Ecuador",
+    "wrongAnswer": [
+      "Risposte sbagliate: Brasile, Colombia, Venezuela"
+    ]
+  },
+  {
+    "question": "Capitale del Regno Unito?",
+    "correctAnswer": "Risposta corretta: Londra",
+    "wrongAnswer": [
+      "Risposte sbagliate: Parigi, Berlino, Amsterdam"
+    ]
+  },
+  {
+    "question": "Montagna pi\u00f9 alta d'Europa?",
+    "correctAnswer": "Risposta corretta: Elbrus",
+    "wrongAnswer": [
+      "Risposte sbagliate: Monte Bianco, Cervino, Dolomiti"
+    ]
+  },
+  {
+    "question": "Fiume che attraversa Parigi?",
+    "correctAnswer": "Risposta corretta: Senna",
+    "wrongAnswer": [
+      "Risposte sbagliate: Tamigi, Danubio, Reno"
+    ]
+  },
+  {
+    "question": "Stretto tra Spagna e Marocco?",
+    "correctAnswer": "Risposta corretta: Gibilterra",
+    "wrongAnswer": [
+      "Risposte sbagliate: Bosforo, Dardanelli, Malacca"
+    ]
+  },
+  {
+    "question": "Paese delle Alpi Svizzere?",
+    "correctAnswer": "Risposta corretta: Svizzera",
+    "wrongAnswer": [
+      "Risposte sbagliate: Austria, Italia, Francia"
+    ]
+  },
+  {
+    "question": "Capitale dell'Australia?",
+    "correctAnswer": "Risposta corretta: Canberra",
+    "wrongAnswer": [
+      "Risposte sbagliate: Sydney, Melbourne, Brisbane"
+    ]
+  },
+  {
+    "question": "Paese delle isole Fiji?",
+    "correctAnswer": "Risposta corretta: Figi",
+    "wrongAnswer": [
+      "Risposte sbagliate: Tahiti, Samoa, Bali"
+    ]
+  },
+  {
+    "question": "Catena montuosa tra Francia e Spagna?",
+    "correctAnswer": "Risposta corretta: Pirenei",
+    "wrongAnswer": [
+      "Risposte sbagliate: Alpi, Appalachi, Monti Urali"
+    ]
+  },
+  {
+    "question": "Lago pi\u00f9 grande d'Africa?",
+    "correctAnswer": "Risposta corretta: Vittoria",
+    "wrongAnswer": [
+      "Risposte sbagliate: Nasser, Tanganica, Malawi"
+    ]
+  },
+  {
+    "question": "Paese delle piramidi di Teotihuacan?",
+    "correctAnswer": "Risposta corretta: Messico",
+    "wrongAnswer": [
+      "Risposte sbagliate: Egitto, Per\u00f9, Sudan"
+    ]
+  },
+  {
+    "question": "Capitale della Thailandia?",
+    "correctAnswer": "Risposta corretta: Bangkok",
+    "wrongAnswer": [
+      "Risposte sbagliate: Phuket, Chiang Mai, Krabi"
+    ]
+  },
+  {
+    "question": "Penisola italiana attraversata dall'Arno?",
+    "correctAnswer": "Risposta corretta: Toscana",
+    "wrongAnswer": [
+      "Risposte sbagliate: Calabria, Puglia, Liguria"
+    ]
+  },
+  {
+    "question": "Paese del Taj Mahal?",
+    "correctAnswer": "Risposta corretta: India",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pakistan, Bangladesh, Nepal"
+    ]
+  },
+  {
+    "question": "Capitale della Russia?",
+    "correctAnswer": "Risposta corretta: Mosca",
+    "wrongAnswer": [
+      "Risposte sbagliate: San Pietroburgo, Kiev, Minsk"
+    ]
+  },
+  {
+    "question": "Deserto tra Cina e Mongolia?",
+    "correctAnswer": "Risposta corretta: Gobi",
+    "wrongAnswer": [
+      "Risposte sbagliate: Sahara, Atacama, Kalahari"
+    ]
+  },
+  {
+    "question": "Paese delle Isole Galapagos?",
+    "correctAnswer": "Risposta corretta: Ecuador",
+    "wrongAnswer": [
+      "Risposte sbagliate: Colombia, Messico, Peru"
+    ]
+  },
+  {
+    "question": "Isola vulcanica al largo dell'Italia?",
+    "correctAnswer": "Risposta corretta: Sicilia",
+    "wrongAnswer": [
+      "Risposte sbagliate: Sardegna, Corsica, Ischia"
+    ]
+  },
+  {
+    "question": "Paese attraversato dal fiume Danubio?",
+    "correctAnswer": "Risposta corretta: Romania",
+    "wrongAnswer": [
+      "Risposte sbagliate: Germania, Austria, Serbia"
+    ]
+  },
+  {
+    "question": "Capitale del Brasile?",
+    "correctAnswer": "Risposta corretta: Brasilia",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rio de Janeiro, San Paolo, Salvador"
+    ]
+  },
+  {
+    "question": "Paese delle piramidi di Chichen Itza?",
+    "correctAnswer": "Risposta corretta: Messico",
+    "wrongAnswer": [
+      "Risposte sbagliate: Guatemala, Belize, Honduras"
+    ]
+  },
+  {
+    "question": "Fiume che attraversa New York?",
+    "correctAnswer": "Risposta corretta: Hudson",
+    "wrongAnswer": [
+      "Risposte sbagliate: Mississippi, Potomac, Colorado"
+    ]
+  },
+  {
+    "question": "Isola al largo della punta sud-occidentale dell'Africa?",
+    "correctAnswer": "Risposta corretta: Madagascar",
+    "wrongAnswer": [
+      "Risposte sbagliate: Mauritius, Seychelles, R\u00e9union"
+    ]
+  },
+  {
+    "question": "Stato pi\u00f9 grande degli Stati Uniti?",
+    "correctAnswer": "Risposta corretta: Alaska",
+    "wrongAnswer": [
+      "Risposte sbagliate: Texas, California, Florida"
+    ]
+  },
+  {
+    "question": "Capoluogo della Baviera in Germania?",
+    "correctAnswer": "Risposta corretta: Monaco",
+    "wrongAnswer": [
+      "Risposte sbagliate: Berlino, Amburgo, Francoforte"
+    ]
+  },
+  {
+    "question": "Isola pi\u00f9 popolata del mondo?",
+    "correctAnswer": "Risposta corretta: Giava",
+    "wrongAnswer": [
+      "Risposte sbagliate: Honshu, Sumatra, Borneo"
+    ]
+  },
+  {
+    "question": "Fiume che attraversa Roma?",
+    "correctAnswer": "Risposta corretta: Tevere",
+    "wrongAnswer": [
+      "Risposte sbagliate: Po, Arno, Senna"
+    ]
+  },
+  {
+    "question": "Catena montuosa tra Italia e Svizzera?",
+    "correctAnswer": "Risposta corretta: Alpi",
+    "wrongAnswer": [
+      "Risposte sbagliate: Appalachi, Ande, Pirenei"
+    ]
+  },
+  {
+    "question": "Paese attraversato dal Circolo Polare Artico?",
+    "correctAnswer": "Risposta corretta: Norvegia",
+    "wrongAnswer": [
+      "Risposte sbagliate: Svezia, Finlandia, Russia"
+    ]
+  },
+  {
+    "question": "Capitale dell'Egitto?",
+    "correctAnswer": "Risposta corretta: Il Cairo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Alessandria, Luxor, Sharm el-Sheikh"
+    ]
+  },
+  {
+    "question": "Isola caraibica divisa tra Haiti e Repubblica Dominicana?",
+    "correctAnswer": "Risposta corretta: Hispaniola",
+    "wrongAnswer": [
+      "Risposte sbagliate: Cuba, Porto Rico, Giamaica"
+    ]
+  },
+  {
+    "question": "Stato pi\u00f9 piccolo degli Stati Uniti?",
+    "correctAnswer": "Risposta corretta: Rhode Island",
+    "wrongAnswer": [
+      "Risposte sbagliate: Delaware, Connecticut, New Hampshire"
+    ]
+  },
+  {
+    "question": "Montagna pi\u00f9 alta del Nord America?",
+    "correctAnswer": "Risposta corretta: Denali (Monte McKinley)",
+    "wrongAnswer": [
+      "Risposte sbagliate: Monte Logan, Monte Hood, Monte Whitney"
+    ]
+  },
+  {
+    "question": "Paese delle Piramidi di Tikal?",
+    "correctAnswer": "Risposta corretta: Guatemala",
+    "wrongAnswer": [
+      "Risposte sbagliate: Messico, Belize, Honduras"
+    ]
+  },
+  {
+    "question": "Citt\u00e0 pi\u00f9 popolosa del mondo?",
+    "correctAnswer": "Risposta corretta: Tokyo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Shanghai, Mumbai, Pechino"
+    ]
+  },
+  {
+    "question": "Paese attraversato dal fiume Mekong?",
+    "correctAnswer": "Risposta corretta: Laos",
+    "wrongAnswer": [
+      "Risposte sbagliate: Vietnam, Cambogia, Thailandia"
+    ]
+  },
+  {
+    "question": "Capitale della Corea del Sud?",
+    "correctAnswer": "Risposta corretta: Seul",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pyongyang, Busan, Incheon"
+    ]
+  },
+  {
+    "question": "Stato dell'Australia famoso per l'Opera House?",
+    "correctAnswer": "Risposta corretta: Nuovo Galles del Sud",
+    "wrongAnswer": [
+      "Risposte sbagliate: Victoria, Queensland, Australia Meridionale"
+    ]
+  },
+  {
+    "question": "Paese attraversato dal fiume Niger?",
+    "correctAnswer": "Risposta corretta: Nigeria",
+    "wrongAnswer": [
+      "Risposte sbagliate: Mali, Guinea, Ciad"
+    ]
+  },
+  {
+    "question": "Capoluogo della Toscana in Italia?",
+    "correctAnswer": "Risposta corretta: Firenze",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pisa, Siena, Livorno"
+    ]
+  },
+  {
+    "question": "Catena montuosa tra Francia e Italia?",
+    "correctAnswer": "Risposta corretta: Alpi Marittime",
+    "wrongAnswer": [
+      "Risposte sbagliate: Appalachi, Ande, Pirenei"
+    ]
+  },
+  {
+    "question": "Paese attraversato dal fiume Lena?",
+    "correctAnswer": "Risposta corretta: Russia",
+    "wrongAnswer": [
+      "Risposte sbagliate: Mongolia, Cina, Kazakistan"
+    ]
+  },
+  {
+    "question": "Stato messicano noto per le spiagge di Cancun?",
+    "correctAnswer": "Risposta corretta: Quintana Roo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Yucatan, Baja California, Veracruz"
+    ]
+  },
+  {
+    "question": "Paese del Machu Picchu?",
+    "correctAnswer": "Risposta corretta: Per\u00f9",
+    "wrongAnswer": [
+      "Risposte sbagliate: Bolivia, Ecuador, Colombia"
+    ]
+  },
+  {
+    "question": "Citt\u00e0 brasiliana famosa per il carnevale?",
+    "correctAnswer": "Risposta corretta: Rio de Janeiro",
+    "wrongAnswer": [
+      "Risposte sbagliate: San Paolo, Salvador, Brasilia"
+    ]
+  },
+  {
+    "question": "Stato pi\u00f9 grande dell'India?",
+    "correctAnswer": "Risposta corretta: Rajastan",
+    "wrongAnswer": [
+      "Risposte sbagliate: Uttar Pradesh, Madhya Pradesh, Maharashtra"
+    ]
+  },
+  {
+    "question": "Paese attraversato dal fiume Amur?",
+    "correctAnswer": "Risposta corretta: Russia",
+    "wrongAnswer": [
+      "Risposte sbagliate: Cina, Mongolia, Corea del Nord"
+    ]
+  },
+  {
+    "question": "Isola greca famosa per le rovine antiche?",
+    "correctAnswer": "Risposta corretta: Creta",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rodi, Corf\u00f9, Santorini"
+    ]
+  },
+  {
+    "question": "Capitale della Colombia?",
+    "correctAnswer": "Risposta corretta: Bogot\u00e0",
+    "wrongAnswer": [
+      "Risposte sbagliate: Medell\u00edn, Cali, Cartagena"
+    ]
+  },
+  {
+    "question": "Stato del Brasile noto per l'Amazzonia?",
+    "correctAnswer": "Risposta corretta: Amazonas",
+    "wrongAnswer": [
+      "Risposte sbagliate: Bahia, Rio de Janeiro, Sao Paulo"
+    ]
+  },
+  {
+    "question": "Isola caraibica divisa tra Haiti e Cuba?",
+    "correctAnswer": "Risposta corretta: Hispaniola",
+    "wrongAnswer": [
+      "Risposte sbagliate: Giamaica, Porto Rico, Cuba"
+    ]
+  },
+  {
+    "question": "Paese attraversato dal fiume Tago?",
+    "correctAnswer": "Risposta corretta: Portogallo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Spagna, Francia, Italia"
+    ]
+  },
+  {
+    "question": "Monti tra Norvegia e Svezia?",
+    "correctAnswer": "Risposta corretta: Monti Scandinavi",
+    "wrongAnswer": [
+      "Risposte sbagliate: Alpi, Carpazi, Pirenei"
+    ]
+  },
+  {
+    "question": "Capoluogo della Baviera in Germania?",
+    "correctAnswer": "Risposta corretta: Monaco",
+    "wrongAnswer": [
+      "Risposte sbagliate: Berlino, Amburgo, Francoforte"
+    ]
+  },
+  {
+    "question": "Paese attraversato dal fiume Volga?",
+    "correctAnswer": "Risposta corretta: Russia",
+    "wrongAnswer": [
+      "Risposte sbagliate: Kazakistan, Ucraina, Bielorussia"
+    ]
+  },
+  {
+    "question": "Catena montuosa tra Italia e Svizzera?",
+    "correctAnswer": "Risposta corretta: Alpi",
+    "wrongAnswer": [
+      "Risposte sbagliate: Appalachi, Ande, Pirenei"
+    ]
+  },
+  {
+    "question": "Isola caraibica divisa tra Haiti e Repubblica Dominicana?",
+    "correctAnswer": "Risposta corretta: Hispaniola",
+    "wrongAnswer": [
+      "Risposte sbagliate: Cuba, Porto Rico, Giamaica"
+    ]
+  },
+  {
+    "question": "Stato pi\u00f9 piccolo degli Stati Uniti?",
+    "correctAnswer": "Risposta corretta: Rhode Island",
+    "wrongAnswer": [
+      "Risposte sbagliate: Delaware, Connecticut, New Hampshire"
+    ]
+  },
+  {
+    "question": "Montagna pi\u00f9 alta del Nord America?",
+    "correctAnswer": "Risposta corretta: Denali (Monte McKinley)",
+    "wrongAnswer": [
+      "Risposte sbagliate: Monte Logan, Monte Hood, Monte Whitney"
+    ]
+  },
+  {
+    "question": "Paese delle Piramidi di Tikal?",
+    "correctAnswer": "Risposta corretta: Guatemala",
+    "wrongAnswer": [
+      "Risposte sbagliate: Messico, Belize, Honduras"
+    ]
+  },
+  {
+    "question": "Citt\u00e0 pi\u00f9 popolosa del mondo?",
+    "correctAnswer": "Risposta corretta: Tokyo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Shanghai, Mumbai, Pechino"
+    ]
+  },
+  {
+    "question": "Paese attraversato dal fiume Mekong?",
+    "correctAnswer": "Risposta corretta: Laos",
+    "wrongAnswer": [
+      "Risposte sbagliate: Vietnam, Cambogia, Thailandia"
+    ]
+  },
+  {
+    "question": "Capitale della Corea del Sud?",
+    "correctAnswer": "Risposta corretta: Seul",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pyongyang, Busan, Incheon"
+    ]
+  },
+  {
+    "question": "Stato dell'Australia famoso per l'Opera House?",
+    "correctAnswer": "Risposta corretta: Nuovo Galles del Sud",
+    "wrongAnswer": [
+      "Risposte sbagliate: Victoria, Queensland, Australia Meridionale"
+    ]
+  },
+  {
+    "question": "Paese attraversato dal fiume Niger?",
+    "correctAnswer": "Risposta corretta: Nigeria",
+    "wrongAnswer": [
+      "Risposte sbagliate: Mali, Guinea, Ciad"
+    ]
+  },
+  {
+    "question": "Capoluogo della Toscana in Italia?",
+    "correctAnswer": "Risposta corretta: Firenze",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pisa, Siena, Livorno"
+    ]
+  },
+  {
+    "question": "Catena montuosa tra Francia e Italia?",
+    "correctAnswer": "Risposta corretta: Alpi Marittime",
+    "wrongAnswer": [
+      "Risposte sbagliate: Appalachi, Ande, Pirenei"
+    ]
+  },
+  {
+    "question": "Paese attraversato dal Circolo Polare Artico?",
+    "correctAnswer": "Risposta corretta: Norvegia",
+    "wrongAnswer": [
+      "Risposte sbagliate: Svezia, Finlandia, Russia"
+    ]
+  },
+  {
+    "question": "Capitale dell'Egitto?",
+    "correctAnswer": "Risposta corretta: Il Cairo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Alessandria, Luxor, Sharm el-Sheikh"
+    ]
+  },
+  {
+    "question": "Isola caraibica divisa tra Haiti e Cuba?",
+    "correctAnswer": "Risposta corretta: Hispaniola",
+    "wrongAnswer": [
+      "Risposte sbagliate: Giamaica, Porto Rico, Cuba"
+    ]
+  },
+  {
+    "question": "Paese attraversato dal fiume Tago?",
+    "correctAnswer": "Risposta corretta: Portogallo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Spagna, Francia, Italia"
+    ]
+  },
+  {
+    "question": "Monti tra Norvegia e Svezia?",
+    "correctAnswer": "Risposta corretta: Monti Scandinavi",
+    "wrongAnswer": [
+      "Risposte sbagliate: Alpi, Carpazi, Pirenei"
+    ]
+  },
+  {
+    "question": "Capoluogo della Baviera in Germania?",
+    "correctAnswer": "Risposta corretta: Monaco",
+    "wrongAnswer": [
+      "Risposte sbagliate: Berlino, Amburgo, Francoforte"
+    ]
+  },
+  {
+    "question": "Paese attraversato dal fiume Volga?",
+    "correctAnswer": "Risposta corretta: Russia",
+    "wrongAnswer": [
+      "Risposte sbagliate: Kazakistan, Ucraina, Bielorussia"
+    ]
+  },
+  {
+    "question": "Catena montuosa tra Italia e Svizzera?",
+    "correctAnswer": "Risposta corretta: Alpi",
+    "wrongAnswer": [
+      "Risposte sbagliate: Appalachi, Ande, Pirenei"
+    ]
+  }
+]

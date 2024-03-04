@@ -1,0 +1,399 @@
+Capitale dell'Italia?
+Risposta corretta: Roma
+Risposte sbagliate: Milano, Parigi, Berlino
+
+Continente del Brasile?
+Risposta corretta: Sud America
+Risposte sbagliate: Europa, Africa, Asia
+
+Fiume più lungo del mondo?
+Risposta corretta: Nilo
+Risposte sbagliate: Amazon, Danubio, Mississippi
+
+Dove si trova la Grande Muraglia?
+Risposta corretta: Cina
+Risposte sbagliate: India, Giappone, Messico
+
+Deserto più grande del mondo?
+Risposta corretta: Sahara
+Risposte sbagliate: Atacama, Gobi, Kalahari
+
+Oceano vicino all'Australia?
+Risposta corretta: Oceano Pacifico
+Risposte sbagliate: Oceano Atlantico, Oceano Indiano, Mar Mediterraneo
+
+Paese più grande del mondo in superficie?
+Risposta corretta: Russia
+Risposte sbagliate: Canada, Cina, Stati Uniti
+
+Capitale degli Stati Uniti?
+Risposta corretta: Washington, D.C.
+Risposte sbagliate: New York, Los Angeles, Chicago
+
+Dove si trova il Monte Everest?
+Risposta corretta: Himalaya
+Risposte sbagliate: Alpi, Ande, Rocciose
+
+Quanti continenti ci sono nel mondo?
+Risposta corretta: 7
+Risposte sbagliate: 5, 8, 10
+
+Paese più piccolo del mondo?
+Risposta corretta: Città del Vaticano
+Risposte sbagliate: Monaco, San Marino, Liechtenstein
+
+Paese della Torre Eiffel?
+Risposta corretta: Francia
+Risposte sbagliate: Italia, Germania, Spagna
+
+Mare più grande del mondo?
+Risposta corretta: Mare Pacifico
+Risposte sbagliate: Mare Atlantico, Mare Indiano, Mare Mediterraneo
+
+Confine naturale tra Europa e Asia?
+Risposta corretta: Urali
+Risposte sbagliate: Danubio, Reno, Senna
+
+Oceano vicino all'Islanda?
+Risposta corretta: Oceano Atlantico
+Risposte sbagliate: Oceano Pacifico, Oceano Indiano, Mar Mediterraneo
+
+Capitale del Giappone?
+Risposta corretta: Tokyo
+Risposte sbagliate: Pechino, Seul, Bangkok
+
+Dove si trova il deserto di Mojave?
+Risposta corretta: Stati Uniti (California, Nevada, Arizona)
+Risposte sbagliate: Messico, Australia, Arabia Saudita
+
+Fiume più lungo d'Europa?
+Risposta corretta: Volga
+Risposte sbagliate: Danubio, Tamigi, Senna
+
+Punto più alto dell'Africa?
+Risposta corretta: Monte Kilimanjaro
+Risposte sbagliate: Monte Elbrus, Monte Kenya, Monte Bianco
+
+Paese del Canal Grande?
+Risposta corretta: Italia (Venezia)
+Risposte sbagliate: Francia, Spagna, Olanda
+
+Capitale dell'Argentina?
+Risposta corretta: Buenos Aires
+Risposte sbagliate: Rio de Janeiro, Città del Messico, Lima
+
+Paese delle piramidi di Giza?
+Risposta corretta: Egitto
+Risposte sbagliate: Sudan, Messico, Italia
+
+Lago più profondo del mondo?
+Risposta corretta: Baikal
+Risposte sbagliate: Superiore, Vittoria, Titicaca
+
+Capitale della Cina?
+Risposta corretta: Pechino
+Risposte sbagliate: Shanghai, Hong Kong, Taipei
+
+Isola più grande del mondo?
+Risposta corretta: Groenlandia
+Risposte sbagliate: Australia, Borneo, Giappone
+
+Paese attraversato dall'Equatore?
+Risposta corretta: Ecuador
+Risposte sbagliate: Brasile, Colombia, Venezuela
+
+Capitale del Regno Unito?
+Risposta corretta: Londra
+Risposte sbagliate: Parigi, Berlino, Amsterdam
+
+Montagna più alta d'Europa?
+Risposta corretta: Elbrus
+Risposte sbagliate: Monte Bianco, Cervino, Dolomiti
+
+Fiume che attraversa Parigi?
+Risposta corretta: Senna
+Risposte sbagliate: Tamigi, Danubio, Reno
+
+Stretto tra Spagna e Marocco?
+Risposta corretta: Gibilterra
+Risposte sbagliate: Bosforo, Dardanelli, Malacca
+
+Paese delle Alpi Svizzere?
+Risposta corretta: Svizzera
+Risposte sbagliate: Austria, Italia, Francia
+
+Capitale dell'Australia?
+Risposta corretta: Canberra
+Risposte sbagliate: Sydney, Melbourne, Brisbane
+
+Paese delle isole Fiji?
+Risposta corretta: Figi
+Risposte sbagliate: Tahiti, Samoa, Bali
+
+Catena montuosa tra Francia e Spagna?
+Risposta corretta: Pirenei
+Risposte sbagliate: Alpi, Appalachi, Monti Urali
+
+Lago più grande d'Africa?
+Risposta corretta: Vittoria
+Risposte sbagliate: Nasser, Tanganica, Malawi
+
+Paese delle piramidi di Teotihuacan?
+Risposta corretta: Messico
+Risposte sbagliate: Egitto, Perù, Sudan
+
+Capitale della Thailandia?
+Risposta corretta: Bangkok
+Risposte sbagliate: Phuket, Chiang Mai, Krabi
+
+Penisola italiana attraversata dall'Arno?
+Risposta corretta: Toscana
+Risposte sbagliate: Calabria, Puglia, Liguria
+
+Paese del Taj Mahal?
+Risposta corretta: India
+Risposte sbagliate: Pakistan, Bangladesh, Nepal
+
+Capitale della Russia?
+Risposta corretta: Mosca
+Risposte sbagliate: San Pietroburgo, Kiev, Minsk
+
+Deserto tra Cina e Mongolia?
+Risposta corretta: Gobi
+Risposte sbagliate: Sahara, Atacama, Kalahari
+
+Paese delle Isole Galapagos?
+Risposta corretta: Ecuador
+Risposte sbagliate: Colombia, Messico, Peru
+
+Isola vulcanica al largo dell'Italia?
+Risposta corretta: Sicilia
+Risposte sbagliate: Sardegna, Corsica, Ischia
+
+Paese attraversato dal fiume Danubio?
+Risposta corretta: Romania
+Risposte sbagliate: Germania, Austria, Serbia
+
+Capitale del Brasile?
+Risposta corretta: Brasilia
+Risposte sbagliate: Rio de Janeiro, San Paolo, Salvador
+
+Paese delle piramidi di Chichen Itza?
+Risposta corretta: Messico
+Risposte sbagliate: Guatemala, Belize, Honduras
+
+Fiume che attraversa New York?
+Risposta corretta: Hudson
+Risposte sbagliate: Mississippi, Potomac, Colorado
+
+Isola al largo della punta sud-occidentale dell'Africa?
+Risposta corretta: Madagascar
+Risposte sbagliate: Mauritius, Seychelles, Réunion
+
+Stato più grande degli Stati Uniti?
+Risposta corretta: Alaska
+Risposte sbagliate: Texas, California, Florida
+
+Capoluogo della Baviera in Germania?
+Risposta corretta: Monaco
+Risposte sbagliate: Berlino, Amburgo, Francoforte
+
+Isola più popolata del mondo?
+Risposta corretta: Giava
+Risposte sbagliate: Honshu, Sumatra, Borneo
+
+Fiume che attraversa Roma?
+Risposta corretta: Tevere
+Risposte sbagliate: Po, Arno, Senna
+
+Catena montuosa tra Italia e Svizzera?
+Risposta corretta: Alpi
+Risposte sbagliate: Appalachi, Ande, Pirenei
+
+Paese attraversato dal Circolo Polare Artico?
+Risposta corretta: Norvegia
+Risposte sbagliate: Svezia, Finlandia, Russia
+
+Capitale dell'Egitto?
+Risposta corretta: Il Cairo
+Risposte sbagliate: Alessandria, Luxor, Sharm el-Sheikh
+
+Isola caraibica divisa tra Haiti e Repubblica Dominicana?
+Risposta corretta: Hispaniola
+Risposte sbagliate: Cuba, Porto Rico, Giamaica
+
+Stato più piccolo degli Stati Uniti?
+Risposta corretta: Rhode Island
+Risposte sbagliate: Delaware, Connecticut, New Hampshire
+
+Montagna più alta del Nord America?
+Risposta corretta: Denali (Monte McKinley)
+Risposte sbagliate: Monte Logan, Monte Hood, Monte Whitney
+
+Paese delle Piramidi di Tikal?
+Risposta corretta: Guatemala
+Risposte sbagliate: Messico, Belize, Honduras
+
+Città più popolosa del mondo?
+Risposta corretta: Tokyo
+Risposte sbagliate: Shanghai, Mumbai, Pechino
+
+Paese attraversato dal fiume Mekong?
+Risposta corretta: Laos
+Risposte sbagliate: Vietnam, Cambogia, Thailandia
+
+Capitale della Corea del Sud?
+Risposta corretta: Seul
+Risposte sbagliate: Pyongyang, Busan, Incheon
+
+Stato dell'Australia famoso per l'Opera House?
+Risposta corretta: Nuovo Galles del Sud
+Risposte sbagliate: Victoria, Queensland, Australia Meridionale
+
+Paese attraversato dal fiume Niger?
+Risposta corretta: Nigeria
+Risposte sbagliate: Mali, Guinea, Ciad
+
+Capoluogo della Toscana in Italia?
+Risposta corretta: Firenze
+Risposte sbagliate: Pisa, Siena, Livorno
+
+Catena montuosa tra Francia e Italia?
+Risposta corretta: Alpi Marittime
+Risposte sbagliate: Appalachi, Ande, Pirenei
+
+Paese attraversato dal fiume Lena?
+Risposta corretta: Russia
+Risposte sbagliate: Mongolia, Cina, Kazakistan
+
+Stato messicano noto per le spiagge di Cancun?
+Risposta corretta: Quintana Roo
+Risposte sbagliate: Yucatan, Baja California, Veracruz
+
+Paese del Machu Picchu?
+Risposta corretta: Perù
+Risposte sbagliate: Bolivia, Ecuador, Colombia
+
+Città brasiliana famosa per il carnevale?
+Risposta corretta: Rio de Janeiro
+Risposte sbagliate: San Paolo, Salvador, Brasilia
+
+Stato più grande dell'India?
+Risposta corretta: Rajastan
+Risposte sbagliate: Uttar Pradesh, Madhya Pradesh, Maharashtra
+
+Paese attraversato dal fiume Amur?
+Risposta corretta: Russia
+Risposte sbagliate: Cina, Mongolia, Corea del Nord
+
+Isola greca famosa per le rovine antiche?
+Risposta corretta: Creta
+Risposte sbagliate: Rodi, Corfù, Santorini
+
+Capitale della Colombia?
+Risposta corretta: Bogotà
+Risposte sbagliate: Medellín, Cali, Cartagena
+
+Stato del Brasile noto per l'Amazzonia?
+Risposta corretta: Amazonas
+Risposte sbagliate: Bahia, Rio de Janeiro, Sao Paulo
+
+Isola caraibica divisa tra Haiti e Cuba?
+Risposta corretta: Hispaniola
+Risposte sbagliate: Giamaica, Porto Rico, Cuba
+
+Paese attraversato dal fiume Tago?
+Risposta corretta: Portogallo
+Risposte sbagliate: Spagna, Francia, Italia
+
+Monti tra Norvegia e Svezia?
+Risposta corretta: Monti Scandinavi
+Risposte sbagliate: Alpi, Carpazi, Pirenei
+
+Capoluogo della Baviera in Germania?
+Risposta corretta: Monaco
+Risposte sbagliate: Berlino, Amburgo, Francoforte
+
+Paese attraversato dal fiume Volga?
+Risposta corretta: Russia
+Risposte sbagliate: Kazakistan, Ucraina, Bielorussia
+
+Catena montuosa tra Italia e Svizzera?
+Risposta corretta: Alpi
+Risposte sbagliate: Appalachi, Ande, Pirenei
+
+Isola caraibica divisa tra Haiti e Repubblica Dominicana?
+Risposta corretta: Hispaniola
+Risposte sbagliate: Cuba, Porto Rico, Giamaica
+
+Stato più piccolo degli Stati Uniti?
+Risposta corretta: Rhode Island
+Risposte sbagliate: Delaware, Connecticut, New Hampshire
+
+Montagna più alta del Nord America?
+Risposta corretta: Denali (Monte McKinley)
+Risposte sbagliate: Monte Logan, Monte Hood, Monte Whitney
+
+Paese delle Piramidi di Tikal?
+Risposta corretta: Guatemala
+Risposte sbagliate: Messico, Belize, Honduras
+
+Città più popolosa del mondo?
+Risposta corretta: Tokyo
+Risposte sbagliate: Shanghai, Mumbai, Pechino
+
+Paese attraversato dal fiume Mekong?
+Risposta corretta: Laos
+Risposte sbagliate: Vietnam, Cambogia, Thailandia
+
+Capitale della Corea del Sud?
+Risposta corretta: Seul
+Risposte sbagliate: Pyongyang, Busan, Incheon
+
+Stato dell'Australia famoso per l'Opera House?
+Risposta corretta: Nuovo Galles del Sud
+Risposte sbagliate: Victoria, Queensland, Australia Meridionale
+
+Paese attraversato dal fiume Niger?
+Risposta corretta: Nigeria
+Risposte sbagliate: Mali, Guinea, Ciad
+
+Capoluogo della Toscana in Italia?
+Risposta corretta: Firenze
+Risposte sbagliate: Pisa, Siena, Livorno
+
+Catena montuosa tra Francia e Italia?
+Risposta corretta: Alpi Marittime
+Risposte sbagliate: Appalachi, Ande, Pirenei
+
+Paese attraversato dal Circolo Polare Artico?
+Risposta corretta: Norvegia
+Risposte sbagliate: Svezia, Finlandia, Russia
+
+Capitale dell'Egitto?
+Risposta corretta: Il Cairo
+Risposte sbagliate: Alessandria, Luxor, Sharm el-Sheikh
+
+Isola caraibica divisa tra Haiti e Cuba?
+Risposta corretta: Hispaniola
+Risposte sbagliate: Giamaica, Porto Rico, Cuba
+
+Paese attraversato dal fiume Tago?
+Risposta corretta: Portogallo
+Risposte sbagliate: Spagna, Francia, Italia
+
+Monti tra Norvegia e Svezia?
+Risposta corretta: Monti Scandinavi
+Risposte sbagliate: Alpi, Carpazi, Pirenei
+
+Capoluogo della Baviera in Germania?
+Risposta corretta: Monaco
+Risposte sbagliate: Berlino, Amburgo, Francoforte
+
+Paese attraversato dal fiume Volga?
+Risposta corretta: Russia
+Risposte sbagliate: Kazakistan, Ucraina, Bielorussia
+
+Catena montuosa tra Italia e Svizzera?
+Risposta corretta: Alpi
+Risposte sbagliate: Appalachi, Ande, Pirenei

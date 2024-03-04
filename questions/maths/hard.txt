@@ -1,0 +1,356 @@
+Quanto è la radice quadrata di 121?
+Risposta corretta: 11
+Risposte sbagliate: 9, 13, 15
+
+Risolvi l'equazione: 2x + 5 = 15
+Risposta corretta: 5
+Risposte sbagliate: 3, 8, 10
+
+Quanto fa 3 elevato alla quarta potenza?
+Risposta corretta: 81
+Risposte sbagliate: 64, 100, 125
+
+Quanto è la somma degli angoli interni di un triangolo?
+Risposta corretta: 180 gradi
+Risposte sbagliate: 90 gradi, 120 gradi, 150 gradi
+
+Quanto è la metà di 3/4?
+Risposta corretta: 3/8
+Risposte sbagliate: 1/4, 1/2, 5/8
+
+Quanto fa 4! (4 fattoriale)?
+Risposta corretta: 24
+Risposte sbagliate: 12, 18, 30
+
+Quanto fa 2^8 (2 alla ottava potenza)?
+Risposta corretta: 256
+Risposte sbagliate: 128, 192, 320
+
+Risolvi l'equazione: x^2 9 = 0
+Risposta corretta: ±3
+Risposte sbagliate: ±2, ±4, ±6
+
+Quanto fa 1/3 diviso 2/5?
+Risposta corretta: 5/6
+Risposte sbagliate: 1/4, 2/5, 3/6
+
+Quanto è la radice cubica di 64?
+Risposta corretta: 4
+Risposte sbagliate: 3, 5, 6
+Quanto fa 15% di 200?
+Risposta corretta: 30
+Risposte sbagliate: 25, 40, 50
+
+Quanto è 3/5 di 75?
+Risposta corretta: 45
+Risposte sbagliate: 30, 60, 90
+
+Quanto fa 7^2 (7 al quadrato)?
+Risposta corretta: 49
+Risposte sbagliate: 36, 64, 81
+
+Risolvi l'equazione: 4x 7 = 5
+Risposta corretta: 3
+Risposte sbagliate: 2, 4, 6
+
+Quanto è la somma degli angoli interni di un quadrilatero?
+Risposta corretta: 360 gradi
+Risposte sbagliate: 180 gradi, 270 gradi, 450 gradi
+
+Quanto fa 2/3 moltiplicato per 9?
+Risposta corretta: 6
+Risposte sbagliate: 4, 8, 12
+
+Quanto è 5% di 1200?
+Risposta corretta: 60
+Risposte sbagliate: 30, 45, 75
+
+Risolvi l'equazione: 2x^2 8 = 0
+Risposta corretta: ±2
+Risposte sbagliate: ±1, ±3, ±4
+
+Quanto fa 4/7 diviso 2/3?
+Risposta corretta: 6/7
+Risposte sbagliate: 2/5, 3/4, 5/6
+
+Quanto è la radice quadrata di 144?
+Risposta corretta: 12
+Risposte sbagliate: 8, 10, 14
+
+Quanto fa 16 + 3 * 5?
+Risposta corretta: 31
+Risposte sbagliate: 28, 34, 40
+
+Quanto è 3/8 di 48?
+Risposta corretta: 18
+Risposte sbagliate: 12, 24, 36
+
+Quanto fa 2^5 (2 alla quinta potenza)?
+Risposta corretta: 32
+Risposte sbagliate: 16, 24, 40
+
+Risolvi l'equazione: 3x + 6 = 15
+Risposta corretta: 3
+Risposte sbagliate: 2, 4, 5
+
+Quanto è la somma degli angoli interni di un pentagono?
+Risposta corretta: 540 gradi
+Risposte sbagliate: 360 gradi, 450 gradi, 630 gradi
+
+Quanto fa 0.6 diviso 0.2?
+Risposta corretta: 3
+Risposte sbagliate: 1.5, 2, 4
+
+Quanto è 1/4 moltiplicato per 60?
+Risposta corretta: 15
+Risposte sbagliate: 10, 20, 25
+
+Risolvi l'equazione: x^2 5 = 0
+Risposta corretta: ±√5
+Risposte sbagliate: ±√3, ±√7, ±√9
+
+Quanto fa 2/9 di 81?
+Risposta corretta: 18
+Risposte sbagliate: 9, 27, 36
+
+Quanto è la radice cubica di 125?
+Risposta corretta: 5
+Risposte sbagliate: 3, 4, 6
+
+Quanto fa 25 * 4 3^2?
+Risposta corretta: 91
+Risposte sbagliate: 82, 100, 112
+
+Quanto è 7/8 di 64?
+Risposta corretta: 56
+Risposte sbagliate: 48, 60, 72
+
+Quanto fa 2^6 (2 alla sesta potenza)?
+Risposta corretta: 64
+Risposte sbagliate: 32, 48, 80
+
+Risolvi l'equazione: 2x 3 = 7
+Risposta corretta: 5
+Risposte sbagliate: 4, 6, 8
+
+Quanto è la somma degli angoli interni di un esagono?
+Risposta corretta: 720 gradi
+Risposte sbagliate: 540 gradi, 630 gradi, 810 gradi
+
+Quanto fa 0.75 moltiplicato per 80?
+Risposta corretta: 60
+Risposte sbagliate: 40, 50, 70
+
+Quanto è 1/3 diviso 3/4?
+Risposta corretta: 4/9
+Risposte sbagliate: 1/2, 2/3, 3/5
+
+Risolvi l'equazione: 4x^2 16 = 0
+Risposta corretta: ±2
+Risposte sbagliate: ±1, ±3, ±4
+
+Quanto fa 5/6 moltiplicato per 36?
+Risposta corretta: 30
+Risposte sbagliate: 20, 25, 40
+
+Quanto è la radice quadrata di 169?
+Risposta corretta: 13
+Risposte sbagliate: 10, 12, 15
+
+Quanto fa 18 + 4 * 3?
+Risposta corretta: 30
+Risposte sbagliate: 24, 36, 42
+
+Quanto è 2/5 di 50?
+Risposta corretta: 20
+Risposte sbagliate: 15, 25, 30
+
+Quanto fa 3^3 (3 alla terza potenza)?
+Risposta corretta: 27
+Risposte sbagliate: 18, 24, 36
+
+Risolvi l'equazione: 5x 10 = 15
+Risposta corretta: 5
+Risposte sbagliate: 4, 6, 8
+
+Quanto è la somma degli angoli interni di un ettaro?
+Risposta corretta: 900 gradi
+Risposte sbagliate: 720 gradi, 810 gradi, 1000 gradi
+
+Quanto fa 0.4 diviso 0.2?
+Risposta corretta: 2
+Risposte sbagliate: 1, 1.5, 3
+
+Quanto è 2/3 moltiplicato per 12?
+Risposta corretta: 8
+Risposte sbagliate: 6, 10, 14
+
+Risolvi l'equazione: 3x^2 12 = 0
+Risposta corretta: ±2
+Risposte sbagliate: ±1, ±3, ±4
+
+Quanto fa 3/4 diviso 1/2?
+Risposta corretta: 1.5
+Risposte sbagliate: 0.5, 1, 2
+
+Quanto è la radice cubica di 27?
+Risposta corretta: 3
+Risposte sbagliate: 2, 4, 5
+Quanto fa 9 + 6?
+Risposta corretta: 15
+Risposte sbagliate: 12, 18, 21
+
+Quanto è 2/3 di 90?
+Risposta corretta: 60
+Risposte sbagliate: 45, 30, 75
+
+Quanto fa 5^3 (5 alla terza potenza)?
+Risposta corretta: 125
+Risposte sbagliate: 100, 150, 200
+
+Risolvi l'equazione: 2x + 5 = 15
+Risposta corretta: 5
+Risposte sbagliate: 3, 7, 10
+
+Quanto è la somma degli angoli interni di un triangolo?
+Risposta corretta: 180 gradi
+Risposte sbagliate: 90 gradi, 120 gradi, 150 gradi
+
+Quanto fa 3/4 moltiplicato per 48?
+Risposta corretta: 36
+Risposte sbagliate: 24, 30, 42
+
+Quanto è 15% di 300?
+Risposta corretta: 45
+Risposte sbagliate: 30, 50, 60
+
+Risolvi l'equazione: 3x 7 = 8
+Risposta corretta: 5
+Risposte sbagliate: 4, 6, 9
+
+Quanto fa 1/2 diviso 1/4?
+Risposta corretta: 2
+Risposte sbagliate: 1, 1.5, 3
+
+Quanto è la radice quadrata di 196?
+Risposta corretta: 14
+Risposte sbagliate: 12, 16, 18
+
+Quanto fa 10 + 2 * 4?
+Risposta corretta: 18
+Risposte sbagliate: 14, 20, 24
+
+Quanto è 4/5 di 75?
+Risposta corretta: 60
+Risposte sbagliate: 45, 30, 80
+
+Quanto fa 6^2 (6 al quadrato)?
+Risposta corretta: 36
+Risposte sbagliate: 30, 40, 50
+
+Risolvi l'equazione: 4x 6 = 10
+Risposta corretta: 4
+Risposte sbagliate: 2, 6, 8
+
+Quanto è la somma degli angoli interni di un quadrato?
+Risposta corretta: 360 gradi
+Risposte sbagliate: 180 gradi, 270 gradi, 450 gradi
+
+Quanto fa 3/5 moltiplicato per 50?
+Risposta corretta: 30
+Risposte sbagliate: 25, 40, 45
+
+Quanto è 20% di 250?
+Risposta corretta: 50
+Risposte sbagliate: 25, 40, 60
+
+Risolvi l'equazione: 5x + 2 = 17
+Risposta corretta: 3
+Risposte sbagliate: 2, 4, 6
+
+Quanto fa 2/3 diviso 3/4?
+Risposta corretta: 8/9
+Risposte sbagliate: 1/2, 2/3, 1
+
+Quanto è la radice quadrata di 225?
+Risposta corretta: 15
+Risposte sbagliate: 10, 12, 18
+
+Quanto fa 8 + 3 * 2?
+Risposta corretta: 14
+Risposte sbagliate: 11, 16, 20
+
+Quanto è 2/4 di 64?
+Risposta corretta: 32
+Risposte sbagliate: 24, 40, 48
+
+Quanto fa 7^3 (7 alla terza potenza)?
+Risposta corretta: 343
+Risposte sbagliate: 300, 400, 500
+
+Risolvi l'equazione: 3x + 9 = 24
+Risposta corretta: 5
+Risposte sbagliate: 4, 6, 8
+
+Quanto è la somma degli angoli interni di un pentagono?
+Risposta corretta: 540 gradi
+Risposte sbagliate: 360 gradi, 450 gradi, 630 gradi
+
+Quanto fa 4/5 moltiplicato per 40?
+Risposta corretta: 32
+Risposte sbagliate: 24, 30, 36
+
+Quanto è 25% di 200?
+Risposta corretta: 50
+Risposte sbagliate: 25, 40, 60
+
+Risolvi l'equazione: 2x 3 = 13
+Risposta corretta: 8
+Risposte sbagliate: 6, 10, 12
+
+Quanto fa 1/3 diviso 1/6?
+Risposta corretta: 2
+Risposte sbagliate: 1, 1.5, 3
+
+Quanto è la radice quadrata di 144?
+Risposta corretta: 12
+Risposte sbagliate: 10, 14, 16
+Risolvi l'equazione: 2x + 8 = 18
+Risposta corretta: 5
+Risposte sbagliate: 6, 7, 8
+
+Risolvi l'equazione: 3y 15 = 21
+Risposta corretta: 12
+Risposte sbagliate: 10, 15, 18
+
+Risolvi l'equazione: 4z + 7 = 31
+Risposta corretta: 6
+Risposte sbagliate: 7, 8, 9
+
+Risolvi l'equazione: 5a 10 = 20
+Risposta corretta: 6
+Risposte sbagliate: 8, 10, 12
+
+Risolvi l'equazione: 2b + 3 = 13
+Risposta corretta: 5
+Risposte sbagliate: 6, 7, 8
+
+Risolvi l'equazione: 3c 6 = 15
+Risposta corretta: 7
+Risposte sbagliate: 8, 9, 10
+
+Risolvi l'equazione: 4d + 5 = 25
+Risposta corretta: 5
+Risposte sbagliate: 6, 7, 8
+
+Risolvi l'equazione: 5e 12 = 18
+Risposta corretta: 6
+Risposte sbagliate: 8, 10, 12
+
+Risolvi l'equazione: 2f + 9 = 19
+Risposta corretta: 5
+Risposte sbagliate: 6, 7, 8
+
+Risolvi l'equazione: 3g 7 = 14
+Risposta corretta: 7
+Risposte sbagliate: 8, 9, 10

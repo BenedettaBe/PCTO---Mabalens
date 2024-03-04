@@ -1,0 +1,620 @@
+[
+  {
+    "question": "Quanto \u00e8 la radice quadrata di 121?",
+    "correctAnswer": "Risposta corretta: 11",
+    "wrongAnswer": [
+      "Risposte sbagliate: 9, 13, 15"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 2x + 5 = 15",
+    "correctAnswer": "Risposta corretta: 5",
+    "wrongAnswer": [
+      "Risposte sbagliate: 3, 8, 10"
+    ]
+  },
+  {
+    "question": "Quanto fa 3 elevato alla quarta potenza?",
+    "correctAnswer": "Risposta corretta: 81",
+    "wrongAnswer": [
+      "Risposte sbagliate: 64, 100, 125"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la somma degli angoli interni di un triangolo?",
+    "correctAnswer": "Risposta corretta: 180 gradi",
+    "wrongAnswer": [
+      "Risposte sbagliate: 90 gradi, 120 gradi, 150 gradi"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la met\u00e0 di 3/4?",
+    "correctAnswer": "Risposta corretta: 3/8",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1/4, 1/2, 5/8"
+    ]
+  },
+  {
+    "question": "Quanto fa 4! (4 fattoriale)?",
+    "correctAnswer": "Risposta corretta: 24",
+    "wrongAnswer": [
+      "Risposte sbagliate: 12, 18, 30"
+    ]
+  },
+  {
+    "question": "Quanto fa 2^8 (2 alla ottava potenza)?",
+    "correctAnswer": "Risposta corretta: 256",
+    "wrongAnswer": [
+      "Risposte sbagliate: 128, 192, 320"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: x^2 9 = 0",
+    "correctAnswer": "Risposta corretta: \u00b13",
+    "wrongAnswer": [
+      "Risposte sbagliate: \u00b12, \u00b14, \u00b16"
+    ]
+  },
+  {
+    "question": "Quanto fa 1/3 diviso 2/5?",
+    "correctAnswer": "Risposta corretta: 5/6",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1/4, 2/5, 3/6"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la radice cubica di 64?",
+    "correctAnswer": "Risposta corretta: 4",
+    "wrongAnswer": [
+      "Risposte sbagliate: 3, 5, 6",
+      "Quanto fa 15% di 200?",
+      "Risposta corretta: 30",
+      "Risposte sbagliate: 25, 40, 50"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 3/5 di 75?",
+    "correctAnswer": "Risposta corretta: 45",
+    "wrongAnswer": [
+      "Risposte sbagliate: 30, 60, 90"
+    ]
+  },
+  {
+    "question": "Quanto fa 7^2 (7 al quadrato)?",
+    "correctAnswer": "Risposta corretta: 49",
+    "wrongAnswer": [
+      "Risposte sbagliate: 36, 64, 81"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 4x 7 = 5",
+    "correctAnswer": "Risposta corretta: 3",
+    "wrongAnswer": [
+      "Risposte sbagliate: 2, 4, 6"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la somma degli angoli interni di un quadrilatero?",
+    "correctAnswer": "Risposta corretta: 360 gradi",
+    "wrongAnswer": [
+      "Risposte sbagliate: 180 gradi, 270 gradi, 450 gradi"
+    ]
+  },
+  {
+    "question": "Quanto fa 2/3 moltiplicato per 9?",
+    "correctAnswer": "Risposta corretta: 6",
+    "wrongAnswer": [
+      "Risposte sbagliate: 4, 8, 12"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 5% di 1200?",
+    "correctAnswer": "Risposta corretta: 60",
+    "wrongAnswer": [
+      "Risposte sbagliate: 30, 45, 75"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 2x^2 8 = 0",
+    "correctAnswer": "Risposta corretta: \u00b12",
+    "wrongAnswer": [
+      "Risposte sbagliate: \u00b11, \u00b13, \u00b14"
+    ]
+  },
+  {
+    "question": "Quanto fa 4/7 diviso 2/3?",
+    "correctAnswer": "Risposta corretta: 6/7",
+    "wrongAnswer": [
+      "Risposte sbagliate: 2/5, 3/4, 5/6"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la radice quadrata di 144?",
+    "correctAnswer": "Risposta corretta: 12",
+    "wrongAnswer": [
+      "Risposte sbagliate: 8, 10, 14"
+    ]
+  },
+  {
+    "question": "Quanto fa 16 + 3 * 5?",
+    "correctAnswer": "Risposta corretta: 31",
+    "wrongAnswer": [
+      "Risposte sbagliate: 28, 34, 40"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 3/8 di 48?",
+    "correctAnswer": "Risposta corretta: 18",
+    "wrongAnswer": [
+      "Risposte sbagliate: 12, 24, 36"
+    ]
+  },
+  {
+    "question": "Quanto fa 2^5 (2 alla quinta potenza)?",
+    "correctAnswer": "Risposta corretta: 32",
+    "wrongAnswer": [
+      "Risposte sbagliate: 16, 24, 40"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 3x + 6 = 15",
+    "correctAnswer": "Risposta corretta: 3",
+    "wrongAnswer": [
+      "Risposte sbagliate: 2, 4, 5"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la somma degli angoli interni di un pentagono?",
+    "correctAnswer": "Risposta corretta: 540 gradi",
+    "wrongAnswer": [
+      "Risposte sbagliate: 360 gradi, 450 gradi, 630 gradi"
+    ]
+  },
+  {
+    "question": "Quanto fa 0.6 diviso 0.2?",
+    "correctAnswer": "Risposta corretta: 3",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1.5, 2, 4"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 1/4 moltiplicato per 60?",
+    "correctAnswer": "Risposta corretta: 15",
+    "wrongAnswer": [
+      "Risposte sbagliate: 10, 20, 25"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: x^2 5 = 0",
+    "correctAnswer": "Risposta corretta: \u00b1\u221a5",
+    "wrongAnswer": [
+      "Risposte sbagliate: \u00b1\u221a3, \u00b1\u221a7, \u00b1\u221a9"
+    ]
+  },
+  {
+    "question": "Quanto fa 2/9 di 81?",
+    "correctAnswer": "Risposta corretta: 18",
+    "wrongAnswer": [
+      "Risposte sbagliate: 9, 27, 36"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la radice cubica di 125?",
+    "correctAnswer": "Risposta corretta: 5",
+    "wrongAnswer": [
+      "Risposte sbagliate: 3, 4, 6"
+    ]
+  },
+  {
+    "question": "Quanto fa 25 * 4 3^2?",
+    "correctAnswer": "Risposta corretta: 91",
+    "wrongAnswer": [
+      "Risposte sbagliate: 82, 100, 112"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 7/8 di 64?",
+    "correctAnswer": "Risposta corretta: 56",
+    "wrongAnswer": [
+      "Risposte sbagliate: 48, 60, 72"
+    ]
+  },
+  {
+    "question": "Quanto fa 2^6 (2 alla sesta potenza)?",
+    "correctAnswer": "Risposta corretta: 64",
+    "wrongAnswer": [
+      "Risposte sbagliate: 32, 48, 80"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 2x 3 = 7",
+    "correctAnswer": "Risposta corretta: 5",
+    "wrongAnswer": [
+      "Risposte sbagliate: 4, 6, 8"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la somma degli angoli interni di un esagono?",
+    "correctAnswer": "Risposta corretta: 720 gradi",
+    "wrongAnswer": [
+      "Risposte sbagliate: 540 gradi, 630 gradi, 810 gradi"
+    ]
+  },
+  {
+    "question": "Quanto fa 0.75 moltiplicato per 80?",
+    "correctAnswer": "Risposta corretta: 60",
+    "wrongAnswer": [
+      "Risposte sbagliate: 40, 50, 70"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 1/3 diviso 3/4?",
+    "correctAnswer": "Risposta corretta: 4/9",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1/2, 2/3, 3/5"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 4x^2 16 = 0",
+    "correctAnswer": "Risposta corretta: \u00b12",
+    "wrongAnswer": [
+      "Risposte sbagliate: \u00b11, \u00b13, \u00b14"
+    ]
+  },
+  {
+    "question": "Quanto fa 5/6 moltiplicato per 36?",
+    "correctAnswer": "Risposta corretta: 30",
+    "wrongAnswer": [
+      "Risposte sbagliate: 20, 25, 40"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la radice quadrata di 169?",
+    "correctAnswer": "Risposta corretta: 13",
+    "wrongAnswer": [
+      "Risposte sbagliate: 10, 12, 15"
+    ]
+  },
+  {
+    "question": "Quanto fa 18 + 4 * 3?",
+    "correctAnswer": "Risposta corretta: 30",
+    "wrongAnswer": [
+      "Risposte sbagliate: 24, 36, 42"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 2/5 di 50?",
+    "correctAnswer": "Risposta corretta: 20",
+    "wrongAnswer": [
+      "Risposte sbagliate: 15, 25, 30"
+    ]
+  },
+  {
+    "question": "Quanto fa 3^3 (3 alla terza potenza)?",
+    "correctAnswer": "Risposta corretta: 27",
+    "wrongAnswer": [
+      "Risposte sbagliate: 18, 24, 36"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 5x 10 = 15",
+    "correctAnswer": "Risposta corretta: 5",
+    "wrongAnswer": [
+      "Risposte sbagliate: 4, 6, 8"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la somma degli angoli interni di un ettaro?",
+    "correctAnswer": "Risposta corretta: 900 gradi",
+    "wrongAnswer": [
+      "Risposte sbagliate: 720 gradi, 810 gradi, 1000 gradi"
+    ]
+  },
+  {
+    "question": "Quanto fa 0.4 diviso 0.2?",
+    "correctAnswer": "Risposta corretta: 2",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1, 1.5, 3"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 2/3 moltiplicato per 12?",
+    "correctAnswer": "Risposta corretta: 8",
+    "wrongAnswer": [
+      "Risposte sbagliate: 6, 10, 14"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 3x^2 12 = 0",
+    "correctAnswer": "Risposta corretta: \u00b12",
+    "wrongAnswer": [
+      "Risposte sbagliate: \u00b11, \u00b13, \u00b14"
+    ]
+  },
+  {
+    "question": "Quanto fa 3/4 diviso 1/2?",
+    "correctAnswer": "Risposta corretta: 1.5",
+    "wrongAnswer": [
+      "Risposte sbagliate: 0.5, 1, 2"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la radice cubica di 27?",
+    "correctAnswer": "Risposta corretta: 3",
+    "wrongAnswer": [
+      "Risposte sbagliate: 2, 4, 5",
+      "Quanto fa 9 + 6?",
+      "Risposta corretta: 15",
+      "Risposte sbagliate: 12, 18, 21"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 2/3 di 90?",
+    "correctAnswer": "Risposta corretta: 60",
+    "wrongAnswer": [
+      "Risposte sbagliate: 45, 30, 75"
+    ]
+  },
+  {
+    "question": "Quanto fa 5^3 (5 alla terza potenza)?",
+    "correctAnswer": "Risposta corretta: 125",
+    "wrongAnswer": [
+      "Risposte sbagliate: 100, 150, 200"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 2x + 5 = 15",
+    "correctAnswer": "Risposta corretta: 5",
+    "wrongAnswer": [
+      "Risposte sbagliate: 3, 7, 10"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la somma degli angoli interni di un triangolo?",
+    "correctAnswer": "Risposta corretta: 180 gradi",
+    "wrongAnswer": [
+      "Risposte sbagliate: 90 gradi, 120 gradi, 150 gradi"
+    ]
+  },
+  {
+    "question": "Quanto fa 3/4 moltiplicato per 48?",
+    "correctAnswer": "Risposta corretta: 36",
+    "wrongAnswer": [
+      "Risposte sbagliate: 24, 30, 42"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 15% di 300?",
+    "correctAnswer": "Risposta corretta: 45",
+    "wrongAnswer": [
+      "Risposte sbagliate: 30, 50, 60"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 3x 7 = 8",
+    "correctAnswer": "Risposta corretta: 5",
+    "wrongAnswer": [
+      "Risposte sbagliate: 4, 6, 9"
+    ]
+  },
+  {
+    "question": "Quanto fa 1/2 diviso 1/4?",
+    "correctAnswer": "Risposta corretta: 2",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1, 1.5, 3"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la radice quadrata di 196?",
+    "correctAnswer": "Risposta corretta: 14",
+    "wrongAnswer": [
+      "Risposte sbagliate: 12, 16, 18"
+    ]
+  },
+  {
+    "question": "Quanto fa 10 + 2 * 4?",
+    "correctAnswer": "Risposta corretta: 18",
+    "wrongAnswer": [
+      "Risposte sbagliate: 14, 20, 24"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 4/5 di 75?",
+    "correctAnswer": "Risposta corretta: 60",
+    "wrongAnswer": [
+      "Risposte sbagliate: 45, 30, 80"
+    ]
+  },
+  {
+    "question": "Quanto fa 6^2 (6 al quadrato)?",
+    "correctAnswer": "Risposta corretta: 36",
+    "wrongAnswer": [
+      "Risposte sbagliate: 30, 40, 50"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 4x 6 = 10",
+    "correctAnswer": "Risposta corretta: 4",
+    "wrongAnswer": [
+      "Risposte sbagliate: 2, 6, 8"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la somma degli angoli interni di un quadrato?",
+    "correctAnswer": "Risposta corretta: 360 gradi",
+    "wrongAnswer": [
+      "Risposte sbagliate: 180 gradi, 270 gradi, 450 gradi"
+    ]
+  },
+  {
+    "question": "Quanto fa 3/5 moltiplicato per 50?",
+    "correctAnswer": "Risposta corretta: 30",
+    "wrongAnswer": [
+      "Risposte sbagliate: 25, 40, 45"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 20% di 250?",
+    "correctAnswer": "Risposta corretta: 50",
+    "wrongAnswer": [
+      "Risposte sbagliate: 25, 40, 60"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 5x + 2 = 17",
+    "correctAnswer": "Risposta corretta: 3",
+    "wrongAnswer": [
+      "Risposte sbagliate: 2, 4, 6"
+    ]
+  },
+  {
+    "question": "Quanto fa 2/3 diviso 3/4?",
+    "correctAnswer": "Risposta corretta: 8/9",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1/2, 2/3, 1"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la radice quadrata di 225?",
+    "correctAnswer": "Risposta corretta: 15",
+    "wrongAnswer": [
+      "Risposte sbagliate: 10, 12, 18"
+    ]
+  },
+  {
+    "question": "Quanto fa 8 + 3 * 2?",
+    "correctAnswer": "Risposta corretta: 14",
+    "wrongAnswer": [
+      "Risposte sbagliate: 11, 16, 20"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 2/4 di 64?",
+    "correctAnswer": "Risposta corretta: 32",
+    "wrongAnswer": [
+      "Risposte sbagliate: 24, 40, 48"
+    ]
+  },
+  {
+    "question": "Quanto fa 7^3 (7 alla terza potenza)?",
+    "correctAnswer": "Risposta corretta: 343",
+    "wrongAnswer": [
+      "Risposte sbagliate: 300, 400, 500"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 3x + 9 = 24",
+    "correctAnswer": "Risposta corretta: 5",
+    "wrongAnswer": [
+      "Risposte sbagliate: 4, 6, 8"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la somma degli angoli interni di un pentagono?",
+    "correctAnswer": "Risposta corretta: 540 gradi",
+    "wrongAnswer": [
+      "Risposte sbagliate: 360 gradi, 450 gradi, 630 gradi"
+    ]
+  },
+  {
+    "question": "Quanto fa 4/5 moltiplicato per 40?",
+    "correctAnswer": "Risposta corretta: 32",
+    "wrongAnswer": [
+      "Risposte sbagliate: 24, 30, 36"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 25% di 200?",
+    "correctAnswer": "Risposta corretta: 50",
+    "wrongAnswer": [
+      "Risposte sbagliate: 25, 40, 60"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 2x 3 = 13",
+    "correctAnswer": "Risposta corretta: 8",
+    "wrongAnswer": [
+      "Risposte sbagliate: 6, 10, 12"
+    ]
+  },
+  {
+    "question": "Quanto fa 1/3 diviso 1/6?",
+    "correctAnswer": "Risposta corretta: 2",
+    "wrongAnswer": [
+      "Risposte sbagliate: 1, 1.5, 3"
+    ]
+  },
+  {
+    "question": "Quanto \u00e8 la radice quadrata di 144?",
+    "correctAnswer": "Risposta corretta: 12",
+    "wrongAnswer": [
+      "Risposte sbagliate: 10, 14, 16",
+      "Risolvi l'equazione: 2x + 8 = 18",
+      "Risposta corretta: 5",
+      "Risposte sbagliate: 6, 7, 8"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 3y 15 = 21",
+    "correctAnswer": "Risposta corretta: 12",
+    "wrongAnswer": [
+      "Risposte sbagliate: 10, 15, 18"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 4z + 7 = 31",
+    "correctAnswer": "Risposta corretta: 6",
+    "wrongAnswer": [
+      "Risposte sbagliate: 7, 8, 9"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 5a 10 = 20",
+    "correctAnswer": "Risposta corretta: 6",
+    "wrongAnswer": [
+      "Risposte sbagliate: 8, 10, 12"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 2b + 3 = 13",
+    "correctAnswer": "Risposta corretta: 5",
+    "wrongAnswer": [
+      "Risposte sbagliate: 6, 7, 8"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 3c 6 = 15",
+    "correctAnswer": "Risposta corretta: 7",
+    "wrongAnswer": [
+      "Risposte sbagliate: 8, 9, 10"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 4d + 5 = 25",
+    "correctAnswer": "Risposta corretta: 5",
+    "wrongAnswer": [
+      "Risposte sbagliate: 6, 7, 8"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 5e 12 = 18",
+    "correctAnswer": "Risposta corretta: 6",
+    "wrongAnswer": [
+      "Risposte sbagliate: 8, 10, 12"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 2f + 9 = 19",
+    "correctAnswer": "Risposta corretta: 5",
+    "wrongAnswer": [
+      "Risposte sbagliate: 6, 7, 8"
+    ]
+  },
+  {
+    "question": "Risolvi l'equazione: 3g 7 = 14",
+    "correctAnswer": "Risposta corretta: 7",
+    "wrongAnswer": [
+      "Risposte sbagliate: 8, 9, 10"
+    ]
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "question": "In quale citt\u00e0 si sono svolti i primi Giochi Olimpici moderni nel 1896?",
+    "correctAnswer": "Risposta corretta: Atene",
+    "wrongAnswer": [
+      "Risposte sbagliate: Roma, Parigi, Londra"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il record del mondo per il salto in alto maschile?",
+    "correctAnswer": "Risposta corretta: 2,45 metri",
+    "wrongAnswer": [
+      "Risposte sbagliate: 2,30 metri, 2,55 metri, 2,60 metri"
+    ]
+  },
+  {
+    "question": "Quale squadra di calcio ha vinto la maggior quantit\u00e0 di Coppe UEFA/Champions League?",
+    "correctAnswer": "Risposta corretta: Real Madrid",
+    "wrongAnswer": [
+      "Risposte sbagliate: FC Barcelona, Bayern Monaco, AC Milan"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 l'attuale detentore del titolo di campione del mondo dei pesi massimi nel pugilato?",
+    "correctAnswer": "Risposta corretta: Tyson Fury",
+    "wrongAnswer": [
+      "Risposte sbagliate: Anthony Joshua, Deontay Wilder, Andy Ruiz Jr."
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il numero massimo di giocatori in una squadra di pallavolo in campo contemporaneamente?",
+    "correctAnswer": "Risposta corretta: 6",
+    "wrongAnswer": [
+      "Risposte sbagliate: 5, 7, 8"
+    ]
+  },
+  {
+    "question": "Quale nazione ha vinto il maggior numero di medaglie d'oro alle Olimpiadi estive 2016?",
+    "correctAnswer": "Risposta corretta: Stati Uniti",
+    "wrongAnswer": [
+      "Risposte sbagliate: Cina, Russia, Germania"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 considerato il \"Re della Terra Battuta\" nel tennis maschile?",
+    "correctAnswer": "Risposta corretta: Rafael Nadal",
+    "wrongAnswer": [
+      "Risposte sbagliate: Novak Djokovic, Roger Federer, Andy Murray"
+    ]
+  },
+  {
+    "question": "Quale giocatore ha segnato il maggior numero di gol in una singola stagione di campionato europeo di calcio?",
+    "correctAnswer": "Risposta corretta: Lionel Messi",
+    "wrongAnswer": [
+      "Risposte sbagliate: Cristiano Ronaldo, Robert Lewandowski, Thierry Henry"
+    ]
+  },
+  {
+    "question": "In quale disciplina olimpica si gareggia nella \"staffetta 4x100 metri\"?",
+    "correctAnswer": "Risposta corretta: Atletica leggera",
+    "wrongAnswer": [
+      "Risposte sbagliate: Nuoto, Ciclismo, Canottaggio"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 considerato il pi\u00f9 grande giocatore di cricket di tutti i tempi?",
+    "correctAnswer": "Risposta corretta: Sir Don Bradman",
+    "wrongAnswer": [
+      "Risposte sbagliate: Sachin Tendulkar, Vivian Richards, Ricky Ponting"
+    ]
+  },
+  {
+    "question": "Quale squadra ha vinto il Super Bowl nel 2021?",
+    "correctAnswer": "Risposta corretta: Tampa Bay Buccaneers",
+    "wrongAnswer": [
+      "Risposte sbagliate: Kansas City Chiefs, San Francisco 49ers, New England Patriots"
+    ]
+  },
+  {
+    "question": "In quale disciplina olimpica si compete nella categoria \"halfpipe\"?",
+    "correctAnswer": "Risposta corretta: Snowboard",
+    "wrongAnswer": [
+      "Risposte sbagliate: Sci alpino, Pattinaggio di figura, Salto con gli sci"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo corridore a vincere il Tour de France per sette volte consecutive?",
+    "correctAnswer": "Risposta corretta: Lance Armstrong",
+    "wrongAnswer": [
+      "Risposte sbagliate: Eddy Merckx, Bernard Hinault, Miguel Indurain"
+    ]
+  },
+  {
+    "question": "Quale pilota di Formula 1 \u00e8 noto come \"The Flying Finn\"?",
+    "correctAnswer": "Risposta corretta: Kimi R\u00e4ikk\u00f6nen",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lewis Hamilton, Sebastian Vettel, Fernando Alonso"
+    ]
+  },
+  {
+    "question": "Chi ha vinto il Pallone d'Oro FIFA nel 2020?",
+    "correctAnswer": "Risposta corretta: Lionel Messi",
+    "wrongAnswer": [
+      "Risposte sbagliate: Robert Lewandowski, Cristiano Ronaldo, Kevin De Bruyne"
+    ]
+  },
+  {
+    "question": "Quale giocatore di tennis ha vinto il maggior numero di titoli del Grande Slam in singolare femminile?",
+    "correctAnswer": "Risposta corretta: Margaret Court",
+    "wrongAnswer": [
+      "Risposte sbagliate: Serena Williams, Steffi Graf, Martina Navratilova"
+    ]
+  },
+  {
+    "question": "In quale sport si effettua la \"doppia mandata\"?",
+    "correctAnswer": "Risposta corretta: Ciclismo su pista",
+    "wrongAnswer": [
+      "Risposte sbagliate: Atletica leggera, Nuoto sincronizzato, Scherma"
+    ]
+  },
+  {
+    "question": "Quale squadra ha vinto la Stanley Cup nella NHL nel 2021?",
+    "correctAnswer": "Risposta corretta: Tampa Bay Lightning",
+    "wrongAnswer": [
+      "Risposte sbagliate: Montreal Canadiens, Vegas Golden Knights, Boston Bruins"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 l'attuale detentore del record del mondo nei 100 metri piani maschili?",
+    "correctAnswer": "Risposta corretta: Usain Bolt",
+    "wrongAnswer": [
+      "Risposte sbagliate: Justin Gatlin, Tyson Gay, Yohan Blake"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il giocatore di basket con il maggior numero di titoli NBA vinti?",
+    "correctAnswer": "Risposta corretta: Bill Russell",
+    "wrongAnswer": [
+      "Risposte sbagliate: Michael Jordan, LeBron James, Kobe Bryant"
+    ]
+  },
+  {
+    "question": "Quale tennista ha vinto il maggior numero di titoli del Grande Slam in singolare maschile?",
+    "correctAnswer": "Risposta corretta: Roger Federer",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rafael Nadal, Novak Djokovic, Pete Sampras"
+    ]
+  },
+  {
+    "question": "Chi ha vinto il Giro d'Italia nel 2021?",
+    "correctAnswer": "Risposta corretta: Egan Bernal",
+    "wrongAnswer": [
+      "Risposte sbagliate: Simon Yates, Vincenzo Nibali, Remco Evenepoel"
+    ]
+  },
+  {
+    "question": "In quale sport si competono nella categoria \"half marathon\"?",
+    "correctAnswer": "Risposta corretta: Corsa su strada",
+    "wrongAnswer": [
+      "Risposte sbagliate: Ciclismo su strada, Triathlon, Sci di fondo"
+    ]
+  },
+  {
+    "question": "Quale giocatore di baseball detiene il record di home run in una singola stagione di MLB?",
+    "correctAnswer": "Risposta corretta: Barry Bonds",
+    "wrongAnswer": [
+      "Risposte sbagliate: Babe Ruth, Hank Aaron, Alex Rodriguez"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 considerato il miglior giocatore di tennis di tutti i tempi?",
+    "correctAnswer": "Risposta corretta: Roger Federer",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rafael Nadal, Novak Djokovic, Rod Laver"
+    ]
+  },
+  {
+    "question": "Quale golfista detiene il record di pi\u00f9 vittorie nei tornei major maschili?",
+    "correctAnswer": "Risposta corretta: Jack Nicklaus",
+    "wrongAnswer": [
+      "Risposte sbagliate: Tiger Woods, Phil Mickelson, Rory McIlroy"
+    ]
+  },
+  {
+    "question": "Chi ha vinto la medaglia d'oro nel salto in lungo maschile alle Olimpiadi estive 2020?",
+    "correctAnswer": "Risposta corretta: Miltiadis Tentoglou",
+    "wrongAnswer": [
+      "Risposte sbagliate: Juan Miguel Echevarr\u00eda, Tajay Gayle, Jeff Henderson"
+    ]
+  },
+  {
+    "question": "Quale squadra di calcio \u00e8 soprannominata \"Blues\" e gioca le proprie partite casalinghe a Stamford Bridge?",
+    "correctAnswer": "Risposta corretta: Chelsea FC",
+    "wrongAnswer": [
+      "Risposte sbagliate: Manchester United, Arsenal, Liverpool"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo giocatore di basket a segnare 100 punti in una singola partita NBA?",
+    "correctAnswer": "Risposta corretta: Wilt Chamberlain",
+    "wrongAnswer": [
+      "Risposte sbagliate: Michael Jordan, Kobe Bryant, LeBron James"
+    ]
+  },
+  {
+    "question": "Quale atleta ha detenuto il record del mondo nei 400 metri piani maschili per pi\u00f9 di 40 anni?",
+    "correctAnswer": "Risposta corretta: Lee Evans",
+    "wrongAnswer": [
+      "Risposte sbagliate: Michael Johnson, Wayde van Niekerk, Jeremy Wariner"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo pilota di Formula 1 ad aver vinto sette titoli mondiali?",
+    "correctAnswer": "Risposta corretta: Michael Schumacher",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lewis Hamilton, Ayrton Senna, Alain Prost"
+    ]
+  },
+  {
+    "question": "Quale giocatore di calcio \u00e8 soprannominato \"O Fen\u00f4meno\"?",
+    "correctAnswer": "Risposta corretta: Ronaldo Naz\u00e1rio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Cristiano Ronaldo, Lionel Messi, Neymar"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 considerato il miglior giocatore di pallacanestro di sempre?",
+    "correctAnswer": "Risposta corretta: Michael Jordan",
+    "wrongAnswer": [
+      "Risposte sbagliate: LeBron James, Kobe Bryant, Magic Johnson"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il torneo di tennis pi\u00f9 antico del mondo?",
+    "correctAnswer": "Risposta corretta: Wimbledon",
+    "wrongAnswer": [
+      "Risposte sbagliate: US Open, Australian Open, Roland Garros"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 l'attuale detentore del titolo di campione olimpico nei 100 metri piani femminili?",
+    "correctAnswer": "Risposta corretta: Elaine Thompson-Herah",
+    "wrongAnswer": [
+      "Risposte sbagliate: Shelly-Ann Fraser-Pryce, Carmelita Jeter, Florence Griffith-Joyner"
+    ]
+  },
+  {
+    "question": "Quale squadra di calcio \u00e8 soprannominata \"I Bianconeri\"?",
+    "correctAnswer": "Risposta corretta: Juventus FC",
+    "wrongAnswer": [
+      "Risposte sbagliate: AC Milan, Inter Milan, AS Roma"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo tennista a completare il Grande Slam in carriera nel tennis maschile?",
+    "correctAnswer": "Risposta corretta: Rod Laver",
+    "wrongAnswer": [
+      "Risposte sbagliate: Roger Federer, Rafael Nadal, Novak Djokovic"
+    ]
+  },
+  {
+    "question": "Quale squadra di baseball \u00e8 soprannominata \"Bronx Bombers\"?",
+    "correctAnswer": "Risposta corretta: New York Yankees",
+    "wrongAnswer": [
+      "Risposte sbagliate: Boston Red Sox, Los Angeles Dodgers, Chicago Cubs"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 l'attuale detentore del record mondiale nei 800 metri piani femminili?",
+    "correctAnswer": "Risposta corretta: Jarmila Kratochv\u00edlov\u00e1",
+    "wrongAnswer": [
+      "Risposte sbagliate: Caster Semenya, Nadezhda Olizarenko, Pamela Jelimo"
+    ]
+  },
+  {
+    "question": "Quale giocatore di calcio ha vinto il maggior numero di Palloni d'Oro FIFA?",
+    "correctAnswer": "Risposta corretta: Lionel Messi",
+    "wrongAnswer": [
+      "Risposte sbagliate: Cristiano Ronaldo, Michel Platini, Johan Cruyff"
+    ]
+  },
+  {
+    "question": "Chi ha vinto la medaglia d'oro nel salto con l'asta maschile alle Olimpiadi estive 2020?",
+    "correctAnswer": "Risposta corretta: Armand Duplantis",
+    "wrongAnswer": [
+      "Risposte sbagliate: Sam Kendricks, Thiago Braz da Silva, Piotr Lisek"
+    ]
+  },
+  {
+    "question": "Quale giocatore di tennis \u00e8 soprannominato \"Nole\"?",
+    "correctAnswer": "Risposta corretta: Novak Djokovic",
+    "wrongAnswer": [
+      "Risposte sbagliate: Rafael Nadal, Roger Federer, Andy Murray"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo giocatore di baseball a essere introdotto nella National Baseball Hall of Fame?",
+    "correctAnswer": "Risposta corretta: Ty Cobb",
+    "wrongAnswer": [
+      "Risposte sbagliate: Babe Ruth, Lou Gehrig, Jackie Robinson"
+    ]
+  },
+  {
+    "question": "In quale disciplina olimpica si compete nella categoria \"sabre\"?",
+    "correctAnswer": "Risposta corretta: Scherma",
+    "wrongAnswer": [
+      "Risposte sbagliate: Tiro con l'arco, Judo, Ginnastica artistica"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 l'attuale detentore del titolo di campione del mondo di Formula 1?",
+    "correctAnswer": "Risposta corretta: Lewis Hamilton",
+    "wrongAnswer": [
+      "Risposte sbagliate: Max Verstappen, Sebastian Vettel, Valtteri Bottas"
+    ]
+  },
+  {
+    "question": "Quale squadra di calcio \u00e8 soprannominata \"I Rossoneri\"?",
+    "correctAnswer": "Risposta corretta: AC Milan",
+    "wrongAnswer": [
+      "Risposte sbagliate: Inter Milan, AS Roma, Napoli"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo giocatore di golf a vincere il Grande Slam in una singola stagione?",
+    "correctAnswer": "Risposta corretta: Bobby Jones",
+    "wrongAnswer": [
+      "Risposte sbagliate: Tiger Woods, Jack Nicklaus, Phil Mickelson"
+    ]
+  },
+  {
+    "question": "Quale giocatore di basket \u00e8 soprannominato \"The Greek Freak\"?",
+    "correctAnswer": "Risposta corretta: Giannis Antetokounmpo",
+    "wrongAnswer": [
+      "Risposte sbagliate: LeBron James, Kevin Durant, Stephen Curry"
+    ]
+  },
+  {
+    "question": "Chi ha vinto il Tour de France nel 2020?",
+    "correctAnswer": "Risposta corretta: Tadej Pogacar",
+    "wrongAnswer": [
+      "Risposte sbagliate: Primoz Roglic, Egan Bernal, Nairo Quintana"
+    ]
+  },
+  {
+    "question": "In quale disciplina olimpica si compete nella categoria \"K-1 1000 metri\"?",
+    "correctAnswer": "Risposta corretta: Canoa/Kayak",
+    "wrongAnswer": [
+      "Risposte sbagliate: Nuoto sincronizzato, Sollevamento pesi, Pentathlon moderno"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo giocatore di cricket a raggiungere 10.000 corse in Test cricket?",
+    "correctAnswer": "Risposta corretta: Sunil Gavaskar",
+    "wrongAnswer": [
+      "Risposte sbagliate: Sachin Tendulkar, Ricky Ponting, Brian Lara"
+    ]
+  },
+  {
+    "question": "Quale squadra di calcio ha vinto pi\u00f9 titoli di Serie A in Italia?",
+    "correctAnswer": "Risposta corretta: Juventus FC",
+    "wrongAnswer": [
+      "Risposte sbagliate: AC Milan, Inter Milan, AS Roma"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 considerato il \"Bimbo d'oro\" del calcio argentino?",
+    "correctAnswer": "Risposta corretta: Diego Maradona",
+    "wrongAnswer": [
+      "Risposte sbagliate: Lionel Messi, Gabriel Batistuta, Juan Rom\u00e1n Riquelme"
+    ]
+  },
+  {
+    "question": "Quale tennista ha vinto il maggior numero di titoli del Grande Slam in singolare femminile?",
+    "correctAnswer": "Risposta corretta: Margaret Court",
+    "wrongAnswer": [
+      "Risposte sbagliate: Serena Williams, Steffi Graf, Martina Navratilova"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo atleta a vincere l'Oscar come Miglior Attore Protagonista?",
+    "correctAnswer": "Risposta corretta: Hailee Steinfeld",
+    "wrongAnswer": [
+      "Risposte sbagliate: Arnold Schwarzenegger, Dwayne Johnson, Sylvester Stallone"
+    ]
+  },
+  {
+    "question": "In quale disciplina olimpica si compete nella categoria \"trampolino elastico\"?",
+    "correctAnswer": "Risposta corretta: Ginnastica artistica",
+    "wrongAnswer": [
+      "Risposte sbagliate: Salto con gli sci, Nuoto, Sollevamento pesi"
+    ]
+  },
+  {
+    "question": "Quale pilota di Formula 1 \u00e8 soprannominato \"The Professor\"?",
+    "correctAnswer": "Risposta corretta: Alain Prost",
+    "wrongAnswer": [
+      "Risposte sbagliate: Ayrton Senna, Lewis Hamilton, Sebastian Vettel"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo giocatore di basket a vincere l'Oscar come Miglior Attore?",
+    "correctAnswer": "Risposta corretta: Shaquille O'Neal",
+    "wrongAnswer": [
+      "Risposte sbagliate: Michael Jordan, LeBron James, Kobe Bryant"
+    ]
+  },
+  {
+    "question": "Quale squadra di calcio \u00e8 soprannominata \"I Blaugrana\"?",
+    "correctAnswer": "Risposta corretta: FC Barcelona",
+    "wrongAnswer": [
+      "Risposte sbagliate: Real Madrid, Atletico Madrid, Valencia CF"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 considerato il miglior pilota di Formula 1 di tutti i tempi?",
+    "correctAnswer": "Risposta corretta: Ayrton Senna",
+    "wrongAnswer": [
+      "Risposte sbagliate: Michael Schumacher, Lewis Hamilton, Juan Manuel Fangio"
+    ]
+  },
+  {
+    "question": "Quale giocatore di calcio \u00e8 soprannominato \"Il Fenomeno\"?",
+    "correctAnswer": "Risposta corretta: Ronaldo Naz\u00e1rio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Cristiano Ronaldo, Lionel Messi, Neymar"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo giocatore di baseball a rompere la barriera razziale nelle Major League?",
+    "correctAnswer": "Risposta corretta: Jackie Robinson",
+    "wrongAnswer": [
+      "Risposte sbagliate: Babe Ruth, Lou Gehrig, Hank Aaron"
+    ]
+  },
+  {
+    "question": "In quale disciplina olimpica si gareggia nella \"staffetta mista 4x100 metri\"?",
+    "correctAnswer": "Risposta corretta: Nuoto",
+    "wrongAnswer": [
+      "Risposte sbagliate: Atletica leggera, Ciclismo su pista, Ginnastica ritmica"
+    ]
+  },
+  {
+    "question": "Chi ha vinto la medaglia d'oro nel lancio del martello maschile alle Olimpiadi estive 2020?",
+    "correctAnswer": "Risposta corretta: Wojciech Nowicki",
+    "wrongAnswer": [
+      "Risposte sbagliate: Quentin Bigot, Pawe\u0142 Fajdek, Bence Hal\u00e1sz"
+    ]
+  },
+  {
+    "question": "Quale squadra di calcio ha vinto la Bundesliga nel 2020-2021?",
+    "correctAnswer": "Risposta corretta: Bayern Monaco",
+    "wrongAnswer": [
+      "Risposte sbagliate: Borussia Dortmund, RB Leipzig, Borussia M\u00f6nchengladbach"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo tennista a raggiungere la cifra di 20 titoli del Grande Slam in singolare maschile?",
+    "correctAnswer": "Risposta corretta: Rafael Nadal",
+    "wrongAnswer": [
+      "Risposte sbagliate: Novak Djokovic, Roger Federer, Pete Sampras"
+    ]
+  },
+  {
+    "question": "Quale golfista detiene il record del mondo per il punteggio pi\u00f9 basso in un torneo major maschile?",
+    "correctAnswer": "Risposta corretta: Henrik Stenson",
+    "wrongAnswer": [
+      "Risposte sbagliate: Tiger Woods, Rory McIlroy, Phil Mickelson"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 l'attuale detentore del record mondiale nei 1500 metri piani femminili?",
+    "correctAnswer": "Risposta corretta: Genzebe Dibaba",
+    "wrongAnswer": [
+      "Risposte sbagliate: Faith Kipyegon, Laura Muir, Sifan Hassan"
+    ]
+  },
+  {
+    "question": "Quale squadra di calcio \u00e8 soprannominata \"I Nerazzurri\"?",
+    "correctAnswer": "Risposta corretta: Inter Milan",
+    "wrongAnswer": [
+      "Risposte sbagliate: AC Milan, Juventus FC, AS Roma"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo giocatore di basket a segnare 30.000 punti in carriera nella NBA?",
+    "correctAnswer": "Risposta corretta: Kareem Abdul-Jabbar",
+    "wrongAnswer": [
+      "Risposte sbagliate: LeBron James, Kobe Bryant, Michael Jordan"
+    ]
+  },
+  {
+    "question": "In quale disciplina olimpica si compete nella categoria \"tripla\"?",
+    "correctAnswer": "Risposta corretta: Atletica leggera",
+    "wrongAnswer": [
+      "Risposte sbagliate: Salto con l'asta, Tuffi, Nuoto"
+    ]
+  },
+  {
+    "question": "Quale giocatore di calcio \u00e8 soprannominato \"Il Capitano\"?",
+    "correctAnswer": "Risposta corretta: Francesco Totti",
+    "wrongAnswer": [
+      "Risposte sbagliate: Sergio Ramos, Paolo Maldini, Steven Gerrard"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 l'attuale detentore del record mondiale nei 200 metri piani maschili?",
+    "correctAnswer": "Risposta corretta: Usain Bolt",
+    "wrongAnswer": [
+      "Risposte sbagliate: Yohan Blake, Noah Lyles, Andre De Grasse"
+    ]
+  },
+  {
+    "question": "Quale squadra di calcio \u00e8 soprannominata \"I Gunners\"?",
+    "correctAnswer": "Risposta corretta: Arsenal FC",
+    "wrongAnswer": [
+      "Risposte sbagliate: Manchester United, Chelsea FC, Liverpool FC"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo ciclista a vincere il Giro d'Italia e il Tour de France nello stesso anno dal 1998?",
+    "correctAnswer": "Risposta corretta: Chris Froome",
+    "wrongAnswer": [
+      "Risposte sbagliate: Alberto Contador, Vincenzo Nibali, Egan Bernal"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il record mondiale per il maggior numero di medaglie d'oro olimpiche vinte da un singolo atleta?",
+    "correctAnswer": "Risposta corretta: Michael Phelps",
+    "wrongAnswer": [
+      "Risposte sbagliate: Usain Bolt, Simone Biles, Jesse Owens"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo pilota di Formula 1 a vincere un Gran Premio?",
+    "correctAnswer": "Risposta corretta: Giuseppe Farina",
+    "wrongAnswer": [
+      "Risposte sbagliate: Juan Manuel Fangio, Alberto Ascari, Stirling Moss"
+    ]
+  },
+  {
+    "question": "Quale squadra di calcio ha vinto la Ligue 1 nel 2020-2021?",
+    "correctAnswer": "Risposta corretta: Lille OSC",
+    "wrongAnswer": [
+      "Risposte sbagliate: Paris Saint-Germain, AS Monaco, Olympique de Marseille"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo giocatore di baseball a essere eletto unanime nella National Baseball Hall of Fame?",
+    "correctAnswer": "Risposta corretta: Mariano Rivera",
+    "wrongAnswer": [
+      "Risposte sbagliate: Derek Jeter, Ken Griffey Jr., Cal Ripken Jr."
+    ]
+  },
+  {
+    "question": "In quale disciplina olimpica si gareggia nella categoria \"freestyle\"?",
+    "correctAnswer": "Risposta corretta: Sci freestyle",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pattinaggio di figura, Ginnastica ritmica, Scherma"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo pilota di Formula 1 a vincere cinque titoli mondiali consecutivi?",
+    "correctAnswer": "Risposta corretta: Juan Manuel Fangio",
+    "wrongAnswer": [
+      "Risposte sbagliate: Michael Schumacher, Lewis Hamilton, Ayrton Senna"
+    ]
+  },
+  {
+    "question": "Quale squadra di calcio ha vinto la Primeira Liga portoghese nel 2020-2021?",
+    "correctAnswer": "Risposta corretta: Sporting CP",
+    "wrongAnswer": [
+      "Risposte sbagliate: FC Porto, SL Benfica, SC Braga"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 l'attuale detentore del titolo di campione del mondo dei pesi massimi nel boxe femminile?",
+    "correctAnswer": "Risposta corretta: Claressa Shields",
+    "wrongAnswer": [
+      "Risposte sbagliate: Katie Taylor, Amanda Serrano, Cecilia Braekhus"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il club di calcio con il maggior numero di vittorie consecutive nella Premier League inglese?",
+    "correctAnswer": "Risposta corretta: Arsenal FC",
+    "wrongAnswer": [
+      "Risposte sbagliate: Manchester United, Chelsea FC, Liverpool FC"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo giocatore di basket a vincere il titolo NBA, l'Oscar e l'Emmy?",
+    "correctAnswer": "Risposta corretta: Kobe Bryant",
+    "wrongAnswer": [
+      "Risposte sbagliate: LeBron James, Michael Jordan, Magic Johnson"
+    ]
+  },
+  {
+    "question": "In quale disciplina olimpica si compete nella categoria \"C-1 1000 metri\"?",
+    "correctAnswer": "Risposta corretta: Canoa monoposto",
+    "wrongAnswer": [
+      "Risposte sbagliate: Nuoto sincronizzato, Ciclismo su pista, Sollevamento pesi"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo giocatore di calcio a vincere il Pallone d'Oro FIFA?",
+    "correctAnswer": "Risposta corretta: Stanley Matthews",
+    "wrongAnswer": [
+      "Risposte sbagliate: Pel\u00e9, Diego Maradona, Johan Cruyff"
+    ]
+  },
+  {
+    "question": "Quale squadra di calcio ha vinto la Eredivisie olandese nel 2020-2021?",
+    "correctAnswer": "Risposta corretta: Ajax",
+    "wrongAnswer": [
+      "Risposte sbagliate: PSV Eindhoven, Feyenoord, AZ Alkmaar"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 l'attuale detentore del record mondiale nei 110 metri ostacoli maschili?",
+    "correctAnswer": "Risposta corretta: Aries Merritt",
+    "wrongAnswer": [
+      "Risposte sbagliate: Grant Holloway, Omar McLeod, Colin Jackson"
+    ]
+  },
+  {
+    "question": "Quale golfista detiene il record di pi\u00f9 vittorie nella Ryder Cup?",
+    "correctAnswer": "Risposta corretta: Nick Faldo",
+    "wrongAnswer": [
+      "Risposte sbagliate: Tiger Woods, Phil Mickelson, Seve Ballesteros"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo giocatore di baseball a raggiungere 3.000 eliminazioni in carriera?",
+    "correctAnswer": "Risposta corretta: Cap Anson",
+    "wrongAnswer": [
+      "Risposte sbagliate: Babe Ruth, Hank Aaron, Willie Mays"
+    ]
+  },
+  {
+    "question": "In quale disciplina olimpica si compete nella categoria \"dressage\"?",
+    "correctAnswer": "Risposta corretta: Equitazione",
+    "wrongAnswer": [
+      "Risposte sbagliate: Ginnastica ritmica, Pattinaggio di figura, Salto con gli sci"
+    ]
+  },
+  {
+    "question": "Quale squadra di calcio ha vinto la J1 League giapponese nel 2020?",
+    "correctAnswer": "Risposta corretta: Kawasaki Frontale",
+    "wrongAnswer": [
+      "Risposte sbagliate: FC Tokyo, Yokohama F. Marinos, Urawa Red Diamonds"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 l'attuale detentore del titolo di campione del mondo dei pesi massimi nel pugilato femminile?",
+    "correctAnswer": "Risposta corretta: Katie Taylor",
+    "wrongAnswer": [
+      "Risposte sbagliate: Claressa Shields, Amanda Serrano, Cecilia Braekhus"
+    ]
+  },
+  {
+    "question": "Qual \u00e8 il record del mondo per il maggior numero di medaglie d'oro olimpiche vinte da un paese in una singola edizione?",
+    "correctAnswer": "Risposta corretta: Stati Uniti (1904)",
+    "wrongAnswer": [
+      "Risposte sbagliate: Cina (2008), Unione Sovietica (1980), Germania (1936)"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo giocatore di basket a vincere il titolo NBA e la medaglia d'oro olimpica nello stesso anno?",
+    "correctAnswer": "Risposta corretta: Michael Jordan",
+    "wrongAnswer": [
+      "Risposte sbagliate: LeBron James, Kobe Bryant, Magic Johnson"
+    ]
+  },
+  {
+    "question": "Quale squadra di calcio ha vinto la Copa del Rey spagnola nel 2020-2021?",
+    "correctAnswer": "Risposta corretta: FC Barcelona",
+    "wrongAnswer": [
+      "Risposte sbagliate: Real Madrid, Atletico Madrid, Sevilla FC"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 stato il primo golfista a vincere tutti e quattro i tornei major nello stesso anno?",
+    "correctAnswer": "Risposta corretta: Bobby Jones",
+    "wrongAnswer": [
+      "Risposte sbagliate: Tiger Woods, Jack Nicklaus, Arnold Palmer"
+    ]
+  },
+  {
+    "question": "In quale disciplina olimpica si compete nella categoria \"snipe\"?",
+    "correctAnswer": "Risposta corretta: Vela",
+    "wrongAnswer": [
+      "Risposte sbagliate: Tiro con l'arco, Canottaggio, Judo"
+    ]
+  },
+  {
+    "question": "Chi \u00e8 l'attuale detentore del titolo di campione mondiale dei pesi massimi nel wrestling?",
+    "correctAnswer": "- Risposta corretta: Bobby Lashley",
+    "wrongAnswer": [
+      "- Risposte sbagliate: Roman Reigns, Seth Rollins, Kenny Omega"
+    ]
+  }
+]

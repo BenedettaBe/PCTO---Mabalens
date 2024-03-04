@@ -1,0 +1,399 @@
+Quanto fa 5 + 7?
+Risposta corretta: 12
+Risposte sbagliate: 8, 15, 20
+
+Quale è il doppio di 9?
+Risposta corretta: 18
+Risposte sbagliate: 12, 15, 20
+
+Quanto fa 4 x 6?
+Risposta corretta: 24
+Risposte sbagliate: 16, 20, 30
+
+Quanto fa 9 - 3?
+Risposta corretta: 6
+Risposte sbagliate: 4, 8, 10
+
+Quale è la metà di 14?
+Risposta corretta: 7
+Risposte sbagliate: 5, 10, 12
+
+Quanto fa 3 al cubo?
+Risposta corretta: 27
+Risposte sbagliate: 9, 18, 36
+
+Quanto fa 8 diviso 2?
+Risposta corretta: 4
+Risposte sbagliate: 2, 6, 8
+
+Quale è il prodotto di 5 e 4?
+Risposta corretta: 20
+Risposte sbagliate: 15, 25, 30
+
+Quanto fa 7 + 9?
+Risposta corretta: 16
+Risposte sbagliate: 12, 18, 20
+
+Quanto fa 2 x 10?
+Risposta corretta: 20
+Risposte sbagliate: 15, 25, 30
+
+Quanto fa 6 - 3?
+Risposta corretta: 3
+Risposte sbagliate: 2, 5, 8
+
+Quanto fa 4 al quadrato?
+Risposta corretta: 16
+Risposte sbagliate: 8, 12, 20
+
+Quanto fa 5 diviso 1?
+Risposta corretta: 5
+Risposte sbagliate: 2, 3, 8
+
+Quanto fa 11 + 13?
+Risposta corretta: 24
+Risposte sbagliate: 18, 20, 30
+
+Quanto fa 9 x 3?
+Risposta corretta: 27
+Risposte sbagliate: 15, 18, 24
+
+Quanto fa 15 diviso 5?
+Risposta corretta: 3
+Risposte sbagliate: 5, 10, 15
+
+Quanto fa 2 + 4 + 6?
+Risposta corretta: 12
+Risposte sbagliate: 8, 10, 14
+
+Quanto fa 7 x 8?
+Risposta corretta: 56
+Risposte sbagliate: 40, 50, 60
+
+Quanto fa 12 - 7?
+Risposta corretta: 5
+Risposte sbagliate: 3, 8, 10
+
+Quanto fa 3 al quadrato?
+Risposta corretta: 9
+Risposte sbagliate: 6, 12, 15
+
+Quanto fa 6 diviso 2?
+Risposta corretta: 3
+Risposte sbagliate: 2, 4, 6
+
+Quanto fa 10 + 15?
+Risposta corretta: 25
+Risposte sbagliate: 18, 20, 30
+
+Quanto fa 5 x 5?
+Risposta corretta: 25
+Risposte sbagliate: 20, 30, 35
+
+Quanto fa 9 - 4?
+Risposta corretta: 5
+Risposte sbagliate: 3, 6, 8
+
+Quanto fa 7 al cubo?
+Risposta corretta: 343
+Risposte sbagliate: 49, 98, 196
+
+Quanto fa 8 diviso 4?
+Risposta corretta: 2
+Risposte sbagliate: 3, 4, 5
+
+Quanto fa 11 x 9?
+Risposta corretta: 99
+Risposte sbagliate: 88, 77, 66
+
+Quanto fa 6 + 8?
+Risposta corretta: 14
+Risposte sbagliate: 10, 12, 16
+
+Quanto fa 4 al cubo?
+Risposta corretta: 64
+Risposte sbagliate: 16, 32, 48
+
+Quanto fa 5 diviso 2?
+Risposta corretta: 2.5
+Risposte sbagliate: 1, 3, 4
+
+Quanto fa 3 + 7 + 2?
+Risposta corretta: 12
+Risposte sbagliate: 8, 10, 14
+
+Quanto fa 9 x 6?
+Risposta corretta: 54
+Risposte sbagliate: 45, 60, 72
+
+Quanto fa 8 - 2?
+Risposta corretta: 6
+Risposte sbagliate: 4, 8, 10
+
+Quanto fa 12 + 18?
+Risposta corretta: 30
+Risposte sbagliate: 25, 35, 40
+
+Quanto fa 7 x 7?
+Risposta corretta: 49
+Risposte sbagliate: 36, 42, 56
+
+Quanto fa 10 - 5?
+Risposta corretta: 5
+Risposte sbagliate: 3, 8, 10
+
+Quanto fa 6 al quadrato?
+Risposta corretta: 36
+Risposte sbagliate: 18, 24, 42
+
+Quanto fa 4 diviso 2?
+Risposta corretta: 2
+Risposte sbagliate: 3, 4, 5
+
+Quanto fa 11 + 5?
+Risposta corretta: 16
+Risposte sbagliate: 12, 18, 20
+
+Quanto fa 9 x 2?
+Risposta corretta: 18
+Risposte sbagliate: 15, 20, 25
+
+Quanto fa 7 - 1?
+Risposta corretta: 6
+Risposte sbagliate: 4, 8, 10
+
+Quanto fa 5 + 3 + 2?
+Risposta corretta: 10
+Risposte sbagliate: 8, 12, 15
+
+Quanto fa 6 x 9?
+Risposta corretta: 54
+Risposte sbagliate: 45, 60, 72
+
+Quanto fa 12 - 6?
+Risposta corretta: 6
+Risposte sbagliate: 4, 8, 10
+
+Quanto fa 8 diviso 2?
+Risposta corretta: 4
+Risposte sbagliate: 2, 6, 8
+
+Quanto fa 10 x 10?
+Risposta corretta: 100
+Risposte sbagliate: 80, 90, 120
+
+Quanto fa 3 al cubo?
+Risposta corretta: 27
+Risposte sbagliate: 9, 18, 36
+
+Quanto fa 7 + 6?
+Risposta corretta: 13
+Risposte sbagliate: 10, 15, 20
+
+Quanto fa 4 x 8?
+Risposta corretta: 32
+Risposte sbagliate: 24, 40, 48
+
+Quanto fa 9 diviso 3?
+Risposta corretta: 3
+Risposte sbagliate: 2, 4, 6
+
+Quanto fa 5 + 6 + 3?
+Risposta corretta: 14
+Risposte sbagliate: 12, 18, 20
+
+Quanto fa 11 x 7?
+Risposta corretta: 77
+Risposte sbagliate: 66, 88, 99
+
+Quanto fa 8 - 3?
+Risposta corretta: 5
+Risposte sbagliate: 3, 6, 8
+
+Quanto fa 6 + 4?
+Risposta corretta: 10
+Risposte sbagliate: 8, 12, 15
+
+Quanto fa 9 x 4?
+Risposta corretta: 36
+Risposte sbagliate: 27, 45, 54
+
+Quanto fa 7 diviso 7?
+Risposta corretta: 1
+Risposte sbagliate: 2, 3, 4
+
+Quanto fa 12 + 15?
+Risposta corretta: 27
+Risposte sbagliate: 20, 30, 35
+
+Quanto fa 5 al quadrato?
+Risposta corretta: 25
+Risposte sbagliate: 15, 20, 30
+
+Quanto fa 8 diviso 4?
+Risposta corretta: 2
+Risposte sbagliate: 3, 4, 5
+
+Quanto fa 6 x 7?
+Risposta corretta: 42
+Risposte sbagliate: 30, 50, 60
+
+Quanto fa 10 - 2?
+Risposta corretta: 8
+Risposte sbagliate: 6, 10, 12
+
+Quanto fa 3 + 8?
+Risposta corretta: 11
+Risposte sbagliate: 10, 12, 15
+
+Quanto fa 9 x 5?
+Risposta corretta: 45
+Risposte sbagliate: 36, 54, 63
+
+Quanto fa 7 - 2?
+Risposta corretta: 5
+Risposte sbagliate: 3, 6, 8
+
+Quanto fa 4 al cubo?
+Risposta corretta: 64
+Risposte sbagliate: 16, 32, 48
+
+Quanto fa 6 diviso 3?
+Risposta corretta: 2
+Risposte sbagliate: 3, 4, 5
+
+Quanto fa 11 + 8?
+Risposta corretta: 19
+Risposte sbagliate: 15, 20, 25
+
+Quanto fa 5 x 8?
+Risposta corretta: 40
+Risposte sbagliate: 30, 50, 60
+
+Quanto fa 12 diviso 3?
+Risposta corretta: 4
+Risposte sbagliate: 3, 5, 6
+
+Quanto fa 9 + 7?
+Risposta corretta: 16
+Risposte sbagliate: 12, 18, 20
+
+Quanto fa 2 al quadrato?
+Risposta corretta: 4
+Risposte sbagliate: 6, 8, 10
+
+Quanto fa 7 x 6?
+Risposta corretta: 42
+Risposte sbagliate: 30, 50, 60
+
+Quanto fa 10 + 11?
+Risposta corretta: 21
+Risposte sbagliate: 18, 25, 30
+
+Quanto fa 3 x 5?
+Risposta corretta: 15
+Risposte sbagliate: 10, 12, 18
+
+Quanto fa 6 - 1?
+Risposta corretta: 5
+Risposte sbagliate: 3, 8, 10
+
+Quanto fa 8 diviso 1?
+Risposta corretta: 8
+Risposte sbagliate: 4, 6, 10
+
+Quanto fa 13 + 14?
+Risposta corretta: 27
+Risposte sbagliate: 20, 30, 35
+
+Quanto fa 9 x 7?
+Risposta corretta: 63
+Risposte sbagliate: 54, 70, 80
+
+Quanto fa 4 al quadrato?
+Risposta corretta: 16
+Risposte sbagliate: 8, 12, 20
+
+Quanto fa 6 diviso 2?
+Risposta corretta: 3
+Risposte sbagliate: 2, 4, 6
+
+Quanto fa 11 - 5?
+Risposta corretta: 6
+Risposte sbagliate: 4, 8, 10
+
+Quanto fa 5 + 9?
+Risposta corretta: 14
+Risposte sbagliate: 12, 18, 20
+
+Quanto fa 7 x 5?
+Risposta corretta: 35
+Risposte sbagliate: 25, 40, 50
+
+Quanto fa 8 - 4?
+Risposta corretta: 4
+Risposte sbagliate: 2, 6, 8
+
+Quanto fa 3 al cubo?
+Risposta corretta: 27
+Risposte sbagliate: 9, 18, 36
+
+Quanto fa 10 diviso 2?
+Risposta corretta: 5
+Risposte sbagliate: 3, 4, 6
+
+Quanto fa 6 + 7 + 8?
+Risposta corretta: 21
+Risposte sbagliate: 18, 25, 30
+
+Quanto fa 4 x 7?
+Risposta corretta: 28
+Risposte sbagliate: 20, 35, 40
+
+Quanto fa 9 - 1?
+Risposta corretta: 8
+Risposte sbagliate: 6, 10, 12
+
+Quanto fa 5 diviso 5?
+Risposta corretta: 1
+Risposte sbagliate: 2, 3, 4
+
+Quanto fa 11 + 6?
+Risposta corretta: 17
+Risposte sbagliate: 15, 20, 25
+
+Quanto fa 8 x 6?
+Risposta corretta: 48
+Risposte sbagliate: 36, 42, 54
+
+Quanto fa 3 - 1?
+Risposta corretta: 2
+Risposte sbagliate: 4, 6, 8
+
+Quanto fa 7 + 3?
+Risposta corretta: 10
+Risposte sbagliate: 8, 12, 15
+
+Quanto fa 12 x 4?
+Risposta corretta: 48
+Risposte sbagliate: 36, 40, 54
+
+Quanto fa 9 + 6?
+Risposta corretta: 15
+Risposte sbagliate: 12, 18, 20
+
+Quanto fa 2 diviso 2?
+Risposta corretta: 1
+Risposte sbagliate: 0, 3, 4
+
+Quanto fa 5 - 2?
+Risposta corretta: 3
+Risposte sbagliate: 1, 4, 6
+
+Quanto fa 8 + 5?
+Risposta corretta: 13
+Risposte sbagliate: 10, 15, 20
+
+Quanto fa 6 x 8?
+Risposta corretta: 48
+Risposte sbagliate: 36, 42, 54
