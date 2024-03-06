@@ -2,7 +2,7 @@
 #### In this repository there are all the files for the PCTO activity of MABALENS team, visit the site https://benedettabe.github.io/home.html to learn more
 
 ## Requirements
-The game requires a pc and Microsoft Hololens 2
+The game requires a PC with Windows 10 or more and Microsoft Hololens 2
 
 ## What is MABAQUIZ?
 MABAQUIZ is a quiz on a chosen topic and diffculty, selected in the menu.
