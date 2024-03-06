@@ -26,12 +26,12 @@ With the arm the user will have to select the answer that he considers correct t
 * click on 'import', then 'Approve', the unity project will be updated.
 * Go back on unity hub and double click on your project to open it
 * when the project is open click on 'Edit' then on 'Project settings'
-  * go on MRTK3, click on the arrow of profile and select MRTKProfile
-  * go on XR Plug-in Management then select the Windows icon and flag the 'OpenXR' and 'Microsot Hololens feature group'
-    * go on 'OpenXR'(in XR Plug-in Management) click on '+' under 'Enable Interaction Profile' and select 'Microsoft hand interaction profile' and 'Eye Gaze interaction profile'
-      * under 'OpenXR Feature Groups' flag 'Microsoft Hololens'
-      * click on All Features and flag 'hand tracking' and 'motion controller model'
-    * go on 'Project Validation' then click on 'fix all'
+* go on MRTK3, click on the arrow of profile and select MRTKProfile
+* go on XR Plug-in Management then select the Windows icon and flag the 'OpenXR' and 'Microsot Hololens feature group'
+* go on 'OpenXR'(in XR Plug-in Management) click on '+' under 'Enable Interaction Profile' and select 'Microsoft hand interaction profile' and 'Eye Gaze interaction profile'
+* under 'OpenXR Feature Groups' flag 'Microsoft Hololens'
+* click on All Features and flag 'hand tracking' and 'motion controller model'
+* go on 'Project Validation' then click on 'fix all'
 * close Project settings page and click on 'File', then 'build settings'
 * select 'Universal Windows Platform' in the platform list
 * switch the 'Architecture' to 'ARM 64-bit'
